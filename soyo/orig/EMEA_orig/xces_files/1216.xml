@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/trazec/159401en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/trazec/159401de2.xml.gz">
+	<link certainty="-0.3" xtargets="s1.1 s2.1 s3.1 s4.1 s5.1 s6.1;" id="SL1"></link>
+	<link certainty="-0.010619" xtargets="s7.1 s8.1;s1.1" id="SL2"></link>
+	<link certainty="3.07294" xtargets="s9.1;s2.1" id="SL4"></link>
+	<link certainty="4.13716" xtargets="s10.1;s3.1" id="SL6"></link>
+	<link certainty="2.95836" xtargets="s11.1;s4.1" id="SL8"></link>
+	<link certainty="1.62405" xtargets="s12.1;s5.1" id="SL10"></link>
+	<link certainty="3.24334" xtargets="s13.1;s6.1" id="SL12"></link>
+	<link certainty="4.13371" xtargets="s14.1;s7.1" id="SL14"></link>
+	<link certainty="0.6" xtargets="s15.1;s8.1" id="SL16"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/trazec/159401en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/trazec/159401de2.xml.gz">
+	<link certainty="-0.3" xtargets="s1.1 s2.1 s3.1 s4.1 s5.1 s6.1;" id="SL1"></link>
+	<link certainty="-0.010619" xtargets="s7.1 s8.1;s1.1" id="SL2"></link>
+	<link certainty="3.07294" xtargets="s9.1;s2.1" id="SL4"></link>
+	<link certainty="4.13716" xtargets="s10.1;s3.1" id="SL6"></link>
+	<link certainty="2.95836" xtargets="s11.1;s4.1" id="SL8"></link>
+	<link certainty="1.62405" xtargets="s12.1;s5.1" id="SL10"></link>
+	<link certainty="3.24334" xtargets="s13.1;s6.1" id="SL12"></link>
+	<link certainty="4.13371" xtargets="s14.1;s7.1" id="SL14"></link>
+	<link certainty="0.6" xtargets="s15.1;s8.1" id="SL16"></link>
+</linkGrp>

@@ -32,42 +32,20 @@ def xml2dict(xml_path):
     return orig_align_dict
 
 
-# def split_dict2xml(orig_align_dict):
-    # iterate all the dict and split based on their docs
-    # then I will need a function to write this dict(or maybe array) to xml file :D
-    # the xml files will have numbers(from 0 till ..) this is just for make it easy for me
-    # then finally, I will have splited alignment info xml files.
-    # OPUS tool will read this file and clean up/ make the ready datasets
+def split_dict2xml(xml_path):
+    with open(xml_path) as fd:
+        orig_align_dict = xmltodict.parse(fd.read(), process_namespaces=True)
 
+    document_num = 0  # the splitted xces files will be counted from 0.
+
+    for document in orig_align_dict['cesAlign']['linkGrp']:
+        document = {'linkGrp': document}
+        out = xmltodict.unparse(document, pretty=True)
+        with open("orig/EMEA_orig/xces_files/" + str(document_num) + ".xml", 'a') as file:
+            file.write(out)
+        document_num += 1
 
 
 xml_path = "orig/EMEA_orig/de-en.xml"
-with open(xml_path) as fd:
-    orig_align_dict = xmltodict.parse(fd.read(), process_namespaces=True)
-print(orig_align_dict['cesAlign']['linkGrp'][1])    # just check how it looks like
-example = orig_align_dict['cesAlign']['linkGrp'][0]
 
-
-# make a 'root' to the splitted xml files - because it complains that there is no 'root'.
-example = {'linkGrp': example}
-out = xmltodict.unparse(example, pretty=True)
-with open("orig/EMEA_xml/xces_files/example.xml", 'a') as file:
-    file.write(out)
-
-
-#
-# for file in orig_align_dict['cesAlign']['linkGrp']:
-#     print('=================================================== /n')
-#     print(file)
-#
-# ########################################3
-# xml = open(path, "r")
-# org_xml = xml.read()
-# dict_xml = xmltodict.parse(org_xml, process_namespaces=True)
-#
-# out = xmltodict.unparse(dict_xml, pretty=True)
-# with open("path/new.qml", 'a') as file:
-#     file.write(out.encode('utf-8'))
-
-# xmlfile_dict = xmltodict.parse(xml_path)
-# print(xmlfile_dict)
+split_dict2xml(xml_path)

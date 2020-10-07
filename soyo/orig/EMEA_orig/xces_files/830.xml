@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/opgenra/H-819-Annex_IV-en.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/opgenra/H-819-Annex_IV-de.xml.gz">
+	<link certainty="0.25" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.246429" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="0.238393" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="0.49965" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="0.448183" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="0.750146" xtargets="s6.1;s6.1" id="SL12"></link>
+	<link certainty="0.52" xtargets="s7.1;s7.1" id="SL14"></link>
+	<link certainty="1.03714" xtargets="s8.1;s8.1" id="SL16"></link>
+	<link certainty="0.485714" xtargets=";s9.1 s9.2" id="SL17"></link>
+	<link certainty="0.785714" xtargets="s9.1;s10.1" id="SL18"></link>
+	<link certainty="0.358946" xtargets="s10.1;s11.1" id="SL20"></link>
+	<link certainty="-0.6" xtargets="s11.1;s12.1" id="SL22"></link>
+	<link certainty="0.0322581" xtargets="s12.1;s13.1" id="SL24"></link>
+	<link certainty="0.6" xtargets="s13.1;s14.1" id="SL26"></link>
+	<link certainty="0.116" xtargets="s14.1;" id="SL28"></link>
+	<link certainty="0.416" xtargets="s14.2;s15.1" id="SL29"></link>
+	<link certainty="0.864286" xtargets="s15.1;s16.1" id="SL31"></link>
+	<link certainty="0.528571" xtargets="s16.1;s17.1" id="SL33"></link>
+	<link certainty="-0.6" xtargets="s17.1;s18.1" id="SL35"></link>
+	<link certainty="0.45" xtargets="s18.1;s19.1" id="SL37"></link>
+	<link certainty="-0.221739" xtargets="s19.1;s20.1" id="SL39"></link>
+	<link certainty="0.276471" xtargets="s20.1;s21.1" id="SL41"></link>
+	<link certainty="-0.6" xtargets="s21.1;s22.1" id="SL43"></link>
+	<link certainty="0.831818" xtargets="s22.1;s23.1" id="SL45"></link>
+	<link certainty="0" xtargets="s23.1;" id="SL46"></link>
+	<link certainty="0.6" xtargets="s24.1;s24.1" id="SL47"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/opgenra/H-819-Annex_IV-en.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/opgenra/H-819-Annex_IV-de.xml.gz">
+	<link certainty="0.25" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.246429" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="0.238393" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="0.49965" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="0.448183" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="0.750146" xtargets="s6.1;s6.1" id="SL12"></link>
+	<link certainty="0.52" xtargets="s7.1;s7.1" id="SL14"></link>
+	<link certainty="1.03714" xtargets="s8.1;s8.1" id="SL16"></link>
+	<link certainty="0.485714" xtargets=";s9.1 s9.2" id="SL17"></link>
+	<link certainty="0.785714" xtargets="s9.1;s10.1" id="SL18"></link>
+	<link certainty="0.358946" xtargets="s10.1;s11.1" id="SL20"></link>
+	<link certainty="-0.6" xtargets="s11.1;s12.1" id="SL22"></link>
+	<link certainty="0.0322581" xtargets="s12.1;s13.1" id="SL24"></link>
+	<link certainty="0.6" xtargets="s13.1;s14.1" id="SL26"></link>
+	<link certainty="0.116" xtargets="s14.1;" id="SL28"></link>
+	<link certainty="0.416" xtargets="s14.2;s15.1" id="SL29"></link>
+	<link certainty="0.864286" xtargets="s15.1;s16.1" id="SL31"></link>
+	<link certainty="0.528571" xtargets="s16.1;s17.1" id="SL33"></link>
+	<link certainty="-0.6" xtargets="s17.1;s18.1" id="SL35"></link>
+	<link certainty="0.45" xtargets="s18.1;s19.1" id="SL37"></link>
+	<link certainty="-0.221739" xtargets="s19.1;s20.1" id="SL39"></link>
+	<link certainty="0.276471" xtargets="s20.1;s21.1" id="SL41"></link>
+	<link certainty="-0.6" xtargets="s21.1;s22.1" id="SL43"></link>
+	<link certainty="0.831818" xtargets="s22.1;s23.1" id="SL45"></link>
+	<link certainty="0" xtargets="s23.1;" id="SL46"></link>
+	<link certainty="0.6" xtargets="s24.1;s24.1" id="SL47"></link>
+</linkGrp>

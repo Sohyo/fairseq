@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/celecoxibnew/Celecoxiben.xml.gz" fromDoc="de/pdfs/human/referral/celecoxibnew/Celecoxibde.xml.gz">
+	<link certainty="2.55" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.383824" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="1.6875" xtargets="s3.1;" id="SL5"></link>
+	<link certainty="1.9875" xtargets="s4.1;s3.1" id="SL6"></link>
+	<link certainty="3.72429" xtargets="s5.1;s4.1" id="SL8"></link>
+	<link certainty="1.8" xtargets="s5.2;s4.2" id="SL9"></link>
+	<link certainty="0.286364" xtargets="s6.1;s5.1" id="SL11"></link>
+	<link certainty="1.275706" xtargets="s7.1;s6.1" id="SL13"></link>
+	<link certainty="0.543888" xtargets="s7.2;s6.2" id="SL14"></link>
+	<link certainty="2.243681" xtargets="s8.1;s7.1" id="SL16"></link>
+	<link certainty="0.383651" xtargets="s8.2 s8.3;s7.2" id="SL17"></link>
+	<link certainty="0.918525" xtargets="s9.1 s9.2;s8.1" id="SL19"></link>
+	<link certainty="0.62695" xtargets="s9.3;s8.2" id="SL20"></link>
+	<link certainty="0.52782" xtargets="s10.1 s10.2;s9.1" id="SL22"></link>
+	<link certainty="1.560712" xtargets="s11.1 s11.2;s10.1" id="SL24"></link>
+	<link certainty="0.734335" xtargets="s11.3;s10.2" id="SL25"></link>
+	<link certainty="0.407248" xtargets="s12.1 s12.2;s11.1" id="SL27"></link>
+	<link certainty="0.408985" xtargets="s13.1 s13.2;s12.1" id="SL29"></link>
+	<link certainty="0.0693277" xtargets="s13.3;s13.1 s13.2" id="SL30"></link>
+	<link certainty="2.6909444" xtargets="s14.1;s14.1" id="SL32"></link>
+	<link certainty="0.0269444" xtargets="s14.2 s14.3 s14.4 s14.5 s14.6 s14.7 s14.8 s14.9;s14.2" id="SL33"></link>
+	<link certainty="-0.146809" xtargets="s15.1;s15.1" id="SL35"></link>
+	<link certainty="0.328485" xtargets="s15.2 s16.1 s16.2;s15.2" id="SL36"></link>
+	<link certainty="2.59625" xtargets="s17.1;s16.1" id="SL38"></link>
+	<link certainty="1.3875" xtargets="s17.2;" id="SL39"></link>
+	<link certainty="2.581225" xtargets="s18.1;s17.1" id="SL40"></link>
+	<link certainty="1.390403" xtargets="s18.2 s18.3;s17.2" id="SL41"></link>
+	<link certainty="0.496678" xtargets="s18.4;s17.3" id="SL42"></link>
+	<link certainty="2.4" xtargets="s19.1;s18.1" id="SL44"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/celecoxibnew/Celecoxiben.xml.gz" fromDoc="de/pdfs/human/referral/celecoxibnew/Celecoxibde.xml.gz">
+	<link certainty="2.55" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.383824" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="1.6875" xtargets="s3.1;" id="SL5"></link>
+	<link certainty="1.9875" xtargets="s4.1;s3.1" id="SL6"></link>
+	<link certainty="3.72429" xtargets="s5.1;s4.1" id="SL8"></link>
+	<link certainty="1.8" xtargets="s5.2;s4.2" id="SL9"></link>
+	<link certainty="0.286364" xtargets="s6.1;s5.1" id="SL11"></link>
+	<link certainty="1.275706" xtargets="s7.1;s6.1" id="SL13"></link>
+	<link certainty="0.543888" xtargets="s7.2;s6.2" id="SL14"></link>
+	<link certainty="2.243681" xtargets="s8.1;s7.1" id="SL16"></link>
+	<link certainty="0.383651" xtargets="s8.2 s8.3;s7.2" id="SL17"></link>
+	<link certainty="0.918525" xtargets="s9.1 s9.2;s8.1" id="SL19"></link>
+	<link certainty="0.62695" xtargets="s9.3;s8.2" id="SL20"></link>
+	<link certainty="0.52782" xtargets="s10.1 s10.2;s9.1" id="SL22"></link>
+	<link certainty="1.560712" xtargets="s11.1 s11.2;s10.1" id="SL24"></link>
+	<link certainty="0.734335" xtargets="s11.3;s10.2" id="SL25"></link>
+	<link certainty="0.407248" xtargets="s12.1 s12.2;s11.1" id="SL27"></link>
+	<link certainty="0.408985" xtargets="s13.1 s13.2;s12.1" id="SL29"></link>
+	<link certainty="0.0693277" xtargets="s13.3;s13.1 s13.2" id="SL30"></link>
+	<link certainty="2.6909444" xtargets="s14.1;s14.1" id="SL32"></link>
+	<link certainty="0.0269444" xtargets="s14.2 s14.3 s14.4 s14.5 s14.6 s14.7 s14.8 s14.9;s14.2" id="SL33"></link>
+	<link certainty="-0.146809" xtargets="s15.1;s15.1" id="SL35"></link>
+	<link certainty="0.328485" xtargets="s15.2 s16.1 s16.2;s15.2" id="SL36"></link>
+	<link certainty="2.59625" xtargets="s17.1;s16.1" id="SL38"></link>
+	<link certainty="1.3875" xtargets="s17.2;" id="SL39"></link>
+	<link certainty="2.581225" xtargets="s18.1;s17.1" id="SL40"></link>
+	<link certainty="1.390403" xtargets="s18.2 s18.3;s17.2" id="SL41"></link>
+	<link certainty="0.496678" xtargets="s18.4;s17.3" id="SL42"></link>
+	<link certainty="2.4" xtargets="s19.1;s18.1" id="SL44"></link>
+</linkGrp>

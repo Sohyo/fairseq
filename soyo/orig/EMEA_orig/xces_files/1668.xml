@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/vet/referral/Sodium_salicylate/Background_Info-V-A-35-029-en.xml.gz" fromDoc="de/pdfs/vet/referral/Sodium_salicylate/Background_Info-V-A-35-029-de.xml.gz">
+	<link certainty="2.925" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="2.3" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="2.61352" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="0.259091" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="0.261808" xtargets="s5.1 s5.2;s5.1" id="SL10"></link>
+	<link certainty="0.867917" xtargets="s6.1;s6.1" id="SL12"></link>
+	<link certainty="0.294034" xtargets="s6.2;s6.2" id="SL13"></link>
+	<link certainty="1.417667" xtargets="s7.1 s7.2;s7.1" id="SL15"></link>
+	<link certainty="0.91481" xtargets="s7.3 s7.4;s7.2" id="SL16"></link>
+	<link certainty="0.504939" xtargets="s7.5;" id="SL17"></link>
+	<link certainty="1.55609" xtargets="s8.1;s8.1" id="SL18"></link>
+	<link certainty="0.751151" xtargets="s8.2;s8.2" id="SL19"></link>
+	<link certainty="0.65" xtargets="s9.1;" id="SL21"></link>
+	<link certainty="1.055672" xtargets="s9.2 s9.3 s9.4;s9.1" id="SL22"></link>
+	<link certainty="0.386922" xtargets="s9.5 s9.6;s9.2" id="SL23"></link>
+	<link certainty="0.28125" xtargets="s9.7 s9.8;s9.3" id="SL24"></link>
+	<link certainty="0.468744" xtargets="s10.1;s10.1" id="SL26"></link>
+	<link certainty="1.11389" xtargets="s11.1;s11.1 s11.2" id="SL28"></link>
+	<link certainty="8.95" xtargets="s11.2;s12.1 s13.1" id="SL29"></link>
+	<link certainty="4.35" xtargets="s11.3;s13.2" id="SL30"></link>
+	<link certainty="3.191516" xtargets="s12.1;s14.1" id="SL32"></link>
+	<link certainty="0.748656" xtargets="s12.2 s12.3;s14.2" id="SL33"></link>
+	<link certainty="0.414286" xtargets="s13.1 s13.2;" id="SL34"></link>
+	<link certainty="0.714286" xtargets="s14.1;s15.1" id="SL35"></link>
+	<link certainty="9.3" xtargets="s15.1;s16.1" id="SL37"></link>
+	<link certainty="1.15714" xtargets="s16.1;s17.1" id="SL39"></link>
+	<link certainty="0.142174" xtargets="s17.1 s17.2;s18.1" id="SL41"></link>
+	<link certainty="4.26897" xtargets="s18.1;s19.1" id="SL43"></link>
+	<link certainty="1.15714" xtargets="s19.1;s20.1" id="SL45"></link>
+	<link certainty="0.0922481" xtargets="s20.1 s20.2 s20.3;s21.1" id="SL47"></link>
+	<link certainty="2.21418" xtargets="s21.1;s22.1" id="SL49"></link>
+	<link certainty="1.11418" xtargets="s21.2;s22.2" id="SL50"></link>
+	<link certainty="7.8" xtargets="s22.1;s23.1" id="SL52"></link>
+	<link certainty="1.15714" xtargets="s23.1;s24.1" id="SL54"></link>
+	<link certainty="0.0922481" xtargets="s24.1 s24.2 s24.3;s25.1" id="SL56"></link>
+	<link certainty="2.21418" xtargets="s25.1;s26.1" id="SL58"></link>
+	<link certainty="1.11418" xtargets="s25.2;s26.2" id="SL59"></link>
+	<link certainty="3.58754" xtargets="s26.1;s27.1" id="SL61"></link>
+	<link certainty="1.15714" xtargets="s27.1;s28.1" id="SL63"></link>
+	<link certainty="0.0922481" xtargets="s28.1 s28.2 s28.3;s29.1" id="SL65"></link>
+	<link certainty="2.21418" xtargets="s29.1;s30.1" id="SL67"></link>
+	<link certainty="1.11418" xtargets="s29.2;s30.2" id="SL68"></link>
+	<link certainty="0.39227" xtargets="s30.1;s31.1" id="SL70"></link>
+	<link certainty="1.3125" xtargets="s31.1;s32.1" id="SL72"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/vet/referral/Sodium_salicylate/Background_Info-V-A-35-029-en.xml.gz" fromDoc="de/pdfs/vet/referral/Sodium_salicylate/Background_Info-V-A-35-029-de.xml.gz">
+	<link certainty="2.925" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="2.3" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="2.61352" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="0.259091" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="0.261808" xtargets="s5.1 s5.2;s5.1" id="SL10"></link>
+	<link certainty="0.867917" xtargets="s6.1;s6.1" id="SL12"></link>
+	<link certainty="0.294034" xtargets="s6.2;s6.2" id="SL13"></link>
+	<link certainty="1.417667" xtargets="s7.1 s7.2;s7.1" id="SL15"></link>
+	<link certainty="0.91481" xtargets="s7.3 s7.4;s7.2" id="SL16"></link>
+	<link certainty="0.504939" xtargets="s7.5;" id="SL17"></link>
+	<link certainty="1.55609" xtargets="s8.1;s8.1" id="SL18"></link>
+	<link certainty="0.751151" xtargets="s8.2;s8.2" id="SL19"></link>
+	<link certainty="0.65" xtargets="s9.1;" id="SL21"></link>
+	<link certainty="1.055672" xtargets="s9.2 s9.3 s9.4;s9.1" id="SL22"></link>
+	<link certainty="0.386922" xtargets="s9.5 s9.6;s9.2" id="SL23"></link>
+	<link certainty="0.28125" xtargets="s9.7 s9.8;s9.3" id="SL24"></link>
+	<link certainty="0.468744" xtargets="s10.1;s10.1" id="SL26"></link>
+	<link certainty="1.11389" xtargets="s11.1;s11.1 s11.2" id="SL28"></link>
+	<link certainty="8.95" xtargets="s11.2;s12.1 s13.1" id="SL29"></link>
+	<link certainty="4.35" xtargets="s11.3;s13.2" id="SL30"></link>
+	<link certainty="3.191516" xtargets="s12.1;s14.1" id="SL32"></link>
+	<link certainty="0.748656" xtargets="s12.2 s12.3;s14.2" id="SL33"></link>
+	<link certainty="0.414286" xtargets="s13.1 s13.2;" id="SL34"></link>
+	<link certainty="0.714286" xtargets="s14.1;s15.1" id="SL35"></link>
+	<link certainty="9.3" xtargets="s15.1;s16.1" id="SL37"></link>
+	<link certainty="1.15714" xtargets="s16.1;s17.1" id="SL39"></link>
+	<link certainty="0.142174" xtargets="s17.1 s17.2;s18.1" id="SL41"></link>
+	<link certainty="4.26897" xtargets="s18.1;s19.1" id="SL43"></link>
+	<link certainty="1.15714" xtargets="s19.1;s20.1" id="SL45"></link>
+	<link certainty="0.0922481" xtargets="s20.1 s20.2 s20.3;s21.1" id="SL47"></link>
+	<link certainty="2.21418" xtargets="s21.1;s22.1" id="SL49"></link>
+	<link certainty="1.11418" xtargets="s21.2;s22.2" id="SL50"></link>
+	<link certainty="7.8" xtargets="s22.1;s23.1" id="SL52"></link>
+	<link certainty="1.15714" xtargets="s23.1;s24.1" id="SL54"></link>
+	<link certainty="0.0922481" xtargets="s24.1 s24.2 s24.3;s25.1" id="SL56"></link>
+	<link certainty="2.21418" xtargets="s25.1;s26.1" id="SL58"></link>
+	<link certainty="1.11418" xtargets="s25.2;s26.2" id="SL59"></link>
+	<link certainty="3.58754" xtargets="s26.1;s27.1" id="SL61"></link>
+	<link certainty="1.15714" xtargets="s27.1;s28.1" id="SL63"></link>
+	<link certainty="0.0922481" xtargets="s28.1 s28.2 s28.3;s29.1" id="SL65"></link>
+	<link certainty="2.21418" xtargets="s29.1;s30.1" id="SL67"></link>
+	<link certainty="1.11418" xtargets="s29.2;s30.2" id="SL68"></link>
+	<link certainty="0.39227" xtargets="s30.1;s31.1" id="SL70"></link>
+	<link certainty="1.3125" xtargets="s31.1;s32.1" id="SL72"></link>
+</linkGrp>

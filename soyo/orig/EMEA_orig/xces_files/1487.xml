@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/Ciprofloxacin/7506607en.xml.gz" fromDoc="de/pdfs/human/referral/Ciprofloxacin/7506607de.xml.gz">
+	<link certainty="3" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="1.36364" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="0.113793" xtargets="s2.2;s3.1" id="SL5"></link>
+	<link certainty="0.461538" xtargets=";s4.1" id="SL6"></link>
+	<link certainty="2.561538" xtargets="s3.1;s5.1" id="SL7"></link>
+	<link certainty="1.8" xtargets="s3.2;s5.2" id="SL8"></link>
+	<link certainty="0.259091" xtargets="s4.1;s6.1" id="SL10"></link>
+	<link certainty="1.61807" xtargets="s5.1;s7.1" id="SL12"></link>
+	<link certainty="4.225108" xtargets="s6.1 s6.2;s8.1" id="SL14"></link>
+	<link certainty="4.177835" xtargets="s6.3;s8.2" id="SL15"></link>
+	<link certainty="0.2740959" xtargets="s6.4 s6.5;s8.3" id="SL16"></link>
+	<link certainty="1.0043509" xtargets="s6.6 s6.7;s8.4" id="SL17"></link>
+	<link certainty="1.479243" xtargets="s6.8;s8.5" id="SL18"></link>
+	<link certainty="1.722383" xtargets="s6.9;s8.6" id="SL19"></link>
+	<link certainty="1.26923" xtargets="s6.10;s8.7" id="SL20"></link>
+	<link certainty="0.572361" xtargets="s7.1 s7.2;s9.1" id="SL22"></link>
+	<link certainty="1.743461" xtargets="s7.3 s7.4 s7.5;s9.2" id="SL23"></link>
+	<link certainty="1.57411" xtargets="s7.6 s7.7;s9.3" id="SL24"></link>
+	<link certainty="4.57609" xtargets="s8.1;s10.1" id="SL26"></link>
+	<link certainty="3.525" xtargets="s8.2 s8.3;s10.2" id="SL27"></link>
+	<link certainty="1.62522" xtargets="s9.1;s11.1" id="SL29"></link>
+	<link certainty="1.03122" xtargets="s9.2;s11.2" id="SL30"></link>
+	<link certainty="3.48333" xtargets="s10.1;s12.1" id="SL32"></link>
+	<link certainty="3.88043" xtargets="s10.2;" id="SL33"></link>
+	<link certainty="9.08043" xtargets="s10.3;s13.1" id="SL34"></link>
+	<link certainty="8.42212" xtargets="s10.4;s13.2" id="SL35"></link>
+	<link certainty="3.82212" xtargets="s10.5;s13.3" id="SL36"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/Ciprofloxacin/7506607en.xml.gz" fromDoc="de/pdfs/human/referral/Ciprofloxacin/7506607de.xml.gz">
+	<link certainty="3" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="1.36364" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="0.113793" xtargets="s2.2;s3.1" id="SL5"></link>
+	<link certainty="0.461538" xtargets=";s4.1" id="SL6"></link>
+	<link certainty="2.561538" xtargets="s3.1;s5.1" id="SL7"></link>
+	<link certainty="1.8" xtargets="s3.2;s5.2" id="SL8"></link>
+	<link certainty="0.259091" xtargets="s4.1;s6.1" id="SL10"></link>
+	<link certainty="1.61807" xtargets="s5.1;s7.1" id="SL12"></link>
+	<link certainty="4.225108" xtargets="s6.1 s6.2;s8.1" id="SL14"></link>
+	<link certainty="4.177835" xtargets="s6.3;s8.2" id="SL15"></link>
+	<link certainty="0.2740959" xtargets="s6.4 s6.5;s8.3" id="SL16"></link>
+	<link certainty="1.0043509" xtargets="s6.6 s6.7;s8.4" id="SL17"></link>
+	<link certainty="1.479243" xtargets="s6.8;s8.5" id="SL18"></link>
+	<link certainty="1.722383" xtargets="s6.9;s8.6" id="SL19"></link>
+	<link certainty="1.26923" xtargets="s6.10;s8.7" id="SL20"></link>
+	<link certainty="0.572361" xtargets="s7.1 s7.2;s9.1" id="SL22"></link>
+	<link certainty="1.743461" xtargets="s7.3 s7.4 s7.5;s9.2" id="SL23"></link>
+	<link certainty="1.57411" xtargets="s7.6 s7.7;s9.3" id="SL24"></link>
+	<link certainty="4.57609" xtargets="s8.1;s10.1" id="SL26"></link>
+	<link certainty="3.525" xtargets="s8.2 s8.3;s10.2" id="SL27"></link>
+	<link certainty="1.62522" xtargets="s9.1;s11.1" id="SL29"></link>
+	<link certainty="1.03122" xtargets="s9.2;s11.2" id="SL30"></link>
+	<link certainty="3.48333" xtargets="s10.1;s12.1" id="SL32"></link>
+	<link certainty="3.88043" xtargets="s10.2;" id="SL33"></link>
+	<link certainty="9.08043" xtargets="s10.3;s13.1" id="SL34"></link>
+	<link certainty="8.42212" xtargets="s10.4;s13.2" id="SL35"></link>
+	<link certainty="3.82212" xtargets="s10.5;s13.3" id="SL36"></link>
+</linkGrp>

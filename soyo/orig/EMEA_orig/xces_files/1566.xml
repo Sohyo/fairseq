@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/menitorix/menitorix_bi_en.xml.gz" fromDoc="de/pdfs/human/referral/menitorix/menitorix_bi_de.xml.gz">
+	<link certainty="3" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.737838" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="1.50463" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="0.477564" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="2.34474" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="1.66974" xtargets="s5.2;s5.2" id="SL11"></link>
+	<link certainty="0.286364" xtargets="s6.1;s6.1" id="SL13"></link>
+	<link certainty="1.81515" xtargets="s7.1;s7.1" id="SL15"></link>
+	<link certainty="4.348848" xtargets="s8.1 s8.2;s8.1" id="SL17"></link>
+	<link certainty="4.05842" xtargets="s8.3;s8.2" id="SL18"></link>
+	<link certainty="0.573653" xtargets="s8.4 s8.5;s8.3" id="SL19"></link>
+	<link certainty="2.509073" xtargets="s8.6;s8.4" id="SL20"></link>
+	<link certainty="2.11184" xtargets="s8.7 s8.8;s8.5" id="SL21"></link>
+	<link certainty="1.021576" xtargets="s9.1;s9.1" id="SL23"></link>
+	<link certainty="0.923248" xtargets="s9.2;s9.2" id="SL24"></link>
+	<link certainty="0.242857" xtargets="s9.3;s9.3" id="SL25"></link>
+	<link certainty="0.103091" xtargets="s10.1 s10.2;s10.1" id="SL27"></link>
+	<link certainty="0.758797" xtargets="s10.3 s10.4 s10.5;s10.2" id="SL28"></link>
+	<link certainty="0.347368" xtargets="s10.6 s10.7;s10.3" id="SL29"></link>
+	<link certainty="1.04089" xtargets="s10.8;s11.1 s11.2" id="SL30"></link>
+	<link certainty="4.3" xtargets="s11.1;s12.1" id="SL32"></link>
+	<link certainty="8.75556" xtargets="s11.2;s12.2" id="SL33"></link>
+	<link certainty="6.55556" xtargets="s11.3;s12.3" id="SL34"></link>
+	<link certainty="2.4" xtargets="s11.4;s12.4" id="SL35"></link>
+	<link certainty="0.542142" xtargets="s11.5 s11.6 s11.7 s12.1;s12.5" id="SL36"></link>
+	<link certainty="0.797373" xtargets="s12.2;s12.6" id="SL37"></link>
+	<link certainty="0.2325" xtargets="s13.1 s13.2;s13.1" id="SL39"></link>
+	<link certainty="0.3" xtargets="s14.1;s14.1" id="SL41"></link>
+	<link certainty="12.6" xtargets="s15.1;s15.1" id="SL43"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/menitorix/menitorix_bi_en.xml.gz" fromDoc="de/pdfs/human/referral/menitorix/menitorix_bi_de.xml.gz">
+	<link certainty="3" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.737838" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="1.50463" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="0.477564" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="2.34474" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="1.66974" xtargets="s5.2;s5.2" id="SL11"></link>
+	<link certainty="0.286364" xtargets="s6.1;s6.1" id="SL13"></link>
+	<link certainty="1.81515" xtargets="s7.1;s7.1" id="SL15"></link>
+	<link certainty="4.348848" xtargets="s8.1 s8.2;s8.1" id="SL17"></link>
+	<link certainty="4.05842" xtargets="s8.3;s8.2" id="SL18"></link>
+	<link certainty="0.573653" xtargets="s8.4 s8.5;s8.3" id="SL19"></link>
+	<link certainty="2.509073" xtargets="s8.6;s8.4" id="SL20"></link>
+	<link certainty="2.11184" xtargets="s8.7 s8.8;s8.5" id="SL21"></link>
+	<link certainty="1.021576" xtargets="s9.1;s9.1" id="SL23"></link>
+	<link certainty="0.923248" xtargets="s9.2;s9.2" id="SL24"></link>
+	<link certainty="0.242857" xtargets="s9.3;s9.3" id="SL25"></link>
+	<link certainty="0.103091" xtargets="s10.1 s10.2;s10.1" id="SL27"></link>
+	<link certainty="0.758797" xtargets="s10.3 s10.4 s10.5;s10.2" id="SL28"></link>
+	<link certainty="0.347368" xtargets="s10.6 s10.7;s10.3" id="SL29"></link>
+	<link certainty="1.04089" xtargets="s10.8;s11.1 s11.2" id="SL30"></link>
+	<link certainty="4.3" xtargets="s11.1;s12.1" id="SL32"></link>
+	<link certainty="8.75556" xtargets="s11.2;s12.2" id="SL33"></link>
+	<link certainty="6.55556" xtargets="s11.3;s12.3" id="SL34"></link>
+	<link certainty="2.4" xtargets="s11.4;s12.4" id="SL35"></link>
+	<link certainty="0.542142" xtargets="s11.5 s11.6 s11.7 s12.1;s12.5" id="SL36"></link>
+	<link certainty="0.797373" xtargets="s12.2;s12.6" id="SL37"></link>
+	<link certainty="0.2325" xtargets="s13.1 s13.2;s13.1" id="SL39"></link>
+	<link certainty="0.3" xtargets="s14.1;s14.1" id="SL41"></link>
+	<link certainty="12.6" xtargets="s15.1;s15.1" id="SL43"></link>
+</linkGrp>

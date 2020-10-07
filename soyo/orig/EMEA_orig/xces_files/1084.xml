@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/silapo/H-760-Annex-en.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/silapo/H-760-Annex-de.xml.gz">
+	<link certainty="0.25" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="-0.2116279" xtargets="s2.1;" id="SL3"></link>
+	<link certainty="0.0883721" xtargets="s3.1;s2.1" id="SL4"></link>
+	<link certainty="0.363422" xtargets="s4.1;s3.1" id="SL6"></link>
+	<link certainty="0.912549" xtargets="s5.1;s4.1" id="SL8"></link>
+	<link certainty="0.202546" xtargets="s6.1 s6.2;s5.1" id="SL10"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/silapo/H-760-Annex-en.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/silapo/H-760-Annex-de.xml.gz">
+	<link certainty="0.25" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="-0.2116279" xtargets="s2.1;" id="SL3"></link>
+	<link certainty="0.0883721" xtargets="s3.1;s2.1" id="SL4"></link>
+	<link certainty="0.363422" xtargets="s4.1;s3.1" id="SL6"></link>
+	<link certainty="0.912549" xtargets="s5.1;s4.1" id="SL8"></link>
+	<link certainty="0.202546" xtargets="s6.1 s6.2;s5.1" id="SL10"></link>
+</linkGrp>

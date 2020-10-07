@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/mycophenolatemofetilteva/H-882-en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/mycophenolatemofetilteva/H-882-de2.xml.gz">
+	<link certainty="0.245455" xtargets="s1.1 s2.1;" id="SL1"></link>
+	<link certainty="0.245455" xtargets="s3.1;s1.1" id="SL2"></link>
+	<link certainty="-1.825" xtargets="s4.1 s5.1 s6.1 s7.1 s8.1 s9.1 s10.1;" id="SL3"></link>
+	<link certainty="0.275" xtargets="s11.1;s2.1" id="SL4"></link>
+	<link certainty="0.166667" xtargets="s12.1;s3.1" id="SL6"></link>
+	<link certainty="0.252632" xtargets="s13.1;s4.1" id="SL8"></link>
+	<link certainty="-0.340909" xtargets="s14.1 s15.1;" id="SL9"></link>
+	<link certainty="0.259091" xtargets="s16.1;s5.1" id="SL10"></link>
+	<link certainty="-0.12" xtargets="s17.1;" id="SL11"></link>
+	<link certainty="0.18" xtargets="s18.1;s6.1" id="SL12"></link>
+	<link certainty="0.275" xtargets="s19.1;s7.1" id="SL14"></link>
+	<link certainty="-0.231818" xtargets="s20.1;s8.1" id="SL16"></link>
+	<link certainty="1.086" xtargets="s21.1 s22.1;" id="SL17"></link>
+	<link certainty="1.686" xtargets="s23.1;s9.1" id="SL18"></link>
+	<link certainty="1.55" xtargets="s24.1;s10.1" id="SL20"></link>
+	<link certainty="-0.6" xtargets="s25.1;s11.1" id="SL22"></link>
+	<link certainty="-0.0692308" xtargets="s26.1;s12.1" id="SL24"></link>
+	<link certainty="0.640909" xtargets="s27.1;s13.1" id="SL26"></link>
+	<link certainty="0.858824" xtargets="s28.1;s14.1" id="SL28"></link>
+	<link certainty="0.6" xtargets="s29.1;s15.1" id="SL30"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/mycophenolatemofetilteva/H-882-en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/mycophenolatemofetilteva/H-882-de2.xml.gz">
+	<link certainty="0.245455" xtargets="s1.1 s2.1;" id="SL1"></link>
+	<link certainty="0.245455" xtargets="s3.1;s1.1" id="SL2"></link>
+	<link certainty="-1.825" xtargets="s4.1 s5.1 s6.1 s7.1 s8.1 s9.1 s10.1;" id="SL3"></link>
+	<link certainty="0.275" xtargets="s11.1;s2.1" id="SL4"></link>
+	<link certainty="0.166667" xtargets="s12.1;s3.1" id="SL6"></link>
+	<link certainty="0.252632" xtargets="s13.1;s4.1" id="SL8"></link>
+	<link certainty="-0.340909" xtargets="s14.1 s15.1;" id="SL9"></link>
+	<link certainty="0.259091" xtargets="s16.1;s5.1" id="SL10"></link>
+	<link certainty="-0.12" xtargets="s17.1;" id="SL11"></link>
+	<link certainty="0.18" xtargets="s18.1;s6.1" id="SL12"></link>
+	<link certainty="0.275" xtargets="s19.1;s7.1" id="SL14"></link>
+	<link certainty="-0.231818" xtargets="s20.1;s8.1" id="SL16"></link>
+	<link certainty="1.086" xtargets="s21.1 s22.1;" id="SL17"></link>
+	<link certainty="1.686" xtargets="s23.1;s9.1" id="SL18"></link>
+	<link certainty="1.55" xtargets="s24.1;s10.1" id="SL20"></link>
+	<link certainty="-0.6" xtargets="s25.1;s11.1" id="SL22"></link>
+	<link certainty="-0.0692308" xtargets="s26.1;s12.1" id="SL24"></link>
+	<link certainty="0.640909" xtargets="s27.1;s13.1" id="SL26"></link>
+	<link certainty="0.858824" xtargets="s28.1;s14.1" id="SL28"></link>
+	<link certainty="0.6" xtargets="s29.1;s15.1" id="SL30"></link>
+</linkGrp>

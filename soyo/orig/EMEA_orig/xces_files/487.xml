@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/hepsera/610202en1.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/hepsera/610202de1.xml.gz">
+	<link certainty="2.55" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.3" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="1.46409" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="1.8" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="0.5375" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="0.831652" xtargets="s6.1;s6.1 s6.2" id="SL12"></link>
+	<link certainty="1.443763" xtargets="s6.2;s6.3" id="SL13"></link>
+	<link certainty="0.76197" xtargets="s6.3;s6.4" id="SL14"></link>
+	<link certainty="2.286154" xtargets="s7.1;s7.1" id="SL16"></link>
+	<link certainty="4.487694" xtargets="s7.2;s7.2" id="SL17"></link>
+	<link certainty="3.70154" xtargets="s7.3;s7.3" id="SL18"></link>
+	<link certainty="2.39323" xtargets="s8.1;s8.1" id="SL20"></link>
+	<link certainty="2.027728" xtargets="s8.2;s8.2" id="SL21"></link>
+	<link certainty="1.656069" xtargets="s8.3;s8.3" id="SL22"></link>
+	<link certainty="0.817021" xtargets="s8.4;s8.4" id="SL23"></link>
+	<link certainty="1.861568" xtargets="s9.1;s9.1" id="SL25"></link>
+	<link certainty="3.239168" xtargets="s9.2;s9.2" id="SL26"></link>
+	<link certainty="2.824587" xtargets="s9.3;s9.3" id="SL27"></link>
+	<link certainty="0.826808" xtargets="s9.4;s9.4" id="SL28"></link>
+	<link certainty="1.464348" xtargets="s9.5;s9.5" id="SL29"></link>
+	<link certainty="1.717901" xtargets="s9.6;s9.6" id="SL30"></link>
+	<link certainty="0.7352311" xtargets="s9.7;s9.7" id="SL31"></link>
+	<link certainty="-0.0648129" xtargets="s9.8;s9.8 s9.9 s9.10 s9.11" id="SL32"></link>
+	<link certainty="8.28469" xtargets="s9.9;s10.1" id="SL33"></link>
+	<link certainty="4.35" xtargets="s9.10;s10.2" id="SL34"></link>
+	<link certainty="4.31955" xtargets="s10.1;s11.1" id="SL36"></link>
+	<link certainty="2.00526" xtargets="s10.2;s11.2" id="SL37"></link>
+	<link certainty="2.04206" xtargets="s10.3 s11.1;s11.3" id="SL38"></link>
+	<link certainty="1.623571" xtargets="s11.2;s11.4" id="SL39"></link>
+	<link certainty="1.421499" xtargets="s11.3;s11.5" id="SL40"></link>
+	<link certainty="1.509595" xtargets="s11.4;s11.6" id="SL41"></link>
+	<link certainty="0.816667" xtargets="s11.5;s11.7" id="SL42"></link>
+	<link certainty="2.44414" xtargets="s12.1;s12.1" id="SL44"></link>
+	<link certainty="1.32431" xtargets="s12.2;s12.2" id="SL45"></link>
+	<link certainty="0.966077" xtargets="s12.3 s12.4 s12.5;s12.3" id="SL46"></link>
+	<link certainty="1.519322" xtargets="s12.6 s12.7;s12.4" id="SL47"></link>
+	<link certainty="0.721875" xtargets="s12.8;s12.5" id="SL48"></link>
+	<link certainty="1.981285" xtargets="s13.1;s13.1" id="SL50"></link>
+	<link certainty="1.646101" xtargets="s13.2;s13.2" id="SL51"></link>
+	<link certainty="1.876261" xtargets="s13.3 s13.4;s13.3" id="SL52"></link>
+	<link certainty="1.3319" xtargets="s13.5;s13.4" id="SL53"></link>
+	<link certainty="3.98156" xtargets="s14.1;s14.1" id="SL55"></link>
+	<link certainty="3.227635" xtargets="s14.2;s14.2" id="SL56"></link>
+	<link certainty="1.344396" xtargets="s14.3;s14.3" id="SL57"></link>
+	<link certainty="0.681651" xtargets="s14.4;s14.4" id="SL58"></link>
+	<link certainty="1.529236" xtargets="s15.1;s15.1" id="SL60"></link>
+	<link certainty="0.251456" xtargets="s15.2;s15.2 s15.3" id="SL61"></link>
+	<link certainty="1.604366" xtargets="s16.1;s16.1" id="SL63"></link>
+	<link certainty="0.6316" xtargets="s16.2 s16.3;s16.2" id="SL64"></link>
+	<link certainty="-0.012766" xtargets="s16.4;s16.3" id="SL65"></link>
+	<link certainty="0.74211" xtargets="s16.5;" id="SL66"></link>
+	<link certainty="1.04211" xtargets="s17.1;s17.1" id="SL67"></link>
+	<link certainty="1.14167" xtargets="s18.1;s18.1" id="SL69"></link>
+	<link certainty="0.6" xtargets="s19.1;s19.1" id="SL71"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/hepsera/610202en1.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/hepsera/610202de1.xml.gz">
+	<link certainty="2.55" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.3" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="1.46409" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="1.8" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="0.5375" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="0.831652" xtargets="s6.1;s6.1 s6.2" id="SL12"></link>
+	<link certainty="1.443763" xtargets="s6.2;s6.3" id="SL13"></link>
+	<link certainty="0.76197" xtargets="s6.3;s6.4" id="SL14"></link>
+	<link certainty="2.286154" xtargets="s7.1;s7.1" id="SL16"></link>
+	<link certainty="4.487694" xtargets="s7.2;s7.2" id="SL17"></link>
+	<link certainty="3.70154" xtargets="s7.3;s7.3" id="SL18"></link>
+	<link certainty="2.39323" xtargets="s8.1;s8.1" id="SL20"></link>
+	<link certainty="2.027728" xtargets="s8.2;s8.2" id="SL21"></link>
+	<link certainty="1.656069" xtargets="s8.3;s8.3" id="SL22"></link>
+	<link certainty="0.817021" xtargets="s8.4;s8.4" id="SL23"></link>
+	<link certainty="1.861568" xtargets="s9.1;s9.1" id="SL25"></link>
+	<link certainty="3.239168" xtargets="s9.2;s9.2" id="SL26"></link>
+	<link certainty="2.824587" xtargets="s9.3;s9.3" id="SL27"></link>
+	<link certainty="0.826808" xtargets="s9.4;s9.4" id="SL28"></link>
+	<link certainty="1.464348" xtargets="s9.5;s9.5" id="SL29"></link>
+	<link certainty="1.717901" xtargets="s9.6;s9.6" id="SL30"></link>
+	<link certainty="0.7352311" xtargets="s9.7;s9.7" id="SL31"></link>
+	<link certainty="-0.0648129" xtargets="s9.8;s9.8 s9.9 s9.10 s9.11" id="SL32"></link>
+	<link certainty="8.28469" xtargets="s9.9;s10.1" id="SL33"></link>
+	<link certainty="4.35" xtargets="s9.10;s10.2" id="SL34"></link>
+	<link certainty="4.31955" xtargets="s10.1;s11.1" id="SL36"></link>
+	<link certainty="2.00526" xtargets="s10.2;s11.2" id="SL37"></link>
+	<link certainty="2.04206" xtargets="s10.3 s11.1;s11.3" id="SL38"></link>
+	<link certainty="1.623571" xtargets="s11.2;s11.4" id="SL39"></link>
+	<link certainty="1.421499" xtargets="s11.3;s11.5" id="SL40"></link>
+	<link certainty="1.509595" xtargets="s11.4;s11.6" id="SL41"></link>
+	<link certainty="0.816667" xtargets="s11.5;s11.7" id="SL42"></link>
+	<link certainty="2.44414" xtargets="s12.1;s12.1" id="SL44"></link>
+	<link certainty="1.32431" xtargets="s12.2;s12.2" id="SL45"></link>
+	<link certainty="0.966077" xtargets="s12.3 s12.4 s12.5;s12.3" id="SL46"></link>
+	<link certainty="1.519322" xtargets="s12.6 s12.7;s12.4" id="SL47"></link>
+	<link certainty="0.721875" xtargets="s12.8;s12.5" id="SL48"></link>
+	<link certainty="1.981285" xtargets="s13.1;s13.1" id="SL50"></link>
+	<link certainty="1.646101" xtargets="s13.2;s13.2" id="SL51"></link>
+	<link certainty="1.876261" xtargets="s13.3 s13.4;s13.3" id="SL52"></link>
+	<link certainty="1.3319" xtargets="s13.5;s13.4" id="SL53"></link>
+	<link certainty="3.98156" xtargets="s14.1;s14.1" id="SL55"></link>
+	<link certainty="3.227635" xtargets="s14.2;s14.2" id="SL56"></link>
+	<link certainty="1.344396" xtargets="s14.3;s14.3" id="SL57"></link>
+	<link certainty="0.681651" xtargets="s14.4;s14.4" id="SL58"></link>
+	<link certainty="1.529236" xtargets="s15.1;s15.1" id="SL60"></link>
+	<link certainty="0.251456" xtargets="s15.2;s15.2 s15.3" id="SL61"></link>
+	<link certainty="1.604366" xtargets="s16.1;s16.1" id="SL63"></link>
+	<link certainty="0.6316" xtargets="s16.2 s16.3;s16.2" id="SL64"></link>
+	<link certainty="-0.012766" xtargets="s16.4;s16.3" id="SL65"></link>
+	<link certainty="0.74211" xtargets="s16.5;" id="SL66"></link>
+	<link certainty="1.04211" xtargets="s17.1;s17.1" id="SL67"></link>
+	<link certainty="1.14167" xtargets="s18.1;s18.1" id="SL69"></link>
+	<link certainty="0.6" xtargets="s19.1;s19.1" id="SL71"></link>
+</linkGrp>

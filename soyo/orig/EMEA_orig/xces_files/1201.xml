@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/torisel/H-799-en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/torisel/H-799-de2.xml.gz">
+	<link certainty="0.21" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.16" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="0.3" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="0.0333333" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="0.0666667" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="-0.3" xtargets=";s6.1" id="SL12"></link>
+	<link certainty="0.190909" xtargets="s6.1;s7.1" id="SL13"></link>
+	<link certainty="0.171429" xtargets="s7.1;s8.1" id="SL15"></link>
+	<link certainty="0.2" xtargets="s8.1;s9.1" id="SL17"></link>
+	<link certainty="0.3" xtargets="s9.1;s10.1" id="SL19"></link>
+	<link certainty="1.8" xtargets="s10.1;s11.1" id="SL21"></link>
+	<link certainty="11.2571" xtargets="s11.1;s12.1" id="SL23"></link>
+	<link certainty="0.143182" xtargets="s12.1;s13.1" id="SL25"></link>
+	<link certainty="0.16" xtargets="s13.1;s14.1" id="SL27"></link>
+	<link certainty="1.5" xtargets="s14.1;s15.1" id="SL29"></link>
+	<link certainty="0.575" xtargets="s15.1;s16.1" id="SL31"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/torisel/H-799-en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/torisel/H-799-de2.xml.gz">
+	<link certainty="0.21" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.16" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="0.3" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="0.0333333" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="0.0666667" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="-0.3" xtargets=";s6.1" id="SL12"></link>
+	<link certainty="0.190909" xtargets="s6.1;s7.1" id="SL13"></link>
+	<link certainty="0.171429" xtargets="s7.1;s8.1" id="SL15"></link>
+	<link certainty="0.2" xtargets="s8.1;s9.1" id="SL17"></link>
+	<link certainty="0.3" xtargets="s9.1;s10.1" id="SL19"></link>
+	<link certainty="1.8" xtargets="s10.1;s11.1" id="SL21"></link>
+	<link certainty="11.2571" xtargets="s11.1;s12.1" id="SL23"></link>
+	<link certainty="0.143182" xtargets="s12.1;s13.1" id="SL25"></link>
+	<link certainty="0.16" xtargets="s13.1;s14.1" id="SL27"></link>
+	<link certainty="1.5" xtargets="s14.1;s15.1" id="SL29"></link>
+	<link certainty="0.575" xtargets="s15.1;s16.1" id="SL31"></link>
+</linkGrp>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/Glustin/445300en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/Glustin/445300de2.xml.gz">
+	<link certainty="0.299187" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="3.05597" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="3.77712" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="2.98457" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="1.50462" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="2.3754" xtargets="s6.1;s6.1" id="SL12"></link>
+	<link certainty="4.20308" xtargets="s7.1;s7.1" id="SL14"></link>
+	<link certainty="0.6" xtargets="s8.1;s8.1" id="SL16"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/Glustin/445300en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/Glustin/445300de2.xml.gz">
+	<link certainty="0.299187" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="3.05597" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="3.77712" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="2.98457" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="1.50462" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="2.3754" xtargets="s6.1;s6.1" id="SL12"></link>
+	<link certainty="4.20308" xtargets="s7.1;s7.1" id="SL14"></link>
+	<link certainty="0.6" xtargets="s8.1;s8.1" id="SL16"></link>
+</linkGrp>

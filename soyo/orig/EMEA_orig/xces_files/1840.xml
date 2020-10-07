@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/vetdocs/PDFs/EPAR/posatex/V-122-en1.xml.gz" fromDoc="de/vetdocs/PDFs/EPAR/posatex/V-122-de1.xml.gz">
+	<link certainty="2.8" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.3" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="1.69773" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="1.0375" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="0.725253" xtargets="s5.1;s5.1 s5.2" id="SL10"></link>
+	<link certainty="0.898839" xtargets="s5.2;s5.3" id="SL11"></link>
+	<link certainty="1.258517" xtargets="s5.3;s5.4" id="SL12"></link>
+	<link certainty="0.905392" xtargets="s5.4;s5.5" id="SL13"></link>
+	<link certainty="2.180645" xtargets="s6.1;s6.1" id="SL15"></link>
+	<link certainty="1.832235" xtargets="s6.2;s6.2" id="SL16"></link>
+	<link certainty="2.43125" xtargets="s6.3;s6.3" id="SL17"></link>
+	<link certainty="0.97966" xtargets="s6.4;s6.4" id="SL18"></link>
+	<link certainty="1.40455" xtargets="s6.5;" id="SL19"></link>
+	<link certainty="2.73337" xtargets="s7.1;s7.1" id="SL20"></link>
+	<link certainty="1.473981" xtargets="s7.2;s7.2" id="SL21"></link>
+	<link certainty="0.855828" xtargets="s7.3;s7.3" id="SL22"></link>
+	<link certainty="0.918562" xtargets="s7.4;s7.4" id="SL23"></link>
+	<link certainty="0.507895" xtargets="s7.5;s7.5" id="SL24"></link>
+	<link certainty="2.112366" xtargets="s8.1;s8.1" id="SL26"></link>
+	<link certainty="1.335306" xtargets="s8.2;s8.2" id="SL27"></link>
+	<link certainty="1.269095" xtargets="s8.3;s8.3" id="SL28"></link>
+	<link certainty="0.599095" xtargets="s8.4;s8.4" id="SL29"></link>
+	<link certainty="1.673352" xtargets="s9.1;s9.1" id="SL31"></link>
+	<link certainty="1.135358" xtargets="s9.2;s9.2" id="SL32"></link>
+	<link certainty="0.763067" xtargets="s9.3 s9.4;s9.3" id="SL33"></link>
+	<link certainty="1.195609" xtargets="s9.5;s9.4" id="SL34"></link>
+	<link certainty="1.167814" xtargets="s9.6;s9.5" id="SL35"></link>
+	<link certainty="0.991995" xtargets="s9.7;s9.6" id="SL36"></link>
+	<link certainty="0.495652" xtargets="s9.8;s9.7" id="SL37"></link>
+	<link certainty="2.36425" xtargets="s10.1;s10.1" id="SL39"></link>
+	<link certainty="2.054604" xtargets="s10.2;s10.2" id="SL40"></link>
+	<link certainty="0.678814" xtargets="s10.3;s10.3" id="SL41"></link>
+	<link certainty="7.57857" xtargets="s10.4;s10.4 s10.5 s11.1" id="SL42"></link>
+	<link certainty="4.35" xtargets="s10.5;s11.2" id="SL43"></link>
+	<link certainty="4.52482" xtargets="s11.1;s12.1" id="SL45"></link>
+	<link certainty="2.21053" xtargets="s11.2;s12.2" id="SL46"></link>
+	<link certainty="1.41981" xtargets="s11.3 s12.1;s12.3" id="SL47"></link>
+	<link certainty="1.268652" xtargets="s12.2;s12.4" id="SL48"></link>
+	<link certainty="0.428387" xtargets="s12.3;s12.5" id="SL49"></link>
+	<link certainty="1.594302" xtargets="s13.1;s13.1" id="SL51"></link>
+	<link certainty="1.064753" xtargets="s13.2;s13.2" id="SL52"></link>
+	<link certainty="0.512121" xtargets="s13.3;s13.3" id="SL53"></link>
+	<link certainty="0.656172" xtargets="s14.1;s14.1" id="SL55"></link>
+	<link certainty="0.880325" xtargets="s15.1;s15.1" id="SL57"></link>
+	<link certainty="0.925657" xtargets="s15.2;s15.2" id="SL58"></link>
+	<link certainty="1.268273" xtargets="s15.3;s15.3" id="SL59"></link>
+	<link certainty="0.9" xtargets="s15.4;s15.4" id="SL60"></link>
+	<link certainty="2.234416" xtargets="s16.1;s16.1" id="SL62"></link>
+	<link certainty="4.453446" xtargets="s16.2;s16.2" id="SL63"></link>
+	<link certainty="3.49681" xtargets="s16.3;s16.3" id="SL64"></link>
+	<link certainty="2.27725" xtargets="s17.1;s17.1" id="SL66"></link>
+	<link certainty="1.567752" xtargets="s17.2;s17.2" id="SL67"></link>
+	<link certainty="0.550502" xtargets="s17.3;s17.3" id="SL68"></link>
+	<link certainty="0.487387" xtargets="s18.1;s18.1" id="SL70"></link>
+	<link certainty="0.6" xtargets="s19.1;s19.1" id="SL72"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/vetdocs/PDFs/EPAR/posatex/V-122-en1.xml.gz" fromDoc="de/vetdocs/PDFs/EPAR/posatex/V-122-de1.xml.gz">
+	<link certainty="2.8" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.3" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="1.69773" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="1.0375" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="0.725253" xtargets="s5.1;s5.1 s5.2" id="SL10"></link>
+	<link certainty="0.898839" xtargets="s5.2;s5.3" id="SL11"></link>
+	<link certainty="1.258517" xtargets="s5.3;s5.4" id="SL12"></link>
+	<link certainty="0.905392" xtargets="s5.4;s5.5" id="SL13"></link>
+	<link certainty="2.180645" xtargets="s6.1;s6.1" id="SL15"></link>
+	<link certainty="1.832235" xtargets="s6.2;s6.2" id="SL16"></link>
+	<link certainty="2.43125" xtargets="s6.3;s6.3" id="SL17"></link>
+	<link certainty="0.97966" xtargets="s6.4;s6.4" id="SL18"></link>
+	<link certainty="1.40455" xtargets="s6.5;" id="SL19"></link>
+	<link certainty="2.73337" xtargets="s7.1;s7.1" id="SL20"></link>
+	<link certainty="1.473981" xtargets="s7.2;s7.2" id="SL21"></link>
+	<link certainty="0.855828" xtargets="s7.3;s7.3" id="SL22"></link>
+	<link certainty="0.918562" xtargets="s7.4;s7.4" id="SL23"></link>
+	<link certainty="0.507895" xtargets="s7.5;s7.5" id="SL24"></link>
+	<link certainty="2.112366" xtargets="s8.1;s8.1" id="SL26"></link>
+	<link certainty="1.335306" xtargets="s8.2;s8.2" id="SL27"></link>
+	<link certainty="1.269095" xtargets="s8.3;s8.3" id="SL28"></link>
+	<link certainty="0.599095" xtargets="s8.4;s8.4" id="SL29"></link>
+	<link certainty="1.673352" xtargets="s9.1;s9.1" id="SL31"></link>
+	<link certainty="1.135358" xtargets="s9.2;s9.2" id="SL32"></link>
+	<link certainty="0.763067" xtargets="s9.3 s9.4;s9.3" id="SL33"></link>
+	<link certainty="1.195609" xtargets="s9.5;s9.4" id="SL34"></link>
+	<link certainty="1.167814" xtargets="s9.6;s9.5" id="SL35"></link>
+	<link certainty="0.991995" xtargets="s9.7;s9.6" id="SL36"></link>
+	<link certainty="0.495652" xtargets="s9.8;s9.7" id="SL37"></link>
+	<link certainty="2.36425" xtargets="s10.1;s10.1" id="SL39"></link>
+	<link certainty="2.054604" xtargets="s10.2;s10.2" id="SL40"></link>
+	<link certainty="0.678814" xtargets="s10.3;s10.3" id="SL41"></link>
+	<link certainty="7.57857" xtargets="s10.4;s10.4 s10.5 s11.1" id="SL42"></link>
+	<link certainty="4.35" xtargets="s10.5;s11.2" id="SL43"></link>
+	<link certainty="4.52482" xtargets="s11.1;s12.1" id="SL45"></link>
+	<link certainty="2.21053" xtargets="s11.2;s12.2" id="SL46"></link>
+	<link certainty="1.41981" xtargets="s11.3 s12.1;s12.3" id="SL47"></link>
+	<link certainty="1.268652" xtargets="s12.2;s12.4" id="SL48"></link>
+	<link certainty="0.428387" xtargets="s12.3;s12.5" id="SL49"></link>
+	<link certainty="1.594302" xtargets="s13.1;s13.1" id="SL51"></link>
+	<link certainty="1.064753" xtargets="s13.2;s13.2" id="SL52"></link>
+	<link certainty="0.512121" xtargets="s13.3;s13.3" id="SL53"></link>
+	<link certainty="0.656172" xtargets="s14.1;s14.1" id="SL55"></link>
+	<link certainty="0.880325" xtargets="s15.1;s15.1" id="SL57"></link>
+	<link certainty="0.925657" xtargets="s15.2;s15.2" id="SL58"></link>
+	<link certainty="1.268273" xtargets="s15.3;s15.3" id="SL59"></link>
+	<link certainty="0.9" xtargets="s15.4;s15.4" id="SL60"></link>
+	<link certainty="2.234416" xtargets="s16.1;s16.1" id="SL62"></link>
+	<link certainty="4.453446" xtargets="s16.2;s16.2" id="SL63"></link>
+	<link certainty="3.49681" xtargets="s16.3;s16.3" id="SL64"></link>
+	<link certainty="2.27725" xtargets="s17.1;s17.1" id="SL66"></link>
+	<link certainty="1.567752" xtargets="s17.2;s17.2" id="SL67"></link>
+	<link certainty="0.550502" xtargets="s17.3;s17.3" id="SL68"></link>
+	<link certainty="0.487387" xtargets="s18.1;s18.1" id="SL70"></link>
+	<link certainty="0.6" xtargets="s19.1;s19.1" id="SL72"></link>
+</linkGrp>

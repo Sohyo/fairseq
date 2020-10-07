@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/champix/H-699-en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/champix/H-699-de2.xml.gz">
+	<link certainty="0.266667" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.0923077" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="0.2625" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="0.264706" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="0.1875" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="0.27" xtargets="s6.1;s6.1" id="SL12"></link>
+	<link certainty="0.2" xtargets="s7.1;s7.1" id="SL14"></link>
+	<link certainty="0.293478" xtargets="s8.1;s8.1" id="SL16"></link>
+	<link certainty="2.55" xtargets="s9.1;s9.1" id="SL18"></link>
+	<link certainty="1.44" xtargets="s10.1;s10.1" id="SL20"></link>
+	<link certainty="0.21" xtargets="s11.1;s11.1" id="SL22"></link>
+	<link certainty="0.0954545" xtargets="s12.1;s12.1" id="SL24"></link>
+	<link certainty="0.25" xtargets="s13.1;s13.1" id="SL26"></link>
+	<link certainty="4.8561" xtargets="s14.1;s14.1" id="SL28"></link>
+	<link certainty="-1.5514286" xtargets="s15.1 s16.1 s17.1 s18.1 s19.1;" id="SL29"></link>
+	<link certainty="-0.0514286" xtargets="s20.1;s15.1" id="SL30"></link>
+	<link certainty="0.15" xtargets="s21.1 s22.1;" id="SL31"></link>
+	<link certainty="0.75" xtargets="s23.1;s16.1" id="SL32"></link>
+	<link certainty="1.64118" xtargets="s24.1 s25.1 s26.1;" id="SL33"></link>
+	<link certainty="2.54118" xtargets="s27.1;s17.1" id="SL34"></link>
+	<link certainty="-1.937143" xtargets="s28.1 s29.1 s30.1 s31.1 s32.1 s33.1;" id="SL35"></link>
+	<link certainty="-0.137143" xtargets="s34.1;s18.1" id="SL36"></link>
+	<link certainty="-0.3" xtargets="s35.1;" id="SL38"></link>
+	<link certainty="-1.208571" xtargets="s36.1 s37.1 s38.1 s39.1 s40.1 s41.1;s19.1" id="SL39"></link>
+	<link certainty="-2.232558" xtargets="s42.1 s43.1 s44.1 s45.1 s46.1 s47.1;" id="SL40"></link>
+	<link certainty="-0.432558" xtargets="s48.1;s20.1" id="SL41"></link>
+	<link certainty="2.61927" xtargets="s49.1;s21.1" id="SL43"></link>
+	<link certainty="-0.54375" xtargets="s50.1;s22.1" id="SL45"></link>
+	<link certainty="1.0125" xtargets="s51.1;s23.1" id="SL47"></link>
+	<link certainty="1.13017" xtargets="s52.1 s53.1 s54.1;" id="SL48"></link>
+	<link certainty="2.03017" xtargets="s55.1;s24.1" id="SL49"></link>
+	<link certainty="-1.681395" xtargets="s56.1 s57.1 s58.1 s59.1 s60.1 s61.1;" id="SL50"></link>
+	<link certainty="0.118605" xtargets="s62.1;s25.1" id="SL51"></link>
+	<link certainty="-0.24375" xtargets="s63.1;" id="SL52"></link>
+	<link certainty="0.05625" xtargets="s64.1;s26.1" id="SL53"></link>
+	<link certainty="-1.45814" xtargets="s65.1 s66.1 s67.1 s68.1;" id="SL54"></link>
+	<link certainty="-0.25814" xtargets="s69.1;s27.1" id="SL55"></link>
+	<link certainty="1.03077" xtargets="s70.1;s28.1" id="SL57"></link>
+	<link certainty="10.1" xtargets="s71.1 s72.1;" id="SL58"></link>
+	<link certainty="10.7" xtargets="s73.1;s29.1" id="SL59"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/champix/H-699-en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/champix/H-699-de2.xml.gz">
+	<link certainty="0.266667" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.0923077" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="0.2625" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="0.264706" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="0.1875" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="0.27" xtargets="s6.1;s6.1" id="SL12"></link>
+	<link certainty="0.2" xtargets="s7.1;s7.1" id="SL14"></link>
+	<link certainty="0.293478" xtargets="s8.1;s8.1" id="SL16"></link>
+	<link certainty="2.55" xtargets="s9.1;s9.1" id="SL18"></link>
+	<link certainty="1.44" xtargets="s10.1;s10.1" id="SL20"></link>
+	<link certainty="0.21" xtargets="s11.1;s11.1" id="SL22"></link>
+	<link certainty="0.0954545" xtargets="s12.1;s12.1" id="SL24"></link>
+	<link certainty="0.25" xtargets="s13.1;s13.1" id="SL26"></link>
+	<link certainty="4.8561" xtargets="s14.1;s14.1" id="SL28"></link>
+	<link certainty="-1.5514286" xtargets="s15.1 s16.1 s17.1 s18.1 s19.1;" id="SL29"></link>
+	<link certainty="-0.0514286" xtargets="s20.1;s15.1" id="SL30"></link>
+	<link certainty="0.15" xtargets="s21.1 s22.1;" id="SL31"></link>
+	<link certainty="0.75" xtargets="s23.1;s16.1" id="SL32"></link>
+	<link certainty="1.64118" xtargets="s24.1 s25.1 s26.1;" id="SL33"></link>
+	<link certainty="2.54118" xtargets="s27.1;s17.1" id="SL34"></link>
+	<link certainty="-1.937143" xtargets="s28.1 s29.1 s30.1 s31.1 s32.1 s33.1;" id="SL35"></link>
+	<link certainty="-0.137143" xtargets="s34.1;s18.1" id="SL36"></link>
+	<link certainty="-0.3" xtargets="s35.1;" id="SL38"></link>
+	<link certainty="-1.208571" xtargets="s36.1 s37.1 s38.1 s39.1 s40.1 s41.1;s19.1" id="SL39"></link>
+	<link certainty="-2.232558" xtargets="s42.1 s43.1 s44.1 s45.1 s46.1 s47.1;" id="SL40"></link>
+	<link certainty="-0.432558" xtargets="s48.1;s20.1" id="SL41"></link>
+	<link certainty="2.61927" xtargets="s49.1;s21.1" id="SL43"></link>
+	<link certainty="-0.54375" xtargets="s50.1;s22.1" id="SL45"></link>
+	<link certainty="1.0125" xtargets="s51.1;s23.1" id="SL47"></link>
+	<link certainty="1.13017" xtargets="s52.1 s53.1 s54.1;" id="SL48"></link>
+	<link certainty="2.03017" xtargets="s55.1;s24.1" id="SL49"></link>
+	<link certainty="-1.681395" xtargets="s56.1 s57.1 s58.1 s59.1 s60.1 s61.1;" id="SL50"></link>
+	<link certainty="0.118605" xtargets="s62.1;s25.1" id="SL51"></link>
+	<link certainty="-0.24375" xtargets="s63.1;" id="SL52"></link>
+	<link certainty="0.05625" xtargets="s64.1;s26.1" id="SL53"></link>
+	<link certainty="-1.45814" xtargets="s65.1 s66.1 s67.1 s68.1;" id="SL54"></link>
+	<link certainty="-0.25814" xtargets="s69.1;s27.1" id="SL55"></link>
+	<link certainty="1.03077" xtargets="s70.1;s28.1" id="SL57"></link>
+	<link certainty="10.1" xtargets="s71.1 s72.1;" id="SL58"></link>
+	<link certainty="10.7" xtargets="s73.1;s29.1" id="SL59"></link>
+</linkGrp>

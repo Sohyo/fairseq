@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/procoralan/32044705en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/procoralan/32044705de2.xml.gz">
+	<link certainty="0.29863" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="2.90931" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="4.09531" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="2.80824" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="1.4525" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="3.19527" xtargets="s6.1;s6.1" id="SL12"></link>
+	<link certainty="3.91408" xtargets="s7.1;s7.1" id="SL14"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/procoralan/32044705en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/procoralan/32044705de2.xml.gz">
+	<link certainty="0.29863" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="2.90931" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="4.09531" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="2.80824" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="1.4525" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="3.19527" xtargets="s6.1;s6.1" id="SL12"></link>
+	<link certainty="3.91408" xtargets="s7.1;s7.1" id="SL14"></link>
+</linkGrp>

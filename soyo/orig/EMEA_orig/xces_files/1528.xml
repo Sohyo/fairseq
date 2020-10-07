@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/gadograf/gadovist-gadografbackgroundinfo-en.xml.gz" fromDoc="de/pdfs/human/referral/gadograf/gadovist-gadografbackgroundinfo-de.xml.gz">
+	<link certainty="2.55" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="7.6" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="0.3" xtargets="s2.2;s2.2" id="SL5"></link>
+	<link certainty="0.665823" xtargets="s3.1;s3.1" id="SL7"></link>
+	<link certainty="3.54255" xtargets="s4.1;s4.1" id="SL9"></link>
+	<link certainty="1.8" xtargets="s4.2;s4.2" id="SL10"></link>
+	<link certainty="1.484697" xtargets="s5.1;s5.1" id="SL12"></link>
+	<link certainty="1.068707" xtargets="s5.2;s5.2" id="SL13"></link>
+	<link certainty="0.302" xtargets="s5.3;s5.3" id="SL14"></link>
+	<link certainty="2.78807" xtargets="s6.1;s5.4" id="SL15"></link>
+	<link certainty="1.11352" xtargets="s6.2;s5.5" id="SL16"></link>
+	<link certainty="1.706823" xtargets="s7.1 s7.2;s5.6" id="SL17"></link>
+	<link certainty="1.35408" xtargets="s7.3;s5.7" id="SL18"></link>
+	<link certainty="1.161" xtargets="s7.4;s5.8" id="SL19"></link>
+	<link certainty="0.744231" xtargets="s7.5;s5.9" id="SL20"></link>
+	<link certainty="2.094143" xtargets="s8.1;s5.10" id="SL21"></link>
+	<link certainty="3.37846" xtargets="s8.2;s5.11" id="SL22"></link>
+	<link certainty="3.61647" xtargets="s8.3;s5.12" id="SL23"></link>
+	<link certainty="1.72222" xtargets="s8.4;s5.13" id="SL24"></link>
+	<link certainty="0.731011" xtargets="s9.1;s5.14" id="SL25"></link>
+	<link certainty="1.020455" xtargets="s9.2;s5.15" id="SL26"></link>
+	<link certainty="1.148333" xtargets="s9.3;s5.16" id="SL27"></link>
+	<link certainty="0.519545" xtargets="s9.4;s5.17" id="SL28"></link>
+	<link certainty="1.275" xtargets="s10.1 s11.1 s12.1 s13.1 s14.1 s15.1 s15.2;s5.18" id="SL29"></link>
+	<link certainty="3.062448" xtargets="s15.3 s15.4 s15.5;s5.19" id="SL30"></link>
+	<link certainty="-0.195552" xtargets="s15.6 s15.7;s5.20" id="SL31"></link>
+	<link certainty="2.390828" xtargets="s15.8 s15.9;s5.21" id="SL32"></link>
+	<link certainty="1.98929" xtargets="s15.10;s5.22" id="SL33"></link>
+	<link certainty="1.019227" xtargets="s15.11;s6.1 s6.2" id="SL34"></link>
+	<link certainty="1.187784" xtargets="s15.12;s6.3" id="SL35"></link>
+	<link certainty="0.515217" xtargets="s15.13;s6.4" id="SL36"></link>
+	<link certainty="0.916468" xtargets="s16.1;s7.1" id="SL38"></link>
+	<link certainty="0.642" xtargets="s16.2;s7.2" id="SL39"></link>
+	<link certainty="2.28281" xtargets="s17.1;s8.1" id="SL41"></link>
+	<link certainty="1.332375" xtargets="s17.2 s17.3;s8.2" id="SL42"></link>
+	<link certainty="0.263855" xtargets="s17.4;s8.3" id="SL43"></link>
+	<link certainty="0.6" xtargets="s18.1;s9.1" id="SL45"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/gadograf/gadovist-gadografbackgroundinfo-en.xml.gz" fromDoc="de/pdfs/human/referral/gadograf/gadovist-gadografbackgroundinfo-de.xml.gz">
+	<link certainty="2.55" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="7.6" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="0.3" xtargets="s2.2;s2.2" id="SL5"></link>
+	<link certainty="0.665823" xtargets="s3.1;s3.1" id="SL7"></link>
+	<link certainty="3.54255" xtargets="s4.1;s4.1" id="SL9"></link>
+	<link certainty="1.8" xtargets="s4.2;s4.2" id="SL10"></link>
+	<link certainty="1.484697" xtargets="s5.1;s5.1" id="SL12"></link>
+	<link certainty="1.068707" xtargets="s5.2;s5.2" id="SL13"></link>
+	<link certainty="0.302" xtargets="s5.3;s5.3" id="SL14"></link>
+	<link certainty="2.78807" xtargets="s6.1;s5.4" id="SL15"></link>
+	<link certainty="1.11352" xtargets="s6.2;s5.5" id="SL16"></link>
+	<link certainty="1.706823" xtargets="s7.1 s7.2;s5.6" id="SL17"></link>
+	<link certainty="1.35408" xtargets="s7.3;s5.7" id="SL18"></link>
+	<link certainty="1.161" xtargets="s7.4;s5.8" id="SL19"></link>
+	<link certainty="0.744231" xtargets="s7.5;s5.9" id="SL20"></link>
+	<link certainty="2.094143" xtargets="s8.1;s5.10" id="SL21"></link>
+	<link certainty="3.37846" xtargets="s8.2;s5.11" id="SL22"></link>
+	<link certainty="3.61647" xtargets="s8.3;s5.12" id="SL23"></link>
+	<link certainty="1.72222" xtargets="s8.4;s5.13" id="SL24"></link>
+	<link certainty="0.731011" xtargets="s9.1;s5.14" id="SL25"></link>
+	<link certainty="1.020455" xtargets="s9.2;s5.15" id="SL26"></link>
+	<link certainty="1.148333" xtargets="s9.3;s5.16" id="SL27"></link>
+	<link certainty="0.519545" xtargets="s9.4;s5.17" id="SL28"></link>
+	<link certainty="1.275" xtargets="s10.1 s11.1 s12.1 s13.1 s14.1 s15.1 s15.2;s5.18" id="SL29"></link>
+	<link certainty="3.062448" xtargets="s15.3 s15.4 s15.5;s5.19" id="SL30"></link>
+	<link certainty="-0.195552" xtargets="s15.6 s15.7;s5.20" id="SL31"></link>
+	<link certainty="2.390828" xtargets="s15.8 s15.9;s5.21" id="SL32"></link>
+	<link certainty="1.98929" xtargets="s15.10;s5.22" id="SL33"></link>
+	<link certainty="1.019227" xtargets="s15.11;s6.1 s6.2" id="SL34"></link>
+	<link certainty="1.187784" xtargets="s15.12;s6.3" id="SL35"></link>
+	<link certainty="0.515217" xtargets="s15.13;s6.4" id="SL36"></link>
+	<link certainty="0.916468" xtargets="s16.1;s7.1" id="SL38"></link>
+	<link certainty="0.642" xtargets="s16.2;s7.2" id="SL39"></link>
+	<link certainty="2.28281" xtargets="s17.1;s8.1" id="SL41"></link>
+	<link certainty="1.332375" xtargets="s17.2 s17.3;s8.2" id="SL42"></link>
+	<link certainty="0.263855" xtargets="s17.4;s8.3" id="SL43"></link>
+	<link certainty="0.6" xtargets="s18.1;s9.1" id="SL45"></link>
+</linkGrp>

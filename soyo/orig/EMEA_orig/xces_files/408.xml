@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/Ferriprox/038799en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/Ferriprox/038799de2.xml.gz">
+	<link certainty="0.294444" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="2.04" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="5.53966" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="0.266667" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="0.237209" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="2.84416" xtargets="s6.1;s6.1" id="SL12"></link>
+	<link certainty="5.91429" xtargets="s7.1;s7.1" id="SL14"></link>
+	<link certainty="6.23636" xtargets="s8.1;s8.1" id="SL16"></link>
+	<link certainty="0.6" xtargets="s9.1;s9.1" id="SL18"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/Ferriprox/038799en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/Ferriprox/038799de2.xml.gz">
+	<link certainty="0.294444" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="2.04" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="5.53966" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="0.266667" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="0.237209" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="2.84416" xtargets="s6.1;s6.1" id="SL12"></link>
+	<link certainty="5.91429" xtargets="s7.1;s7.1" id="SL14"></link>
+	<link certainty="6.23636" xtargets="s8.1;s8.1" id="SL16"></link>
+	<link certainty="0.6" xtargets="s9.1;s9.1" id="SL18"></link>
+</linkGrp>

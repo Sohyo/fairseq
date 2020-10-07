@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/agopton/Agopton-BackgroundSummary-en.xml.gz" fromDoc="de/pdfs/human/referral/agopton/Agopton-BackgroundSummary-de.xml.gz">
+	<link certainty="2.55" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.531818" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="1.50463" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="2.10862" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="1.67027" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="2.19929" xtargets="s6.1;s6.1" id="SL12"></link>
+	<link certainty="0.275" xtargets="s6.2;s6.2" id="SL13"></link>
+	<link certainty="0.259091" xtargets="s7.1;s7.1" id="SL15"></link>
+	<link certainty="1.599094" xtargets="s8.1;s8.1" id="SL17"></link>
+	<link certainty="1.832305" xtargets="s8.2;s8.2" id="SL18"></link>
+	<link certainty="1.22686" xtargets="s8.3;s8.3" id="SL19"></link>
+	<link certainty="3.31211" xtargets="s9.1;s9.1" id="SL21"></link>
+	<link certainty="1.680109" xtargets="s9.2;s9.2" id="SL22"></link>
+	<link certainty="0.841569" xtargets="s9.3;s9.3" id="SL23"></link>
+	<link certainty="2.757538" xtargets="s10.1 s10.2;s10.1" id="SL25"></link>
+	<link certainty="0.524308" xtargets="s10.3 s10.4;s10.2" id="SL26"></link>
+	<link certainty="0.986528" xtargets="s11.1;s11.1" id="SL28"></link>
+	<link certainty="4.6" xtargets=";s12.1" id="SL29"></link>
+	<link certainty="7.36291" xtargets="s12.1;s13.1" id="SL30"></link>
+	<link certainty="2.46291" xtargets="s12.2;s13.2" id="SL31"></link>
+	<link certainty="0.039362" xtargets="s13.1 s13.2;" id="SL32"></link>
+	<link certainty="1.144314" xtargets="s14.1;s14.1" id="SL33"></link>
+	<link certainty="0.804952" xtargets="s14.2;s14.2" id="SL34"></link>
+	<link certainty="1.63611" xtargets="s15.1 s15.2;s15.1" id="SL36"></link>
+	<link certainty="0.3" xtargets="s16.1;s16.1" id="SL38"></link>
+	<link certainty="12.6" xtargets="s17.1;s17.1" id="SL40"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/agopton/Agopton-BackgroundSummary-en.xml.gz" fromDoc="de/pdfs/human/referral/agopton/Agopton-BackgroundSummary-de.xml.gz">
+	<link certainty="2.55" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.531818" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="1.50463" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="2.10862" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="1.67027" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="2.19929" xtargets="s6.1;s6.1" id="SL12"></link>
+	<link certainty="0.275" xtargets="s6.2;s6.2" id="SL13"></link>
+	<link certainty="0.259091" xtargets="s7.1;s7.1" id="SL15"></link>
+	<link certainty="1.599094" xtargets="s8.1;s8.1" id="SL17"></link>
+	<link certainty="1.832305" xtargets="s8.2;s8.2" id="SL18"></link>
+	<link certainty="1.22686" xtargets="s8.3;s8.3" id="SL19"></link>
+	<link certainty="3.31211" xtargets="s9.1;s9.1" id="SL21"></link>
+	<link certainty="1.680109" xtargets="s9.2;s9.2" id="SL22"></link>
+	<link certainty="0.841569" xtargets="s9.3;s9.3" id="SL23"></link>
+	<link certainty="2.757538" xtargets="s10.1 s10.2;s10.1" id="SL25"></link>
+	<link certainty="0.524308" xtargets="s10.3 s10.4;s10.2" id="SL26"></link>
+	<link certainty="0.986528" xtargets="s11.1;s11.1" id="SL28"></link>
+	<link certainty="4.6" xtargets=";s12.1" id="SL29"></link>
+	<link certainty="7.36291" xtargets="s12.1;s13.1" id="SL30"></link>
+	<link certainty="2.46291" xtargets="s12.2;s13.2" id="SL31"></link>
+	<link certainty="0.039362" xtargets="s13.1 s13.2;" id="SL32"></link>
+	<link certainty="1.144314" xtargets="s14.1;s14.1" id="SL33"></link>
+	<link certainty="0.804952" xtargets="s14.2;s14.2" id="SL34"></link>
+	<link certainty="1.63611" xtargets="s15.1 s15.2;s15.1" id="SL36"></link>
+	<link certainty="0.3" xtargets="s16.1;s16.1" id="SL38"></link>
+	<link certainty="12.6" xtargets="s17.1;s17.1" id="SL40"></link>
+</linkGrp>

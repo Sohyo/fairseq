@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/vetdocs/PDFs/EPAR/Vaxxitek/075502en1.xml.gz" fromDoc="de/vetdocs/PDFs/EPAR/Vaxxitek/075502de1.xml.gz">
+	<link certainty="2.8" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.3" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="1.46409" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="2.3" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="1.0375" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="0.687753" xtargets="s6.1;s6.1 s6.2" id="SL12"></link>
+	<link certainty="0.898839" xtargets="s6.2;s6.3" id="SL13"></link>
+	<link certainty="1.258517" xtargets="s6.3;s6.4" id="SL14"></link>
+	<link certainty="0.905392" xtargets="s6.4;s6.5" id="SL15"></link>
+	<link certainty="1.8" xtargets="s7.1;s7.1" id="SL17"></link>
+	<link certainty="1.68986" xtargets="s8.1;s8.1" id="SL19"></link>
+	<link certainty="0.4375" xtargets="s8.2;s8.2" id="SL20"></link>
+	<link certainty="1.94429" xtargets="s9.1;s9.1" id="SL22"></link>
+	<link certainty="0.913429" xtargets="s10.1 s10.2;s10.1" id="SL24"></link>
+	<link certainty="0.60378" xtargets="s10.3;s10.2" id="SL25"></link>
+	<link certainty="1.764" xtargets="s11.1;s11.1" id="SL27"></link>
+	<link certainty="1.098906" xtargets="s12.1;s12.1" id="SL29"></link>
+	<link certainty="0.283451" xtargets="s12.2;s12.2" id="SL30"></link>
+	<link certainty="1.57689" xtargets="s13.1;s13.1" id="SL32"></link>
+	<link certainty="1.083938" xtargets="s14.1;s14.1" id="SL34"></link>
+	<link certainty="0.86023" xtargets="s14.2;s14.2" id="SL35"></link>
+	<link certainty="0.363134" xtargets="s14.3;s14.3" id="SL36"></link>
+	<link certainty="0.665068" xtargets="s15.1;s15.1" id="SL38"></link>
+	<link certainty="6.14892" xtargets="s15.2;s15.2 s15.3 s16.1" id="SL39"></link>
+	<link certainty="2.38565" xtargets="s15.3;s16.2" id="SL40"></link>
+	<link certainty="0.16194" xtargets="s15.4 s16.1;" id="SL41"></link>
+	<link certainty="3.56921" xtargets="s17.1;s17.1" id="SL42"></link>
+	<link certainty="3.38327" xtargets="s17.2;s17.2" id="SL43"></link>
+	<link certainty="4.84267" xtargets="s17.3;s17.3" id="SL44"></link>
+	<link certainty="4.784582" xtargets="s17.4;s17.4" id="SL45"></link>
+	<link certainty="0.517912" xtargets="s17.5;s17.5" id="SL46"></link>
+	<link certainty="1.29318" xtargets="s18.1;s18.1" id="SL48"></link>
+	<link certainty="0.658403" xtargets="s19.1 s19.2;s19.1" id="SL50"></link>
+	<link certainty="2.631554" xtargets="s19.3;s19.2" id="SL51"></link>
+	<link certainty="2.682449" xtargets="s19.4;s19.3" id="SL52"></link>
+	<link certainty="0.564189" xtargets="s19.5;s19.4" id="SL53"></link>
+	<link certainty="0.472941" xtargets="s20.1;s20.1" id="SL55"></link>
+	<link certainty="0.751812" xtargets="s21.1;s21.1" id="SL57"></link>
+	<link certainty="0.788462" xtargets="s22.1;s22.1" id="SL59"></link>
+	<link certainty="0.3" xtargets="s23.1;s23.1" id="SL61"></link>
+	<link certainty="1.56857" xtargets="s24.1;s24.1" id="SL63"></link>
+	<link certainty="4.30239" xtargets="s25.1;s25.1" id="SL65"></link>
+	<link certainty="3.26604" xtargets="s25.2;s25.2" id="SL66"></link>
+	<link certainty="1.55414" xtargets="s26.1;s26.1" id="SL68"></link>
+	<link certainty="0.89861" xtargets="s27.1 s27.2;s27.1" id="SL70"></link>
+	<link certainty="1.212381" xtargets="s27.3;s27.2" id="SL71"></link>
+	<link certainty="0.641463" xtargets="s27.4;s27.3" id="SL72"></link>
+	<link certainty="0.487387" xtargets="s28.1;s28.1" id="SL74"></link>
+	<link certainty="12.3" xtargets="s29.1;s29.1" id="SL76"></link>
+	<link certainty="0.5625" xtargets="s30.1;s30.1" id="SL78"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/vetdocs/PDFs/EPAR/Vaxxitek/075502en1.xml.gz" fromDoc="de/vetdocs/PDFs/EPAR/Vaxxitek/075502de1.xml.gz">
+	<link certainty="2.8" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.3" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="1.46409" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="2.3" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="1.0375" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="0.687753" xtargets="s6.1;s6.1 s6.2" id="SL12"></link>
+	<link certainty="0.898839" xtargets="s6.2;s6.3" id="SL13"></link>
+	<link certainty="1.258517" xtargets="s6.3;s6.4" id="SL14"></link>
+	<link certainty="0.905392" xtargets="s6.4;s6.5" id="SL15"></link>
+	<link certainty="1.8" xtargets="s7.1;s7.1" id="SL17"></link>
+	<link certainty="1.68986" xtargets="s8.1;s8.1" id="SL19"></link>
+	<link certainty="0.4375" xtargets="s8.2;s8.2" id="SL20"></link>
+	<link certainty="1.94429" xtargets="s9.1;s9.1" id="SL22"></link>
+	<link certainty="0.913429" xtargets="s10.1 s10.2;s10.1" id="SL24"></link>
+	<link certainty="0.60378" xtargets="s10.3;s10.2" id="SL25"></link>
+	<link certainty="1.764" xtargets="s11.1;s11.1" id="SL27"></link>
+	<link certainty="1.098906" xtargets="s12.1;s12.1" id="SL29"></link>
+	<link certainty="0.283451" xtargets="s12.2;s12.2" id="SL30"></link>
+	<link certainty="1.57689" xtargets="s13.1;s13.1" id="SL32"></link>
+	<link certainty="1.083938" xtargets="s14.1;s14.1" id="SL34"></link>
+	<link certainty="0.86023" xtargets="s14.2;s14.2" id="SL35"></link>
+	<link certainty="0.363134" xtargets="s14.3;s14.3" id="SL36"></link>
+	<link certainty="0.665068" xtargets="s15.1;s15.1" id="SL38"></link>
+	<link certainty="6.14892" xtargets="s15.2;s15.2 s15.3 s16.1" id="SL39"></link>
+	<link certainty="2.38565" xtargets="s15.3;s16.2" id="SL40"></link>
+	<link certainty="0.16194" xtargets="s15.4 s16.1;" id="SL41"></link>
+	<link certainty="3.56921" xtargets="s17.1;s17.1" id="SL42"></link>
+	<link certainty="3.38327" xtargets="s17.2;s17.2" id="SL43"></link>
+	<link certainty="4.84267" xtargets="s17.3;s17.3" id="SL44"></link>
+	<link certainty="4.784582" xtargets="s17.4;s17.4" id="SL45"></link>
+	<link certainty="0.517912" xtargets="s17.5;s17.5" id="SL46"></link>
+	<link certainty="1.29318" xtargets="s18.1;s18.1" id="SL48"></link>
+	<link certainty="0.658403" xtargets="s19.1 s19.2;s19.1" id="SL50"></link>
+	<link certainty="2.631554" xtargets="s19.3;s19.2" id="SL51"></link>
+	<link certainty="2.682449" xtargets="s19.4;s19.3" id="SL52"></link>
+	<link certainty="0.564189" xtargets="s19.5;s19.4" id="SL53"></link>
+	<link certainty="0.472941" xtargets="s20.1;s20.1" id="SL55"></link>
+	<link certainty="0.751812" xtargets="s21.1;s21.1" id="SL57"></link>
+	<link certainty="0.788462" xtargets="s22.1;s22.1" id="SL59"></link>
+	<link certainty="0.3" xtargets="s23.1;s23.1" id="SL61"></link>
+	<link certainty="1.56857" xtargets="s24.1;s24.1" id="SL63"></link>
+	<link certainty="4.30239" xtargets="s25.1;s25.1" id="SL65"></link>
+	<link certainty="3.26604" xtargets="s25.2;s25.2" id="SL66"></link>
+	<link certainty="1.55414" xtargets="s26.1;s26.1" id="SL68"></link>
+	<link certainty="0.89861" xtargets="s27.1 s27.2;s27.1" id="SL70"></link>
+	<link certainty="1.212381" xtargets="s27.3;s27.2" id="SL71"></link>
+	<link certainty="0.641463" xtargets="s27.4;s27.3" id="SL72"></link>
+	<link certainty="0.487387" xtargets="s28.1;s28.1" id="SL74"></link>
+	<link certainty="12.3" xtargets="s29.1;s29.1" id="SL76"></link>
+	<link certainty="0.5625" xtargets="s30.1;s30.1" id="SL78"></link>
+</linkGrp>

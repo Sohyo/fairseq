@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/exjade/H-670-en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/exjade/H-670-de2.xml.gz">
+	<link certainty="0.214286" xtargets="s1.1 s2.1 s3.1 s4.1 s5.1 s6.1 s7.1 s8.1;" id="SL1"></link>
+	<link certainty="0.214286" xtargets="s9.1;s1.1" id="SL2"></link>
+	<link certainty="-0.3" xtargets="s10.1 s11.1;" id="SL3"></link>
+	<link certainty="0.3" xtargets="s12.1;s2.1" id="SL4"></link>
+	<link certainty="-0.1" xtargets="s13.1;" id="SL5"></link>
+	<link certainty="0.2" xtargets="s14.1;s3.1" id="SL6"></link>
+	<link certainty="0.24375" xtargets="s15.1;s4.1" id="SL8"></link>
+	<link certainty="-1.009091" xtargets="s16.1 s17.1 s18.1 s19.1;" id="SL9"></link>
+	<link certainty="0.190909" xtargets="s20.1;s5.1" id="SL10"></link>
+	<link certainty="0.24" xtargets="s21.1;s6.1" id="SL12"></link>
+	<link certainty="-1.5" xtargets="s22.1 s23.1 s24.1 s25.1 s26.1 s27.1;" id="SL13"></link>
+	<link certainty="0.3" xtargets="s28.1;s7.1" id="SL14"></link>
+	<link certainty="-0.9" xtargets="s29.1 s30.1;" id="SL15"></link>
+	<link certainty="2.109" xtargets="s31.1 s32.1;s8.1" id="SL16"></link>
+	<link certainty="-1.5" xtargets="s33.1 s34.1 s35.1 s36.1;" id="SL17"></link>
+	<link certainty="-0.33" xtargets="s37.1 s38.1 s39.1;s9.1" id="SL18"></link>
+	<link certainty="-0.3" xtargets="s40.1;" id="SL20"></link>
+	<link certainty="-0.9" xtargets="s41.1 s42.1 s43.1 s44.1 s45.1;s10.1" id="SL21"></link>
+	<link certainty="-0.324" xtargets="s46.1;s11.1" id="SL23"></link>
+	<link certainty="-1.584" xtargets="s47.1 s48.1 s49.1 s50.1 s51.1 s52.1;" id="SL24"></link>
+	<link certainty="0.216" xtargets="s53.1;s12.1" id="SL25"></link>
+	<link certainty="-0.87" xtargets="s54.1;" id="SL26"></link>
+	<link certainty="-0.57" xtargets="s55.1;s13.1" id="SL27"></link>
+	<link certainty="-1.11" xtargets="s56.1 s57.1 s58.1 s59.1;" id="SL28"></link>
+	<link certainty="0.09" xtargets="s60.1;s14.1" id="SL29"></link>
+	<link certainty="0.625" xtargets="s61.1;s15.1" id="SL31"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/exjade/H-670-en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/exjade/H-670-de2.xml.gz">
+	<link certainty="0.214286" xtargets="s1.1 s2.1 s3.1 s4.1 s5.1 s6.1 s7.1 s8.1;" id="SL1"></link>
+	<link certainty="0.214286" xtargets="s9.1;s1.1" id="SL2"></link>
+	<link certainty="-0.3" xtargets="s10.1 s11.1;" id="SL3"></link>
+	<link certainty="0.3" xtargets="s12.1;s2.1" id="SL4"></link>
+	<link certainty="-0.1" xtargets="s13.1;" id="SL5"></link>
+	<link certainty="0.2" xtargets="s14.1;s3.1" id="SL6"></link>
+	<link certainty="0.24375" xtargets="s15.1;s4.1" id="SL8"></link>
+	<link certainty="-1.009091" xtargets="s16.1 s17.1 s18.1 s19.1;" id="SL9"></link>
+	<link certainty="0.190909" xtargets="s20.1;s5.1" id="SL10"></link>
+	<link certainty="0.24" xtargets="s21.1;s6.1" id="SL12"></link>
+	<link certainty="-1.5" xtargets="s22.1 s23.1 s24.1 s25.1 s26.1 s27.1;" id="SL13"></link>
+	<link certainty="0.3" xtargets="s28.1;s7.1" id="SL14"></link>
+	<link certainty="-0.9" xtargets="s29.1 s30.1;" id="SL15"></link>
+	<link certainty="2.109" xtargets="s31.1 s32.1;s8.1" id="SL16"></link>
+	<link certainty="-1.5" xtargets="s33.1 s34.1 s35.1 s36.1;" id="SL17"></link>
+	<link certainty="-0.33" xtargets="s37.1 s38.1 s39.1;s9.1" id="SL18"></link>
+	<link certainty="-0.3" xtargets="s40.1;" id="SL20"></link>
+	<link certainty="-0.9" xtargets="s41.1 s42.1 s43.1 s44.1 s45.1;s10.1" id="SL21"></link>
+	<link certainty="-0.324" xtargets="s46.1;s11.1" id="SL23"></link>
+	<link certainty="-1.584" xtargets="s47.1 s48.1 s49.1 s50.1 s51.1 s52.1;" id="SL24"></link>
+	<link certainty="0.216" xtargets="s53.1;s12.1" id="SL25"></link>
+	<link certainty="-0.87" xtargets="s54.1;" id="SL26"></link>
+	<link certainty="-0.57" xtargets="s55.1;s13.1" id="SL27"></link>
+	<link certainty="-1.11" xtargets="s56.1 s57.1 s58.1 s59.1;" id="SL28"></link>
+	<link certainty="0.09" xtargets="s60.1;s14.1" id="SL29"></link>
+	<link certainty="0.625" xtargets="s61.1;s15.1" id="SL31"></link>
+</linkGrp>

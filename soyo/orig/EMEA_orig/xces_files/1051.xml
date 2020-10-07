@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/ribavirin_teva/H-1018-en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/ribavirin_teva/H-1018-de2.xml.gz">
+	<link certainty="-0.252" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="1.9" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="1.43077" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="-0.144444" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="0.0642857" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="0.889474" xtargets="s6.1;s6.1" id="SL12"></link>
+	<link certainty="1.46538" xtargets="s7.1;s7.1" id="SL14"></link>
+	<link certainty="-3.3" xtargets="s8.1 s9.1 s10.1 s11.1 s12.1 s13.1 s14.1 s15.1 s16.1 s17.1;" id="SL15"></link>
+	<link certainty="-2.7" xtargets="s18.1 s19.1 s20.1 s21.1 s22.1 s23.1 s24.1 s25.1 s26.1 s27.1 s28.1 s29.1;s8.1" id="SL16"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/ribavirin_teva/H-1018-en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/ribavirin_teva/H-1018-de2.xml.gz">
+	<link certainty="-0.252" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="1.9" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="1.43077" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="-0.144444" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="0.0642857" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="0.889474" xtargets="s6.1;s6.1" id="SL12"></link>
+	<link certainty="1.46538" xtargets="s7.1;s7.1" id="SL14"></link>
+	<link certainty="-3.3" xtargets="s8.1 s9.1 s10.1 s11.1 s12.1 s13.1 s14.1 s15.1 s16.1 s17.1;" id="SL15"></link>
+	<link certainty="-2.7" xtargets="s18.1 s19.1 s20.1 s21.1 s22.1 s23.1 s24.1 s25.1 s26.1 s27.1 s28.1 s29.1;s8.1" id="SL16"></link>
+</linkGrp>

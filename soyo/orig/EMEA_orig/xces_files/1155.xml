@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/targretin/421200en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/targretin/421200de2.xml.gz">
+	<link certainty="0.266667" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.115385" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="0.2625" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="0.264706" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="0.1875" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="0.27" xtargets="s6.1;s6.1" id="SL12"></link>
+	<link certainty="-0.325" xtargets="s7.1;s7.1" id="SL14"></link>
+	<link certainty="0.3" xtargets="s8.1;s8.1" id="SL16"></link>
+	<link certainty="1.8" xtargets="s9.1;s9.1" id="SL18"></link>
+	<link certainty="0.3" xtargets="s10.1;s10.1" id="SL20"></link>
+	<link certainty="0.275" xtargets="s11.1;s11.1" id="SL22"></link>
+	<link certainty="0.1125" xtargets="s12.1;s12.1" id="SL24"></link>
+	<link certainty="2.07692" xtargets="s13.1;s13.1" id="SL26"></link>
+	<link certainty="16.8" xtargets="s14.1;s14.1" id="SL28"></link>
+	<link certainty="0.6" xtargets="s15.1;s15.1" id="SL30"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/targretin/421200en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/targretin/421200de2.xml.gz">
+	<link certainty="0.266667" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.115385" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="0.2625" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="0.264706" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="0.1875" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="0.27" xtargets="s6.1;s6.1" id="SL12"></link>
+	<link certainty="-0.325" xtargets="s7.1;s7.1" id="SL14"></link>
+	<link certainty="0.3" xtargets="s8.1;s8.1" id="SL16"></link>
+	<link certainty="1.8" xtargets="s9.1;s9.1" id="SL18"></link>
+	<link certainty="0.3" xtargets="s10.1;s10.1" id="SL20"></link>
+	<link certainty="0.275" xtargets="s11.1;s11.1" id="SL22"></link>
+	<link certainty="0.1125" xtargets="s12.1;s12.1" id="SL24"></link>
+	<link certainty="2.07692" xtargets="s13.1;s13.1" id="SL26"></link>
+	<link certainty="16.8" xtargets="s14.1;s14.1" id="SL28"></link>
+	<link certainty="0.6" xtargets="s15.1;s15.1" id="SL30"></link>
+</linkGrp>

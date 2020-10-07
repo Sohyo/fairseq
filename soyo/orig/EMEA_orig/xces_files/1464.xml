@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/bicalutamide/37845107en.xml.gz" fromDoc="de/pdfs/human/referral/bicalutamide/37845107de.xml.gz">
+	<link certainty="2.55" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.7" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="1.50463" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="1.68277" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="4.11818" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="0.752143" xtargets="s6.1 s6.2;s6.1" id="SL12"></link>
+	<link certainty="0.259091" xtargets="s7.1;s7.1" id="SL14"></link>
+	<link certainty="3.7628" xtargets="s8.1;s8.1" id="SL16"></link>
+	<link certainty="3.759467" xtargets="s8.2;s8.2" id="SL17"></link>
+	<link certainty="1.261527" xtargets="s8.3;s8.3" id="SL18"></link>
+	<link certainty="0.56075" xtargets="s8.4;s8.4" id="SL19"></link>
+	<link certainty="0.996659" xtargets="s8.5 s8.6;s8.5" id="SL20"></link>
+	<link certainty="3.194989" xtargets="s8.7;s8.6" id="SL21"></link>
+	<link certainty="5.46406" xtargets="s8.8;s8.7" id="SL22"></link>
+	<link certainty="3.09984" xtargets="s8.9;s8.8" id="SL23"></link>
+	<link certainty="1.07391" xtargets="s9.1;s9.1" id="SL25"></link>
+	<link certainty="1.10831" xtargets="s10.1;s10.1" id="SL27"></link>
+	<link certainty="0.987931" xtargets="s11.1;s11.1" id="SL29"></link>
+	<link certainty="0.905128" xtargets="s12.1;s12.1" id="SL31"></link>
+	<link certainty="2.15404" xtargets="s13.1 s13.2;s13.1" id="SL33"></link>
+	<link certainty="-0.39393939" xtargets="s13.3 s13.4 s13.5 s13.6 s13.7;s13.2" id="SL34"></link>
+	<link certainty="2.26538061" xtargets="s13.8 s13.9 s13.10;s13.3" id="SL35"></link>
+	<link certainty="2.3563084" xtargets="s13.11 s13.12;s13.4" id="SL36"></link>
+	<link certainty="1.6603884" xtargets="s13.13 s13.14;s13.5" id="SL37"></link>
+	<link certainty="1.5634" xtargets="s13.15;s13.6" id="SL38"></link>
+	<link certainty="1.645983" xtargets="s14.1;s14.1" id="SL40"></link>
+	<link certainty="0.395533" xtargets="s14.2;s14.2" id="SL41"></link>
+	<link certainty="-0.6" xtargets=";s15.1" id="SL43"></link>
+	<link certainty="5.66773" xtargets="s15.1;s15.2 s15.3 s15.4" id="SL44"></link>
+	<link certainty="1.86773" xtargets="s15.2;s15.5" id="SL45"></link>
+	<link certainty="0.736723" xtargets="s15.3 s15.4 s16.1 s16.2 s16.3;s15.6" id="SL46"></link>
+	<link certainty="0.73712" xtargets="s16.4;s15.7" id="SL47"></link>
+	<link certainty="0.3" xtargets="s17.1;s16.1" id="SL49"></link>
+	<link certainty="1.5" xtargets="s18.1;s17.1" id="SL51"></link>
+	<link certainty="0.5625" xtargets="s19.1;s18.1" id="SL53"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/bicalutamide/37845107en.xml.gz" fromDoc="de/pdfs/human/referral/bicalutamide/37845107de.xml.gz">
+	<link certainty="2.55" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.7" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="1.50463" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="1.68277" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="4.11818" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="0.752143" xtargets="s6.1 s6.2;s6.1" id="SL12"></link>
+	<link certainty="0.259091" xtargets="s7.1;s7.1" id="SL14"></link>
+	<link certainty="3.7628" xtargets="s8.1;s8.1" id="SL16"></link>
+	<link certainty="3.759467" xtargets="s8.2;s8.2" id="SL17"></link>
+	<link certainty="1.261527" xtargets="s8.3;s8.3" id="SL18"></link>
+	<link certainty="0.56075" xtargets="s8.4;s8.4" id="SL19"></link>
+	<link certainty="0.996659" xtargets="s8.5 s8.6;s8.5" id="SL20"></link>
+	<link certainty="3.194989" xtargets="s8.7;s8.6" id="SL21"></link>
+	<link certainty="5.46406" xtargets="s8.8;s8.7" id="SL22"></link>
+	<link certainty="3.09984" xtargets="s8.9;s8.8" id="SL23"></link>
+	<link certainty="1.07391" xtargets="s9.1;s9.1" id="SL25"></link>
+	<link certainty="1.10831" xtargets="s10.1;s10.1" id="SL27"></link>
+	<link certainty="0.987931" xtargets="s11.1;s11.1" id="SL29"></link>
+	<link certainty="0.905128" xtargets="s12.1;s12.1" id="SL31"></link>
+	<link certainty="2.15404" xtargets="s13.1 s13.2;s13.1" id="SL33"></link>
+	<link certainty="-0.39393939" xtargets="s13.3 s13.4 s13.5 s13.6 s13.7;s13.2" id="SL34"></link>
+	<link certainty="2.26538061" xtargets="s13.8 s13.9 s13.10;s13.3" id="SL35"></link>
+	<link certainty="2.3563084" xtargets="s13.11 s13.12;s13.4" id="SL36"></link>
+	<link certainty="1.6603884" xtargets="s13.13 s13.14;s13.5" id="SL37"></link>
+	<link certainty="1.5634" xtargets="s13.15;s13.6" id="SL38"></link>
+	<link certainty="1.645983" xtargets="s14.1;s14.1" id="SL40"></link>
+	<link certainty="0.395533" xtargets="s14.2;s14.2" id="SL41"></link>
+	<link certainty="-0.6" xtargets=";s15.1" id="SL43"></link>
+	<link certainty="5.66773" xtargets="s15.1;s15.2 s15.3 s15.4" id="SL44"></link>
+	<link certainty="1.86773" xtargets="s15.2;s15.5" id="SL45"></link>
+	<link certainty="0.736723" xtargets="s15.3 s15.4 s16.1 s16.2 s16.3;s15.6" id="SL46"></link>
+	<link certainty="0.73712" xtargets="s16.4;s15.7" id="SL47"></link>
+	<link certainty="0.3" xtargets="s17.1;s16.1" id="SL49"></link>
+	<link certainty="1.5" xtargets="s18.1;s17.1" id="SL51"></link>
+	<link certainty="0.5625" xtargets="s19.1;s18.1" id="SL53"></link>
+</linkGrp>

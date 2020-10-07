@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/Paxene/039999en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/Paxene/039999de2.xml.gz">
+	<link certainty="0.159574" xtargets="s1.1 s2.1 s3.1 s4.1 s5.1 s6.1 s7.1 s8.1;" id="SL1"></link>
+	<link certainty="0.159574" xtargets="s9.1;s1.1" id="SL2"></link>
+	<link certainty="0.19545" xtargets="s10.1 s11.1 s12.1;" id="SL3"></link>
+	<link certainty="1.09545" xtargets="s13.1;s2.1" id="SL4"></link>
+	<link certainty="-0.225" xtargets="s14.1 s15.1 s16.1;" id="SL5"></link>
+	<link certainty="0.675" xtargets="s17.1;s3.1" id="SL6"></link>
+	<link certainty="-1.26383" xtargets="s18.1 s19.1 s20.1;" id="SL7"></link>
+	<link certainty="-0.36383" xtargets="s21.1;s4.1" id="SL8"></link>
+	<link certainty="-0.152857" xtargets="s22.1;" id="SL9"></link>
+	<link certainty="0.147143" xtargets="s23.1;s5.1" id="SL10"></link>
+	<link certainty="-1.2" xtargets="s24.1 s25.1 s26.1;" id="SL11"></link>
+	<link certainty="0.52114" xtargets="s27.1 s28.1 s29.1;s6.1" id="SL12"></link>
+	<link certainty="1.09474" xtargets="s30.1;s7.1" id="SL14"></link>
+	<link certainty="17.1" xtargets="s31.1;s8.1" id="SL16"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/Paxene/039999en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/Paxene/039999de2.xml.gz">
+	<link certainty="0.159574" xtargets="s1.1 s2.1 s3.1 s4.1 s5.1 s6.1 s7.1 s8.1;" id="SL1"></link>
+	<link certainty="0.159574" xtargets="s9.1;s1.1" id="SL2"></link>
+	<link certainty="0.19545" xtargets="s10.1 s11.1 s12.1;" id="SL3"></link>
+	<link certainty="1.09545" xtargets="s13.1;s2.1" id="SL4"></link>
+	<link certainty="-0.225" xtargets="s14.1 s15.1 s16.1;" id="SL5"></link>
+	<link certainty="0.675" xtargets="s17.1;s3.1" id="SL6"></link>
+	<link certainty="-1.26383" xtargets="s18.1 s19.1 s20.1;" id="SL7"></link>
+	<link certainty="-0.36383" xtargets="s21.1;s4.1" id="SL8"></link>
+	<link certainty="-0.152857" xtargets="s22.1;" id="SL9"></link>
+	<link certainty="0.147143" xtargets="s23.1;s5.1" id="SL10"></link>
+	<link certainty="-1.2" xtargets="s24.1 s25.1 s26.1;" id="SL11"></link>
+	<link certainty="0.52114" xtargets="s27.1 s28.1 s29.1;s6.1" id="SL12"></link>
+	<link certainty="1.09474" xtargets="s30.1;s7.1" id="SL14"></link>
+	<link certainty="17.1" xtargets="s31.1;s8.1" id="SL16"></link>
+</linkGrp>

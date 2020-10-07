@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/lisonorm/lisonorm_bi_en.xml.gz" fromDoc="de/pdfs/human/referral/lisonorm/lisonorm_bi_de.xml.gz">
+	<link certainty="3" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.739535" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="1.50463" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="0.362109" xtargets="s4.1 s4.2;s4.1" id="SL8"></link>
+	<link certainty="0.259091" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="0.562693" xtargets="s6.1;s6.1" id="SL12"></link>
+	<link certainty="0.468212" xtargets="s7.1 s7.2;s7.1" id="SL14"></link>
+	<link certainty="2.99389" xtargets="s8.1;s8.1" id="SL16"></link>
+	<link certainty="0.64902" xtargets="s8.2;s8.2" id="SL17"></link>
+	<link certainty="0.42211" xtargets="s8.3 s8.4;" id="SL18"></link>
+	<link certainty="1.581737" xtargets="s9.1;s9.1" id="SL19"></link>
+	<link certainty="0.559627" xtargets="s9.2;s9.2" id="SL20"></link>
+	<link certainty="0.440565" xtargets="s10.1 s10.2;s10.1" id="SL22"></link>
+	<link certainty="0.311398" xtargets="s10.3;s10.2" id="SL23"></link>
+	<link certainty="0.706487" xtargets="s11.1 s11.2;s11.1" id="SL25"></link>
+	<link certainty="1.007598" xtargets="s11.3 s11.4 s11.5 s11.6;s11.2" id="SL26"></link>
+	<link certainty="0.715493" xtargets="s11.7;s11.3" id="SL27"></link>
+	<link certainty="1.778058" xtargets="s12.1;s12.1" id="SL29"></link>
+	<link certainty="6.989218" xtargets="s12.2;s12.2" id="SL30"></link>
+	<link certainty="6.3" xtargets="s12.3;s12.3" id="SL31"></link>
+	<link certainty="0.145588" xtargets="s12.4;s13.1 s13.2" id="SL32"></link>
+	<link certainty="0.542308" xtargets=";s14.1" id="SL33"></link>
+	<link certainty="5.742308" xtargets="s13.1;s15.1" id="SL34"></link>
+	<link certainty="8.86667" xtargets="s13.2;s15.2" id="SL35"></link>
+	<link certainty="6.96667" xtargets="s13.3;s15.3" id="SL36"></link>
+	<link certainty="2.7" xtargets="s13.4;s15.4" id="SL37"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/lisonorm/lisonorm_bi_en.xml.gz" fromDoc="de/pdfs/human/referral/lisonorm/lisonorm_bi_de.xml.gz">
+	<link certainty="3" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.739535" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="1.50463" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="0.362109" xtargets="s4.1 s4.2;s4.1" id="SL8"></link>
+	<link certainty="0.259091" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="0.562693" xtargets="s6.1;s6.1" id="SL12"></link>
+	<link certainty="0.468212" xtargets="s7.1 s7.2;s7.1" id="SL14"></link>
+	<link certainty="2.99389" xtargets="s8.1;s8.1" id="SL16"></link>
+	<link certainty="0.64902" xtargets="s8.2;s8.2" id="SL17"></link>
+	<link certainty="0.42211" xtargets="s8.3 s8.4;" id="SL18"></link>
+	<link certainty="1.581737" xtargets="s9.1;s9.1" id="SL19"></link>
+	<link certainty="0.559627" xtargets="s9.2;s9.2" id="SL20"></link>
+	<link certainty="0.440565" xtargets="s10.1 s10.2;s10.1" id="SL22"></link>
+	<link certainty="0.311398" xtargets="s10.3;s10.2" id="SL23"></link>
+	<link certainty="0.706487" xtargets="s11.1 s11.2;s11.1" id="SL25"></link>
+	<link certainty="1.007598" xtargets="s11.3 s11.4 s11.5 s11.6;s11.2" id="SL26"></link>
+	<link certainty="0.715493" xtargets="s11.7;s11.3" id="SL27"></link>
+	<link certainty="1.778058" xtargets="s12.1;s12.1" id="SL29"></link>
+	<link certainty="6.989218" xtargets="s12.2;s12.2" id="SL30"></link>
+	<link certainty="6.3" xtargets="s12.3;s12.3" id="SL31"></link>
+	<link certainty="0.145588" xtargets="s12.4;s13.1 s13.2" id="SL32"></link>
+	<link certainty="0.542308" xtargets=";s14.1" id="SL33"></link>
+	<link certainty="5.742308" xtargets="s13.1;s15.1" id="SL34"></link>
+	<link certainty="8.86667" xtargets="s13.2;s15.2" id="SL35"></link>
+	<link certainty="6.96667" xtargets="s13.3;s15.3" id="SL36"></link>
+	<link certainty="2.7" xtargets="s13.4;s15.4" id="SL37"></link>
+</linkGrp>

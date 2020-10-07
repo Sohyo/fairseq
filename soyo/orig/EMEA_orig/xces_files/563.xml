@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/invega/H-746-en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/invega/H-746-de2.xml.gz">
+	<link certainty="-0.3" xtargets="s1.1 s2.1 s3.1 s4.1 s5.1 s6.1;" id="SL1"></link>
+	<link certainty="-0.020219" xtargets="s7.1 s8.1;s1.1" id="SL2"></link>
+	<link certainty="3.06137" xtargets="s9.1;s2.1" id="SL4"></link>
+	<link certainty="3.61457" xtargets="s10.1;s3.1" id="SL6"></link>
+	<link certainty="2.85521" xtargets="s11.1;s4.1" id="SL8"></link>
+	<link certainty="1.50755" xtargets="s12.1;s5.1" id="SL10"></link>
+	<link certainty="2.11788" xtargets="s13.1;s6.1" id="SL12"></link>
+	<link certainty="3.49607" xtargets="s14.1;s7.1" id="SL14"></link>
+	<link certainty="-0.033993" xtargets=";s8.1" id="SL15"></link>
+	<link certainty="0.266007" xtargets="s15.1;s9.1" id="SL16"></link>
+	<link certainty="3.18877" xtargets="s16.1;s10.1" id="SL18"></link>
+	<link certainty="3.61082" xtargets="s17.1;s11.1" id="SL20"></link>
+	<link certainty="2.81764" xtargets="s18.1;s12.1" id="SL22"></link>
+	<link certainty="1.51115" xtargets="s19.1;s13.1" id="SL24"></link>
+	<link certainty="2.0879" xtargets="s20.1;s14.1" id="SL26"></link>
+	<link certainty="3.51527" xtargets="s21.1;s15.1" id="SL28"></link>
+	<link certainty="-0.133624" xtargets=";s16.1" id="SL29"></link>
+	<link certainty="0.166376" xtargets="s22.1;s17.1" id="SL30"></link>
+	<link certainty="2.97404" xtargets="s23.1;s18.1" id="SL32"></link>
+	<link certainty="3.07691" xtargets="s24.1;s19.1" id="SL34"></link>
+	<link certainty="2.72293" xtargets="s25.1;s20.1" id="SL36"></link>
+	<link certainty="2.37871" xtargets="s26.1;s21.1" id="SL38"></link>
+	<link certainty="2.40594" xtargets="s27.1;s22.1" id="SL40"></link>
+	<link certainty="3.14394" xtargets="s28.1;s23.1" id="SL42"></link>
+	<link certainty="0.6" xtargets="s29.1;s24.1" id="SL44"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/invega/H-746-en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/invega/H-746-de2.xml.gz">
+	<link certainty="-0.3" xtargets="s1.1 s2.1 s3.1 s4.1 s5.1 s6.1;" id="SL1"></link>
+	<link certainty="-0.020219" xtargets="s7.1 s8.1;s1.1" id="SL2"></link>
+	<link certainty="3.06137" xtargets="s9.1;s2.1" id="SL4"></link>
+	<link certainty="3.61457" xtargets="s10.1;s3.1" id="SL6"></link>
+	<link certainty="2.85521" xtargets="s11.1;s4.1" id="SL8"></link>
+	<link certainty="1.50755" xtargets="s12.1;s5.1" id="SL10"></link>
+	<link certainty="2.11788" xtargets="s13.1;s6.1" id="SL12"></link>
+	<link certainty="3.49607" xtargets="s14.1;s7.1" id="SL14"></link>
+	<link certainty="-0.033993" xtargets=";s8.1" id="SL15"></link>
+	<link certainty="0.266007" xtargets="s15.1;s9.1" id="SL16"></link>
+	<link certainty="3.18877" xtargets="s16.1;s10.1" id="SL18"></link>
+	<link certainty="3.61082" xtargets="s17.1;s11.1" id="SL20"></link>
+	<link certainty="2.81764" xtargets="s18.1;s12.1" id="SL22"></link>
+	<link certainty="1.51115" xtargets="s19.1;s13.1" id="SL24"></link>
+	<link certainty="2.0879" xtargets="s20.1;s14.1" id="SL26"></link>
+	<link certainty="3.51527" xtargets="s21.1;s15.1" id="SL28"></link>
+	<link certainty="-0.133624" xtargets=";s16.1" id="SL29"></link>
+	<link certainty="0.166376" xtargets="s22.1;s17.1" id="SL30"></link>
+	<link certainty="2.97404" xtargets="s23.1;s18.1" id="SL32"></link>
+	<link certainty="3.07691" xtargets="s24.1;s19.1" id="SL34"></link>
+	<link certainty="2.72293" xtargets="s25.1;s20.1" id="SL36"></link>
+	<link certainty="2.37871" xtargets="s26.1;s21.1" id="SL38"></link>
+	<link certainty="2.40594" xtargets="s27.1;s22.1" id="SL40"></link>
+	<link certainty="3.14394" xtargets="s28.1;s23.1" id="SL42"></link>
+	<link certainty="0.6" xtargets="s29.1;s24.1" id="SL44"></link>
+</linkGrp>

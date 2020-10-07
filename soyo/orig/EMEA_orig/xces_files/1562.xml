@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/loratadinepseudoephedrine/406003en.xml.gz" fromDoc="de/pdfs/human/referral/loratadinepseudoephedrine/406003de.xml.gz">
+	<link certainty="2.55" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.736364" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="3.06707" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="0.495536" xtargets="s4.1 s4.2;s4.1" id="SL8"></link>
+	<link certainty="0.286957" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="1.037576" xtargets="s6.1;s6.1" id="SL12"></link>
+	<link certainty="1.782442" xtargets="s6.2;s6.2" id="SL13"></link>
+	<link certainty="2.60967" xtargets="s6.3;s6.3" id="SL14"></link>
+	<link certainty="1.792312" xtargets="s6.4;s6.4" id="SL15"></link>
+	<link certainty="1.815672" xtargets="s6.5;s6.5" id="SL16"></link>
+	<link certainty="1.907103" xtargets="s6.6;s6.6" id="SL17"></link>
+	<link certainty="1.192184" xtargets="s6.7;s6.7" id="SL18"></link>
+	<link certainty="3.924761" xtargets="s6.8;s6.8" id="SL19"></link>
+	<link certainty="4.101114" xtargets="s6.9;s6.9" id="SL20"></link>
+	<link certainty="1.164241" xtargets="s6.10;s6.10" id="SL21"></link>
+	<link certainty="0.546082" xtargets="s6.11;s6.11" id="SL22"></link>
+	<link certainty="2.438315" xtargets="s6.12 s6.13;s6.12" id="SL23"></link>
+	<link certainty="2.1985427" xtargets="s6.14 s6.15;s6.13" id="SL24"></link>
+	<link certainty="0.5840907" xtargets="s6.16 s6.17 s6.18 s6.19 s6.20;s6.14" id="SL25"></link>
+	<link certainty="0.491818" xtargets="s6.21 s6.22;s6.15" id="SL26"></link>
+	<link certainty="-0.00396400000000002" xtargets="s6.23 s6.24 s6.25 s6.26 s6.27;s6.16" id="SL27"></link>
+	<link certainty="0.136036" xtargets="s6.28 s6.29;s6.17" id="SL28"></link>
+	<link certainty="7.8977" xtargets="s7.1;s6.18" id="SL29"></link>
+	<link certainty="2.6977" xtargets="s7.2;s6.19" id="SL30"></link>
+	<link certainty="2.64497" xtargets="s7.3 s7.4 s7.5;s6.20" id="SL31"></link>
+	<link certainty="2.9772" xtargets="s7.6 s7.7;s6.21" id="SL32"></link>
+	<link certainty="1.936086" xtargets="s7.8 s7.9;s6.22" id="SL33"></link>
+	<link certainty="0.796386" xtargets="s7.10;s6.23" id="SL34"></link>
+	<link certainty="0.3" xtargets="s8.1;s7.1" id="SL36"></link>
+	<link certainty="0.3" xtargets="s9.1;s8.1" id="SL38"></link>
+	<link certainty="10.35" xtargets="s10.1;s9.1" id="SL40"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/loratadinepseudoephedrine/406003en.xml.gz" fromDoc="de/pdfs/human/referral/loratadinepseudoephedrine/406003de.xml.gz">
+	<link certainty="2.55" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.736364" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="3.06707" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="0.495536" xtargets="s4.1 s4.2;s4.1" id="SL8"></link>
+	<link certainty="0.286957" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="1.037576" xtargets="s6.1;s6.1" id="SL12"></link>
+	<link certainty="1.782442" xtargets="s6.2;s6.2" id="SL13"></link>
+	<link certainty="2.60967" xtargets="s6.3;s6.3" id="SL14"></link>
+	<link certainty="1.792312" xtargets="s6.4;s6.4" id="SL15"></link>
+	<link certainty="1.815672" xtargets="s6.5;s6.5" id="SL16"></link>
+	<link certainty="1.907103" xtargets="s6.6;s6.6" id="SL17"></link>
+	<link certainty="1.192184" xtargets="s6.7;s6.7" id="SL18"></link>
+	<link certainty="3.924761" xtargets="s6.8;s6.8" id="SL19"></link>
+	<link certainty="4.101114" xtargets="s6.9;s6.9" id="SL20"></link>
+	<link certainty="1.164241" xtargets="s6.10;s6.10" id="SL21"></link>
+	<link certainty="0.546082" xtargets="s6.11;s6.11" id="SL22"></link>
+	<link certainty="2.438315" xtargets="s6.12 s6.13;s6.12" id="SL23"></link>
+	<link certainty="2.1985427" xtargets="s6.14 s6.15;s6.13" id="SL24"></link>
+	<link certainty="0.5840907" xtargets="s6.16 s6.17 s6.18 s6.19 s6.20;s6.14" id="SL25"></link>
+	<link certainty="0.491818" xtargets="s6.21 s6.22;s6.15" id="SL26"></link>
+	<link certainty="-0.00396400000000002" xtargets="s6.23 s6.24 s6.25 s6.26 s6.27;s6.16" id="SL27"></link>
+	<link certainty="0.136036" xtargets="s6.28 s6.29;s6.17" id="SL28"></link>
+	<link certainty="7.8977" xtargets="s7.1;s6.18" id="SL29"></link>
+	<link certainty="2.6977" xtargets="s7.2;s6.19" id="SL30"></link>
+	<link certainty="2.64497" xtargets="s7.3 s7.4 s7.5;s6.20" id="SL31"></link>
+	<link certainty="2.9772" xtargets="s7.6 s7.7;s6.21" id="SL32"></link>
+	<link certainty="1.936086" xtargets="s7.8 s7.9;s6.22" id="SL33"></link>
+	<link certainty="0.796386" xtargets="s7.10;s6.23" id="SL34"></link>
+	<link certainty="0.3" xtargets="s8.1;s7.1" id="SL36"></link>
+	<link certainty="0.3" xtargets="s9.1;s8.1" id="SL38"></link>
+	<link certainty="10.35" xtargets="s10.1;s9.1" id="SL40"></link>
+</linkGrp>

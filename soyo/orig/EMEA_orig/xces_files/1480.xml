@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/cefuroximaxetil/Cefuroximaxetil_248862_bs_en.xml.gz" fromDoc="de/pdfs/human/referral/cefuroximaxetil/Cefuroximaxetil_248862_bs_de.xml.gz">
+	<link certainty="3" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.739024" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="0.741586" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="0.293421" xtargets=";s4.1" id="SL7"></link>
+	<link certainty="0.593421" xtargets="s4.1 s4.2;s5.1" id="SL8"></link>
+	<link certainty="0.736163" xtargets="s5.1 s5.2;s6.1" id="SL10"></link>
+	<link certainty="1.23036" xtargets="s6.1;s7.1" id="SL12"></link>
+	<link certainty="0.861818" xtargets="s7.1;s8.1" id="SL14"></link>
+	<link certainty="0.358696" xtargets="s8.1 s8.2;s9.1" id="SL16"></link>
+	<link certainty="0.35" xtargets="s9.1 s9.2;s10.1" id="SL18"></link>
+	<link certainty="0.467308" xtargets="s10.1 s10.2;s11.1" id="SL20"></link>
+	<link certainty="1.08941" xtargets="s11.1;s12.1" id="SL22"></link>
+	<link certainty="3.65833" xtargets="s12.1;s13.1" id="SL24"></link>
+	<link certainty="3.905484" xtargets="s13.1 s13.2;s14.1" id="SL26"></link>
+	<link certainty="3.719218" xtargets="s13.3;s14.2" id="SL27"></link>
+	<link certainty="1.072702" xtargets="s13.4 s13.5;s14.3" id="SL28"></link>
+	<link certainty="3.131054" xtargets="s13.6;s14.4" id="SL29"></link>
+	<link certainty="2.42857" xtargets="s13.7 s13.8;s14.5" id="SL30"></link>
+	<link certainty="0.659639" xtargets="s14.1 s14.2;s15.1" id="SL32"></link>
+	<link certainty="0.426744" xtargets="s14.3;s15.2" id="SL33"></link>
+	<link certainty="0.101591" xtargets="s15.1 s15.2;s16.1" id="SL35"></link>
+	<link certainty="5.557895" xtargets="s15.3 s15.4 s15.5;s16.2" id="SL36"></link>
+	<link certainty="5.1" xtargets="s15.6;s16.3" id="SL37"></link>
+	<link certainty="2.26374" xtargets="s15.7;s17.1" id="SL38"></link>
+	<link certainty="0.32955723" xtargets="s16.1;s17.2" id="SL39"></link>
+	<link certainty="0.338788" xtargets="s16.2;s17.3" id="SL40"></link>
+	<link certainty="5.742308" xtargets="s17.1;s18.1" id="SL42"></link>
+	<link certainty="5.79761" xtargets="s17.2;s18.2" id="SL43"></link>
+	<link certainty="0.89761" xtargets="s17.3 s17.4 s17.5;s18.3" id="SL44"></link>
+	<link certainty="0.673844" xtargets="s18.1 s18.2;s18.4" id="SL45"></link>
+	<link certainty="1.4619" xtargets="s19.1 s19.2;s19.1" id="SL47"></link>
+	<link certainty="0.3" xtargets="s20.1;s20.1" id="SL49"></link>
+	<link certainty="1.6" xtargets="s21.1;s21.1" id="SL51"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/cefuroximaxetil/Cefuroximaxetil_248862_bs_en.xml.gz" fromDoc="de/pdfs/human/referral/cefuroximaxetil/Cefuroximaxetil_248862_bs_de.xml.gz">
+	<link certainty="3" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.739024" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="0.741586" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="0.293421" xtargets=";s4.1" id="SL7"></link>
+	<link certainty="0.593421" xtargets="s4.1 s4.2;s5.1" id="SL8"></link>
+	<link certainty="0.736163" xtargets="s5.1 s5.2;s6.1" id="SL10"></link>
+	<link certainty="1.23036" xtargets="s6.1;s7.1" id="SL12"></link>
+	<link certainty="0.861818" xtargets="s7.1;s8.1" id="SL14"></link>
+	<link certainty="0.358696" xtargets="s8.1 s8.2;s9.1" id="SL16"></link>
+	<link certainty="0.35" xtargets="s9.1 s9.2;s10.1" id="SL18"></link>
+	<link certainty="0.467308" xtargets="s10.1 s10.2;s11.1" id="SL20"></link>
+	<link certainty="1.08941" xtargets="s11.1;s12.1" id="SL22"></link>
+	<link certainty="3.65833" xtargets="s12.1;s13.1" id="SL24"></link>
+	<link certainty="3.905484" xtargets="s13.1 s13.2;s14.1" id="SL26"></link>
+	<link certainty="3.719218" xtargets="s13.3;s14.2" id="SL27"></link>
+	<link certainty="1.072702" xtargets="s13.4 s13.5;s14.3" id="SL28"></link>
+	<link certainty="3.131054" xtargets="s13.6;s14.4" id="SL29"></link>
+	<link certainty="2.42857" xtargets="s13.7 s13.8;s14.5" id="SL30"></link>
+	<link certainty="0.659639" xtargets="s14.1 s14.2;s15.1" id="SL32"></link>
+	<link certainty="0.426744" xtargets="s14.3;s15.2" id="SL33"></link>
+	<link certainty="0.101591" xtargets="s15.1 s15.2;s16.1" id="SL35"></link>
+	<link certainty="5.557895" xtargets="s15.3 s15.4 s15.5;s16.2" id="SL36"></link>
+	<link certainty="5.1" xtargets="s15.6;s16.3" id="SL37"></link>
+	<link certainty="2.26374" xtargets="s15.7;s17.1" id="SL38"></link>
+	<link certainty="0.32955723" xtargets="s16.1;s17.2" id="SL39"></link>
+	<link certainty="0.338788" xtargets="s16.2;s17.3" id="SL40"></link>
+	<link certainty="5.742308" xtargets="s17.1;s18.1" id="SL42"></link>
+	<link certainty="5.79761" xtargets="s17.2;s18.2" id="SL43"></link>
+	<link certainty="0.89761" xtargets="s17.3 s17.4 s17.5;s18.3" id="SL44"></link>
+	<link certainty="0.673844" xtargets="s18.1 s18.2;s18.4" id="SL45"></link>
+	<link certainty="1.4619" xtargets="s19.1 s19.2;s19.1" id="SL47"></link>
+	<link certainty="0.3" xtargets="s20.1;s20.1" id="SL49"></link>
+	<link certainty="1.6" xtargets="s21.1;s21.1" id="SL51"></link>
+</linkGrp>

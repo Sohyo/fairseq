@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/macugen/H-620-Annex-en.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/macugen/H-620-Annex-de.xml.gz">
+	<link certainty="0.25" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="-0.01875" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="0.15" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="-0.6" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="0.225" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="-0.9" xtargets=";s6.1" id="SL12"></link>
+	<link certainty="-0.6" xtargets="s6.1;s6.2" id="SL13"></link>
+	<link certainty="0.2" xtargets="s7.1;s7.1" id="SL15"></link>
+	<link certainty="0.075" xtargets="s8.1;s8.1" id="SL17"></link>
+	<link certainty="0.138462" xtargets="s9.1;s9.1" id="SL19"></link>
+	<link certainty="-0.6" xtargets="s10.1 s10.2;" id="SL20"></link>
+	<link certainty="-0.3365635" xtargets="s11.1 s11.2 s11.3;s10.1" id="SL21"></link>
+	<link certainty="-0.065347" xtargets="s12.1 s12.2;s10.2" id="SL22"></link>
+	<link certainty="17.1" xtargets="s13.1;s11.1" id="SL24"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/macugen/H-620-Annex-en.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/macugen/H-620-Annex-de.xml.gz">
+	<link certainty="0.25" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="-0.01875" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="0.15" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="-0.6" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="0.225" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="-0.9" xtargets=";s6.1" id="SL12"></link>
+	<link certainty="-0.6" xtargets="s6.1;s6.2" id="SL13"></link>
+	<link certainty="0.2" xtargets="s7.1;s7.1" id="SL15"></link>
+	<link certainty="0.075" xtargets="s8.1;s8.1" id="SL17"></link>
+	<link certainty="0.138462" xtargets="s9.1;s9.1" id="SL19"></link>
+	<link certainty="-0.6" xtargets="s10.1 s10.2;" id="SL20"></link>
+	<link certainty="-0.3365635" xtargets="s11.1 s11.2 s11.3;s10.1" id="SL21"></link>
+	<link certainty="-0.065347" xtargets="s12.1 s12.2;s10.2" id="SL22"></link>
+	<link certainty="17.1" xtargets="s13.1;s11.1" id="SL24"></link>
+</linkGrp>

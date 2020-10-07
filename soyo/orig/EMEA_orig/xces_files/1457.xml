@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/atorvastatin/47725806en.xml.gz" fromDoc="de/pdfs/human/referral/atorvastatin/47725806de.xml.gz">
+	<link certainty="3" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.3625" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="0.827206" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="1.8" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="0.752143" xtargets="s5.1 s5.2;s5.1" id="SL10"></link>
+	<link certainty="0.286957" xtargets="s6.1;s6.1" id="SL12"></link>
+	<link certainty="3.78648" xtargets="s7.1;s7.1" id="SL14"></link>
+	<link certainty="3.74207" xtargets="s7.2;s7.2" id="SL15"></link>
+	<link certainty="1.243956" xtargets="s7.3;s7.3" id="SL16"></link>
+	<link certainty="0.785944" xtargets="s7.4 s7.5;s7.4" id="SL17"></link>
+	<link certainty="0.551838" xtargets="s7.6;s7.5" id="SL18"></link>
+	<link certainty="0.4851049" xtargets="s8.1;s8.1" id="SL20"></link>
+	<link certainty="-0.0139391" xtargets="s8.2 s8.3 s8.4;s8.2" id="SL21"></link>
+	<link certainty="1.230106" xtargets="s9.1 s9.2;s9.1" id="SL23"></link>
+	<link certainty="0.234736" xtargets="s9.3 s9.4;s9.2" id="SL24"></link>
+	<link certainty="2.26214" xtargets="s10.1 s10.2;s10.1" id="SL26"></link>
+	<link certainty="0.209986" xtargets="s11.1 s11.2;s11.1" id="SL28"></link>
+	<link certainty="6.68507" xtargets="s11.3;s12.1" id="SL29"></link>
+	<link certainty="2.89771" xtargets="s11.4;s12.2" id="SL30"></link>
+	<link certainty="1.11264" xtargets="s11.5;s12.3" id="SL31"></link>
+	<link certainty="1.34405" xtargets="s12.1 s12.2;s13.1" id="SL33"></link>
+	<link certainty="2.72723" xtargets="s13.1;s14.1" id="SL35"></link>
+	<link certainty="1.516282" xtargets="s13.2 s13.3;s14.2" id="SL36"></link>
+	<link certainty="0.476552" xtargets="s13.4;s14.3" id="SL37"></link>
+	<link certainty="17.1" xtargets="s14.1;s15.1" id="SL39"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/atorvastatin/47725806en.xml.gz" fromDoc="de/pdfs/human/referral/atorvastatin/47725806de.xml.gz">
+	<link certainty="3" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.3625" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="0.827206" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="1.8" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="0.752143" xtargets="s5.1 s5.2;s5.1" id="SL10"></link>
+	<link certainty="0.286957" xtargets="s6.1;s6.1" id="SL12"></link>
+	<link certainty="3.78648" xtargets="s7.1;s7.1" id="SL14"></link>
+	<link certainty="3.74207" xtargets="s7.2;s7.2" id="SL15"></link>
+	<link certainty="1.243956" xtargets="s7.3;s7.3" id="SL16"></link>
+	<link certainty="0.785944" xtargets="s7.4 s7.5;s7.4" id="SL17"></link>
+	<link certainty="0.551838" xtargets="s7.6;s7.5" id="SL18"></link>
+	<link certainty="0.4851049" xtargets="s8.1;s8.1" id="SL20"></link>
+	<link certainty="-0.0139391" xtargets="s8.2 s8.3 s8.4;s8.2" id="SL21"></link>
+	<link certainty="1.230106" xtargets="s9.1 s9.2;s9.1" id="SL23"></link>
+	<link certainty="0.234736" xtargets="s9.3 s9.4;s9.2" id="SL24"></link>
+	<link certainty="2.26214" xtargets="s10.1 s10.2;s10.1" id="SL26"></link>
+	<link certainty="0.209986" xtargets="s11.1 s11.2;s11.1" id="SL28"></link>
+	<link certainty="6.68507" xtargets="s11.3;s12.1" id="SL29"></link>
+	<link certainty="2.89771" xtargets="s11.4;s12.2" id="SL30"></link>
+	<link certainty="1.11264" xtargets="s11.5;s12.3" id="SL31"></link>
+	<link certainty="1.34405" xtargets="s12.1 s12.2;s13.1" id="SL33"></link>
+	<link certainty="2.72723" xtargets="s13.1;s14.1" id="SL35"></link>
+	<link certainty="1.516282" xtargets="s13.2 s13.3;s14.2" id="SL36"></link>
+	<link certainty="0.476552" xtargets="s13.4;s14.3" id="SL37"></link>
+	<link certainty="17.1" xtargets="s14.1;s15.1" id="SL39"></link>
+</linkGrp>

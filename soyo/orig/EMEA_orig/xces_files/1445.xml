@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/agreal/Veralipride-A31-en.xml.gz" fromDoc="de/pdfs/human/referral/agreal/Veralipride-A31-de.xml.gz">
+	<link certainty="2.55" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.364024" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="2.25878" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="3.72429" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="1.8" xtargets="s4.2;s4.2" id="SL9"></link>
+	<link certainty="0.286957" xtargets="s5.1;s5.1" id="SL11"></link>
+	<link certainty="3.24562" xtargets="s6.1;s6.1" id="SL13"></link>
+	<link certainty="2.43437" xtargets="s6.2;s6.2" id="SL14"></link>
+	<link certainty="4.91118" xtargets="s6.3;s6.3" id="SL15"></link>
+	<link certainty="3.788491" xtargets="s6.4;s6.4" id="SL16"></link>
+	<link certainty="5.376991" xtargets="s6.5 s6.6;s6.5" id="SL17"></link>
+	<link certainty="5.339014" xtargets="s6.7;s6.6" id="SL18"></link>
+	<link certainty="0.933654" xtargets="s6.8 s6.9;s6.7" id="SL19"></link>
+	<link certainty="0.71125" xtargets="s6.10 s6.11;s6.8" id="SL20"></link>
+	<link certainty="3.27375" xtargets="s6.12 s6.13;s6.9" id="SL21"></link>
+	<link certainty="3.3779845" xtargets="s6.14 s6.15;s6.10" id="SL22"></link>
+	<link certainty="0.6673465" xtargets="s6.16 s6.17;s6.11" id="SL23"></link>
+	<link certainty="1.567623" xtargets="s6.18;s6.12" id="SL24"></link>
+	<link certainty="1.08636" xtargets="s6.19;s6.13" id="SL25"></link>
+	<link certainty="0.108099" xtargets="s6.20 s6.21;s6.14" id="SL26"></link>
+	<link certainty="2.25149" xtargets="s7.1;s7.1" id="SL28"></link>
+	<link certainty="1.16578" xtargets="s7.2 s7.3;s7.2" id="SL29"></link>
+	<link certainty="8.575" xtargets="s8.1;s8.1" id="SL31"></link>
+	<link certainty="3.975" xtargets="s8.2;s8.2" id="SL32"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/agreal/Veralipride-A31-en.xml.gz" fromDoc="de/pdfs/human/referral/agreal/Veralipride-A31-de.xml.gz">
+	<link certainty="2.55" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.364024" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="2.25878" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="3.72429" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="1.8" xtargets="s4.2;s4.2" id="SL9"></link>
+	<link certainty="0.286957" xtargets="s5.1;s5.1" id="SL11"></link>
+	<link certainty="3.24562" xtargets="s6.1;s6.1" id="SL13"></link>
+	<link certainty="2.43437" xtargets="s6.2;s6.2" id="SL14"></link>
+	<link certainty="4.91118" xtargets="s6.3;s6.3" id="SL15"></link>
+	<link certainty="3.788491" xtargets="s6.4;s6.4" id="SL16"></link>
+	<link certainty="5.376991" xtargets="s6.5 s6.6;s6.5" id="SL17"></link>
+	<link certainty="5.339014" xtargets="s6.7;s6.6" id="SL18"></link>
+	<link certainty="0.933654" xtargets="s6.8 s6.9;s6.7" id="SL19"></link>
+	<link certainty="0.71125" xtargets="s6.10 s6.11;s6.8" id="SL20"></link>
+	<link certainty="3.27375" xtargets="s6.12 s6.13;s6.9" id="SL21"></link>
+	<link certainty="3.3779845" xtargets="s6.14 s6.15;s6.10" id="SL22"></link>
+	<link certainty="0.6673465" xtargets="s6.16 s6.17;s6.11" id="SL23"></link>
+	<link certainty="1.567623" xtargets="s6.18;s6.12" id="SL24"></link>
+	<link certainty="1.08636" xtargets="s6.19;s6.13" id="SL25"></link>
+	<link certainty="0.108099" xtargets="s6.20 s6.21;s6.14" id="SL26"></link>
+	<link certainty="2.25149" xtargets="s7.1;s7.1" id="SL28"></link>
+	<link certainty="1.16578" xtargets="s7.2 s7.3;s7.2" id="SL29"></link>
+	<link certainty="8.575" xtargets="s8.1;s8.1" id="SL31"></link>
+	<link certainty="3.975" xtargets="s8.2;s8.2" id="SL32"></link>
+</linkGrp>

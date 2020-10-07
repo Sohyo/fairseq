@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/depocyte/126901en1.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/depocyte/126901de1.xml.gz">
+	<link certainty="2.55" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.3" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="1.46409" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="1.8" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="0.5375" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="1.016979" xtargets="s6.1;s6.1 s6.2" id="SL12"></link>
+	<link certainty="1.62909" xtargets="s6.2;s6.3" id="SL13"></link>
+	<link certainty="0.76197" xtargets="s6.3;s6.4" id="SL14"></link>
+	<link certainty="4.56128" xtargets="s7.1;s7.1" id="SL16"></link>
+	<link certainty="3.06128" xtargets="s7.2;s7.2" id="SL17"></link>
+	<link certainty="1.82587" xtargets="s8.1;s8.1" id="SL19"></link>
+	<link certainty="1.47717" xtargets="s8.2;s8.2" id="SL20"></link>
+	<link certainty="1.677021" xtargets="s8.3;s8.3" id="SL21"></link>
+	<link certainty="0.817021" xtargets="s8.4;s8.4" id="SL22"></link>
+	<link certainty="1.859559" xtargets="s9.1;s9.1" id="SL24"></link>
+	<link certainty="1.437891" xtargets="s9.2;s9.2" id="SL25"></link>
+	<link certainty="1.099549" xtargets="s9.3;s9.3" id="SL26"></link>
+	<link certainty="1.039554" xtargets="s9.4 s9.5;s9.4" id="SL27"></link>
+	<link certainty="0.692017" xtargets="s9.6;s9.5" id="SL28"></link>
+	<link certainty="1.861071" xtargets="s10.1;s10.1" id="SL30"></link>
+	<link certainty="3.057792" xtargets="s10.2;s10.2" id="SL31"></link>
+	<link certainty="2.12691" xtargets="s10.3;s10.3" id="SL32"></link>
+	<link certainty="2.50556" xtargets="s11.1;s11.1" id="SL34"></link>
+	<link certainty="1.819139" xtargets="s11.2;s11.2" id="SL35"></link>
+	<link certainty="0.463579" xtargets="s11.3;s11.3" id="SL36"></link>
+	<link certainty="-0.508527" xtargets="s11.4;s11.4 s11.5 s11.6 s11.7" id="SL37"></link>
+	<link certainty="0.991473" xtargets="s11.5;s11.8" id="SL38"></link>
+	<link certainty="7.79707" xtargets="s11.6;s12.1" id="SL39"></link>
+	<link certainty="4.39633" xtargets="s11.7;s12.2" id="SL40"></link>
+	<link certainty="0.67069" xtargets="s11.8;s12.3" id="SL41"></link>
+	<link certainty="0.40177" xtargets="s11.9 s11.10 s11.11 s12.1 s12.2 s12.3;s12.4" id="SL42"></link>
+	<link certainty="0.602435" xtargets="s12.4 s12.5;s12.5" id="SL43"></link>
+	<link certainty="1.96467" xtargets="s13.1;s13.1" id="SL45"></link>
+	<link certainty="3.79017" xtargets="s13.2 s13.3;s13.2" id="SL46"></link>
+	<link certainty="3.076353" xtargets="s13.4;s13.3" id="SL47"></link>
+	<link certainty="0.370853" xtargets="s13.5;s13.4" id="SL48"></link>
+	<link certainty="1.660445" xtargets="s14.1;s14.1" id="SL50"></link>
+	<link certainty="1.357444" xtargets="s14.2;s14.2" id="SL51"></link>
+	<link certainty="1.843849" xtargets="s14.3;s14.3" id="SL52"></link>
+	<link certainty="1.651734" xtargets="s14.4;s14.4" id="SL53"></link>
+	<link certainty="0.246774" xtargets="s14.5;s14.5" id="SL54"></link>
+	<link certainty="0.942366" xtargets="s14.6 s14.7;s14.6" id="SL55"></link>
+	<link certainty="0.407487" xtargets="s14.8;s14.7" id="SL56"></link>
+	<link certainty="2.103979" xtargets="s15.1;s15.1" id="SL58"></link>
+	<link certainty="1.566749" xtargets="s15.2;s15.2" id="SL59"></link>
+	<link certainty="0.74134" xtargets="s15.3;s15.3" id="SL60"></link>
+	<link certainty="2.83629" xtargets="s16.1;s16.1" id="SL62"></link>
+	<link certainty="3.78814" xtargets="s16.2 s16.3;s16.2" id="SL63"></link>
+	<link certainty="3.52325" xtargets="s16.4 s16.5;s16.3" id="SL64"></link>
+	<link certainty="1.31011" xtargets="s16.6;s16.4" id="SL65"></link>
+	<link certainty="1.22512" xtargets="s17.1;s17.1" id="SL67"></link>
+	<link certainty="1.14167" xtargets="s18.1;s18.1" id="SL69"></link>
+	<link certainty="12.3" xtargets="s19.1;s19.1" id="SL71"></link>
+	<link certainty="0.6" xtargets="s20.1;s20.1" id="SL73"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/depocyte/126901en1.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/depocyte/126901de1.xml.gz">
+	<link certainty="2.55" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.3" xtargets="s2.1;s2.1" id="SL4"></link>
+	<link certainty="1.46409" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="1.8" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="0.5375" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="1.016979" xtargets="s6.1;s6.1 s6.2" id="SL12"></link>
+	<link certainty="1.62909" xtargets="s6.2;s6.3" id="SL13"></link>
+	<link certainty="0.76197" xtargets="s6.3;s6.4" id="SL14"></link>
+	<link certainty="4.56128" xtargets="s7.1;s7.1" id="SL16"></link>
+	<link certainty="3.06128" xtargets="s7.2;s7.2" id="SL17"></link>
+	<link certainty="1.82587" xtargets="s8.1;s8.1" id="SL19"></link>
+	<link certainty="1.47717" xtargets="s8.2;s8.2" id="SL20"></link>
+	<link certainty="1.677021" xtargets="s8.3;s8.3" id="SL21"></link>
+	<link certainty="0.817021" xtargets="s8.4;s8.4" id="SL22"></link>
+	<link certainty="1.859559" xtargets="s9.1;s9.1" id="SL24"></link>
+	<link certainty="1.437891" xtargets="s9.2;s9.2" id="SL25"></link>
+	<link certainty="1.099549" xtargets="s9.3;s9.3" id="SL26"></link>
+	<link certainty="1.039554" xtargets="s9.4 s9.5;s9.4" id="SL27"></link>
+	<link certainty="0.692017" xtargets="s9.6;s9.5" id="SL28"></link>
+	<link certainty="1.861071" xtargets="s10.1;s10.1" id="SL30"></link>
+	<link certainty="3.057792" xtargets="s10.2;s10.2" id="SL31"></link>
+	<link certainty="2.12691" xtargets="s10.3;s10.3" id="SL32"></link>
+	<link certainty="2.50556" xtargets="s11.1;s11.1" id="SL34"></link>
+	<link certainty="1.819139" xtargets="s11.2;s11.2" id="SL35"></link>
+	<link certainty="0.463579" xtargets="s11.3;s11.3" id="SL36"></link>
+	<link certainty="-0.508527" xtargets="s11.4;s11.4 s11.5 s11.6 s11.7" id="SL37"></link>
+	<link certainty="0.991473" xtargets="s11.5;s11.8" id="SL38"></link>
+	<link certainty="7.79707" xtargets="s11.6;s12.1" id="SL39"></link>
+	<link certainty="4.39633" xtargets="s11.7;s12.2" id="SL40"></link>
+	<link certainty="0.67069" xtargets="s11.8;s12.3" id="SL41"></link>
+	<link certainty="0.40177" xtargets="s11.9 s11.10 s11.11 s12.1 s12.2 s12.3;s12.4" id="SL42"></link>
+	<link certainty="0.602435" xtargets="s12.4 s12.5;s12.5" id="SL43"></link>
+	<link certainty="1.96467" xtargets="s13.1;s13.1" id="SL45"></link>
+	<link certainty="3.79017" xtargets="s13.2 s13.3;s13.2" id="SL46"></link>
+	<link certainty="3.076353" xtargets="s13.4;s13.3" id="SL47"></link>
+	<link certainty="0.370853" xtargets="s13.5;s13.4" id="SL48"></link>
+	<link certainty="1.660445" xtargets="s14.1;s14.1" id="SL50"></link>
+	<link certainty="1.357444" xtargets="s14.2;s14.2" id="SL51"></link>
+	<link certainty="1.843849" xtargets="s14.3;s14.3" id="SL52"></link>
+	<link certainty="1.651734" xtargets="s14.4;s14.4" id="SL53"></link>
+	<link certainty="0.246774" xtargets="s14.5;s14.5" id="SL54"></link>
+	<link certainty="0.942366" xtargets="s14.6 s14.7;s14.6" id="SL55"></link>
+	<link certainty="0.407487" xtargets="s14.8;s14.7" id="SL56"></link>
+	<link certainty="2.103979" xtargets="s15.1;s15.1" id="SL58"></link>
+	<link certainty="1.566749" xtargets="s15.2;s15.2" id="SL59"></link>
+	<link certainty="0.74134" xtargets="s15.3;s15.3" id="SL60"></link>
+	<link certainty="2.83629" xtargets="s16.1;s16.1" id="SL62"></link>
+	<link certainty="3.78814" xtargets="s16.2 s16.3;s16.2" id="SL63"></link>
+	<link certainty="3.52325" xtargets="s16.4 s16.5;s16.3" id="SL64"></link>
+	<link certainty="1.31011" xtargets="s16.6;s16.4" id="SL65"></link>
+	<link certainty="1.22512" xtargets="s17.1;s17.1" id="SL67"></link>
+	<link certainty="1.14167" xtargets="s18.1;s18.1" id="SL69"></link>
+	<link certainty="12.3" xtargets="s19.1;s19.1" id="SL71"></link>
+	<link certainty="0.6" xtargets="s20.1;s20.1" id="SL73"></link>
+</linkGrp>

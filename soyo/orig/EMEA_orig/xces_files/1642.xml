@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/xeomin/xeomin_bi_en.xml.gz" fromDoc="de/pdfs/human/referral/xeomin/xeomin_bi_de.xml.gz">
+	<link certainty="3" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.477273" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="1.50463" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="2.96341" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="1.79143" xtargets="s4.2;s4.2" id="SL9"></link>
+	<link certainty="0.286364" xtargets="s5.1;s5.1" id="SL11"></link>
+	<link certainty="1.9416" xtargets="s6.1;s6.1" id="SL13"></link>
+	<link certainty="1.95383" xtargets="s6.2;s7.1" id="SL14"></link>
+	<link certainty="3.704879" xtargets="s6.3 s6.4;s7.2" id="SL15"></link>
+	<link certainty="0.820112" xtargets="s6.5 s6.6;s7.3" id="SL16"></link>
+	<link certainty="6.229233" xtargets="s6.7;s7.4" id="SL17"></link>
+	<link certainty="5.832" xtargets="s6.8;s7.5" id="SL18"></link>
+	<link certainty="0.265244" xtargets="s6.9;" id="SL19"></link>
+	<link certainty="0.565244" xtargets="s6.10;s8.1" id="SL20"></link>
+	<link certainty="-0.091714" xtargets="s6.11 s6.12;s9.1" id="SL21"></link>
+	<link certainty="3.099235" xtargets="s6.13 s6.14 s6.15;s9.2" id="SL22"></link>
+	<link certainty="2.98276" xtargets="s6.16;s9.3" id="SL23"></link>
+	<link certainty="6.978175" xtargets="s6.17 s6.18 s6.19;s10.1" id="SL24"></link>
+	<link certainty="6.35" xtargets="s6.20;s10.2" id="SL25"></link>
+	<link certainty="0.050769" xtargets="s6.21;" id="SL26"></link>
+	<link certainty="1.148142" xtargets="s6.22;s11.1" id="SL27"></link>
+	<link certainty="0.797373" xtargets="s6.23;s11.2" id="SL28"></link>
+	<link certainty="1.33452" xtargets="s6.24 s6.25;s12.1" id="SL29"></link>
+	<link certainty="0.656522" xtargets="s7.1;s13.1" id="SL31"></link>
+	<link certainty="8.65" xtargets="s8.1;s13.2" id="SL32"></link>
+	<link certainty="4.05" xtargets="s8.2;s13.3" id="SL33"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/xeomin/xeomin_bi_en.xml.gz" fromDoc="de/pdfs/human/referral/xeomin/xeomin_bi_de.xml.gz">
+	<link certainty="3" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.477273" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="1.50463" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="2.96341" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="1.79143" xtargets="s4.2;s4.2" id="SL9"></link>
+	<link certainty="0.286364" xtargets="s5.1;s5.1" id="SL11"></link>
+	<link certainty="1.9416" xtargets="s6.1;s6.1" id="SL13"></link>
+	<link certainty="1.95383" xtargets="s6.2;s7.1" id="SL14"></link>
+	<link certainty="3.704879" xtargets="s6.3 s6.4;s7.2" id="SL15"></link>
+	<link certainty="0.820112" xtargets="s6.5 s6.6;s7.3" id="SL16"></link>
+	<link certainty="6.229233" xtargets="s6.7;s7.4" id="SL17"></link>
+	<link certainty="5.832" xtargets="s6.8;s7.5" id="SL18"></link>
+	<link certainty="0.265244" xtargets="s6.9;" id="SL19"></link>
+	<link certainty="0.565244" xtargets="s6.10;s8.1" id="SL20"></link>
+	<link certainty="-0.091714" xtargets="s6.11 s6.12;s9.1" id="SL21"></link>
+	<link certainty="3.099235" xtargets="s6.13 s6.14 s6.15;s9.2" id="SL22"></link>
+	<link certainty="2.98276" xtargets="s6.16;s9.3" id="SL23"></link>
+	<link certainty="6.978175" xtargets="s6.17 s6.18 s6.19;s10.1" id="SL24"></link>
+	<link certainty="6.35" xtargets="s6.20;s10.2" id="SL25"></link>
+	<link certainty="0.050769" xtargets="s6.21;" id="SL26"></link>
+	<link certainty="1.148142" xtargets="s6.22;s11.1" id="SL27"></link>
+	<link certainty="0.797373" xtargets="s6.23;s11.2" id="SL28"></link>
+	<link certainty="1.33452" xtargets="s6.24 s6.25;s12.1" id="SL29"></link>
+	<link certainty="0.656522" xtargets="s7.1;s13.1" id="SL31"></link>
+	<link certainty="8.65" xtargets="s8.1;s13.2" id="SL32"></link>
+	<link certainty="4.05" xtargets="s8.2;s13.3" id="SL33"></link>
+</linkGrp>

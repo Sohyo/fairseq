@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/exubera/H-588-Annex-en.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/exubera/H-588-Annex-de.xml.gz">
+	<link certainty="0.35107" xtargets="s1.1 s2.1 s3.1;" id="SL1"></link>
+	<link certainty="0.35107" xtargets="s4.1;s1.1" id="SL2"></link>
+	<link certainty="1.78468" xtargets="s5.1;" id="SL3"></link>
+	<link certainty="2.08468" xtargets="s6.1;s2.1" id="SL4"></link>
+	<link certainty="0.188057" xtargets="s7.1;s3.1" id="SL6"></link>
+	<link certainty="0.0152174" xtargets="s8.1 s8.2;s3.2" id="SL7"></link>
+	<link certainty="0.0542636" xtargets="s9.1;s4.1" id="SL9"></link>
+	<link certainty="0.651487" xtargets="s10.1;s5.1" id="SL11"></link>
+	<link certainty="1.01366" xtargets="s11.1;s6.1" id="SL13"></link>
+	<link certainty="0.738044" xtargets="s12.1;s7.1" id="SL15"></link>
+	<link certainty="0.532006" xtargets=";s8.1" id="SL16"></link>
+	<link certainty="0.832006" xtargets="s13.1;s9.1" id="SL17"></link>
+	<link certainty="15" xtargets=";s10.1 s11.1 s12.1 s13.1 s14.1 s15.1" id="SL18"></link>
+	<link certainty="17.1" xtargets="s14.1;s16.1" id="SL19"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/exubera/H-588-Annex-en.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/exubera/H-588-Annex-de.xml.gz">
+	<link certainty="0.35107" xtargets="s1.1 s2.1 s3.1;" id="SL1"></link>
+	<link certainty="0.35107" xtargets="s4.1;s1.1" id="SL2"></link>
+	<link certainty="1.78468" xtargets="s5.1;" id="SL3"></link>
+	<link certainty="2.08468" xtargets="s6.1;s2.1" id="SL4"></link>
+	<link certainty="0.188057" xtargets="s7.1;s3.1" id="SL6"></link>
+	<link certainty="0.0152174" xtargets="s8.1 s8.2;s3.2" id="SL7"></link>
+	<link certainty="0.0542636" xtargets="s9.1;s4.1" id="SL9"></link>
+	<link certainty="0.651487" xtargets="s10.1;s5.1" id="SL11"></link>
+	<link certainty="1.01366" xtargets="s11.1;s6.1" id="SL13"></link>
+	<link certainty="0.738044" xtargets="s12.1;s7.1" id="SL15"></link>
+	<link certainty="0.532006" xtargets=";s8.1" id="SL16"></link>
+	<link certainty="0.832006" xtargets="s13.1;s9.1" id="SL17"></link>
+	<link certainty="15" xtargets=";s10.1 s11.1 s12.1 s13.1 s14.1 s15.1" id="SL18"></link>
+	<link certainty="17.1" xtargets="s14.1;s16.1" id="SL19"></link>
+</linkGrp>

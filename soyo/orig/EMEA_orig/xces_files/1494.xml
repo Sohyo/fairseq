@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/Coversyl-661/40815005en.xml.gz" fromDoc="de/pdfs/human/referral/Coversyl-661/40815005de.xml.gz">
+	<link certainty="3.02727" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.744828" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="2.66203" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="1.29" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="3.72429" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="1.8" xtargets="s5.2;s5.2" id="SL11"></link>
+	<link certainty="0.286957" xtargets="s6.1;s6.1" id="SL13"></link>
+	<link certainty="3.24996" xtargets="s7.1;s7.1" id="SL15"></link>
+	<link certainty="4.84824" xtargets="s7.2;s7.2" id="SL16"></link>
+	<link certainty="2.61253" xtargets="s7.3;s7.3" id="SL17"></link>
+	<link certainty="0.540238" xtargets="s8.1;s8.1" id="SL19"></link>
+	<link certainty="0.120219" xtargets="s8.2 s8.3;s8.2" id="SL20"></link>
+	<link certainty="3.30644" xtargets="s9.1 s9.2;s9.1" id="SL22"></link>
+	<link certainty="2.707213" xtargets="s9.3;s9.2" id="SL23"></link>
+	<link certainty="1.968503" xtargets="s9.4;s9.3" id="SL24"></link>
+	<link certainty="1.48929" xtargets="s9.5 s9.6;s9.4" id="SL25"></link>
+	<link certainty="1.006485" xtargets="s10.1 s10.2;s10.1" id="SL27"></link>
+	<link certainty="1.496734" xtargets="s10.3;s10.2" id="SL28"></link>
+	<link certainty="0.617424" xtargets="s10.4;s10.3" id="SL29"></link>
+	<link certainty="-0.012766" xtargets="s11.1;s11.1" id="SL31"></link>
+	<link certainty="0.6874822" xtargets="s11.2 s11.3;s11.2" id="SL32"></link>
+	<link certainty="0.0928152" xtargets="s11.4 s11.5;s11.3" id="SL33"></link>
+	<link certainty="2.32605" xtargets="s12.1;s12.1" id="SL35"></link>
+	<link certainty="1.11176" xtargets="s12.2 s12.3;s12.2" id="SL36"></link>
+	<link certainty="0.498239" xtargets="s13.1;s13.1" id="SL38"></link>
+	<link certainty="8.75331" xtargets="s14.1;s13.2" id="SL39"></link>
+	<link certainty="4.03902" xtargets="s14.2;s13.3" id="SL40"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/Coversyl-661/40815005en.xml.gz" fromDoc="de/pdfs/human/referral/Coversyl-661/40815005de.xml.gz">
+	<link certainty="3.02727" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.744828" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="2.66203" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="1.29" xtargets="s4.1;s4.1" id="SL8"></link>
+	<link certainty="3.72429" xtargets="s5.1;s5.1" id="SL10"></link>
+	<link certainty="1.8" xtargets="s5.2;s5.2" id="SL11"></link>
+	<link certainty="0.286957" xtargets="s6.1;s6.1" id="SL13"></link>
+	<link certainty="3.24996" xtargets="s7.1;s7.1" id="SL15"></link>
+	<link certainty="4.84824" xtargets="s7.2;s7.2" id="SL16"></link>
+	<link certainty="2.61253" xtargets="s7.3;s7.3" id="SL17"></link>
+	<link certainty="0.540238" xtargets="s8.1;s8.1" id="SL19"></link>
+	<link certainty="0.120219" xtargets="s8.2 s8.3;s8.2" id="SL20"></link>
+	<link certainty="3.30644" xtargets="s9.1 s9.2;s9.1" id="SL22"></link>
+	<link certainty="2.707213" xtargets="s9.3;s9.2" id="SL23"></link>
+	<link certainty="1.968503" xtargets="s9.4;s9.3" id="SL24"></link>
+	<link certainty="1.48929" xtargets="s9.5 s9.6;s9.4" id="SL25"></link>
+	<link certainty="1.006485" xtargets="s10.1 s10.2;s10.1" id="SL27"></link>
+	<link certainty="1.496734" xtargets="s10.3;s10.2" id="SL28"></link>
+	<link certainty="0.617424" xtargets="s10.4;s10.3" id="SL29"></link>
+	<link certainty="-0.012766" xtargets="s11.1;s11.1" id="SL31"></link>
+	<link certainty="0.6874822" xtargets="s11.2 s11.3;s11.2" id="SL32"></link>
+	<link certainty="0.0928152" xtargets="s11.4 s11.5;s11.3" id="SL33"></link>
+	<link certainty="2.32605" xtargets="s12.1;s12.1" id="SL35"></link>
+	<link certainty="1.11176" xtargets="s12.2 s12.3;s12.2" id="SL36"></link>
+	<link certainty="0.498239" xtargets="s13.1;s13.1" id="SL38"></link>
+	<link certainty="8.75331" xtargets="s14.1;s13.2" id="SL39"></link>
+	<link certainty="4.03902" xtargets="s14.2;s13.3" id="SL40"></link>
+</linkGrp>

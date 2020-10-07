@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/piroxicam/piroxicam_EMEA3809172007_bs_en.xml.gz" fromDoc="de/pdfs/human/referral/piroxicam/piroxicam_EMEA3809172007_bs_de.xml.gz">
+	<link certainty="2.55" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.738462" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="1.1" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="0.582857" xtargets="s4.1;" id="SL7"></link>
+	<link certainty="0.882857" xtargets="s5.1;s4.1" id="SL8"></link>
+	<link certainty="0.767143" xtargets="s6.1 s6.2;s5.1" id="SL10"></link>
+	<link certainty="0.26087" xtargets="s7.1;s6.1" id="SL12"></link>
+	<link certainty="2.055826" xtargets="s8.1;s7.1" id="SL14"></link>
+	<link certainty="0.914386" xtargets="s8.2;s7.2" id="SL15"></link>
+	<link certainty="3.129333" xtargets="s9.1;s8.1" id="SL17"></link>
+	<link certainty="2.62444" xtargets="s9.2;s8.2" id="SL18"></link>
+	<link certainty="0.4655489" xtargets="s9.3;s8.3" id="SL19"></link>
+	<link certainty="0.0871089" xtargets="s9.4;s8.4 s8.5" id="SL20"></link>
+	<link certainty="0.765489" xtargets="s10.1;s9.1" id="SL22"></link>
+	<link certainty="0.9149" xtargets="s11.1 s11.2;s10.1" id="SL24"></link>
+	<link certainty="0.64638" xtargets="s11.3;s10.2" id="SL25"></link>
+	<link certainty="2.18758" xtargets="s12.1 s12.2;s11.1" id="SL27"></link>
+	<link certainty="0.00750000000000001" xtargets="s13.1 s13.2;" id="SL29"></link>
+	<link certainty="0.3075" xtargets="s13.3 s13.4;s12.1" id="SL30"></link>
+	<link certainty="0.2558658" xtargets="s14.1 s14.2 s14.3;s13.1" id="SL32"></link>
+	<link certainty="0.231356" xtargets="s14.4 s14.5;s13.2" id="SL33"></link>
+	<link certainty="0.0489879" xtargets="s15.1;s14.1 s14.2" id="SL35"></link>
+	<link certainty="0.18177" xtargets="s15.2;s15.1 s15.2" id="SL36"></link>
+	<link certainty="7.91594" xtargets="s16.1;s16.1" id="SL38"></link>
+	<link certainty="2.71594" xtargets="s16.2;s16.2" id="SL39"></link>
+	<link certainty="-0.8633083" xtargets="s16.3 s17.1 s17.2;" id="SL40"></link>
+	<link certainty="0.7620857" xtargets="s18.1 s18.2;s17.1" id="SL41"></link>
+	<link certainty="0.725394" xtargets="s18.3;s17.2" id="SL42"></link>
+	<link certainty="0.3" xtargets="s19.1;s18.1" id="SL44"></link>
+	<link certainty="12.6" xtargets="s20.1;s19.1" id="SL46"></link>
+</linkGrp><?xml version="1.0" encoding="utf-8"?>
+<linkGrp targType="s" toDoc="en/pdfs/human/referral/piroxicam/piroxicam_EMEA3809172007_bs_en.xml.gz" fromDoc="de/pdfs/human/referral/piroxicam/piroxicam_EMEA3809172007_bs_de.xml.gz">
+	<link certainty="2.55" xtargets="s1.1;s1.1" id="SL2"></link>
+	<link certainty="0.738462" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
+	<link certainty="1.1" xtargets="s3.1;s3.1" id="SL6"></link>
+	<link certainty="0.582857" xtargets="s4.1;" id="SL7"></link>
+	<link certainty="0.882857" xtargets="s5.1;s4.1" id="SL8"></link>
+	<link certainty="0.767143" xtargets="s6.1 s6.2;s5.1" id="SL10"></link>
+	<link certainty="0.26087" xtargets="s7.1;s6.1" id="SL12"></link>
+	<link certainty="2.055826" xtargets="s8.1;s7.1" id="SL14"></link>
+	<link certainty="0.914386" xtargets="s8.2;s7.2" id="SL15"></link>
+	<link certainty="3.129333" xtargets="s9.1;s8.1" id="SL17"></link>
+	<link certainty="2.62444" xtargets="s9.2;s8.2" id="SL18"></link>
+	<link certainty="0.4655489" xtargets="s9.3;s8.3" id="SL19"></link>
+	<link certainty="0.0871089" xtargets="s9.4;s8.4 s8.5" id="SL20"></link>
+	<link certainty="0.765489" xtargets="s10.1;s9.1" id="SL22"></link>
+	<link certainty="0.9149" xtargets="s11.1 s11.2;s10.1" id="SL24"></link>
+	<link certainty="0.64638" xtargets="s11.3;s10.2" id="SL25"></link>
+	<link certainty="2.18758" xtargets="s12.1 s12.2;s11.1" id="SL27"></link>
+	<link certainty="0.00750000000000001" xtargets="s13.1 s13.2;" id="SL29"></link>
+	<link certainty="0.3075" xtargets="s13.3 s13.4;s12.1" id="SL30"></link>
+	<link certainty="0.2558658" xtargets="s14.1 s14.2 s14.3;s13.1" id="SL32"></link>
+	<link certainty="0.231356" xtargets="s14.4 s14.5;s13.2" id="SL33"></link>
+	<link certainty="0.0489879" xtargets="s15.1;s14.1 s14.2" id="SL35"></link>
+	<link certainty="0.18177" xtargets="s15.2;s15.1 s15.2" id="SL36"></link>
+	<link certainty="7.91594" xtargets="s16.1;s16.1" id="SL38"></link>
+	<link certainty="2.71594" xtargets="s16.2;s16.2" id="SL39"></link>
+	<link certainty="-0.8633083" xtargets="s16.3 s17.1 s17.2;" id="SL40"></link>
+	<link certainty="0.7620857" xtargets="s18.1 s18.2;s17.1" id="SL41"></link>
+	<link certainty="0.725394" xtargets="s18.3;s17.2" id="SL42"></link>
+	<link certainty="0.3" xtargets="s19.1;s18.1" id="SL44"></link>
+	<link certainty="12.6" xtargets="s20.1;s19.1" id="SL46"></link>
+</linkGrp>
