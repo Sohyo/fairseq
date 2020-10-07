@@ -6,10 +6,8 @@ import sys
 import csv
 
 '''
-In this file, all the xlm files of datasets will be cleaned up into plain text.
-Then these plain texts will be saved with their document info.
-The final output of this file will be text files(en/de) for plain sentences which are for training NMT models
-and text files for sentences and their document info which are for next step(idk yet).
+In this file, the alignment information file so-called xces file will be splited to several files which contain alignment info of only one document.
+These files will be used to extract plain sentences from the xml files by OPUS tool.
 '''
 
 csv.field_size_limit(sys.maxsize)
@@ -27,9 +25,6 @@ def arr2txt(arr, file_name):
         for line in arr:
             txt_file.write("".join(line) + "\n")
 
-
-# xmlfile_dict = xmltodict.parse(xml_path)
-# print(xmlfile_dict)
 
 def xml2dict(xml_path):
     with open(xml_path) as fd:
@@ -58,20 +53,21 @@ example = {'linkGrp': example}
 out = xmltodict.unparse(example, pretty=True)
 with open("orig/EMEA_xml/xces_files/example.xml", 'a') as file:
     file.write(out)
-# with open("orig/EMEA_xml/xces_files/example.xml", 'a', encoding="utf16", errors='ignore') as file:
-#     file.write(out)
 
-'''
-for file in orig_align_dict['cesAlign']['linkGrp']:
-    print('=================================================== /n')
-    print(file)
 
-########################################3
-xml = open(path, "r")
-org_xml = xml.read()
-dict_xml = xmltodict.parse(org_xml, process_namespaces=True)
+#
+# for file in orig_align_dict['cesAlign']['linkGrp']:
+#     print('=================================================== /n')
+#     print(file)
+#
+# ########################################3
+# xml = open(path, "r")
+# org_xml = xml.read()
+# dict_xml = xmltodict.parse(org_xml, process_namespaces=True)
+#
+# out = xmltodict.unparse(dict_xml, pretty=True)
+# with open("path/new.qml", 'a') as file:
+#     file.write(out.encode('utf-8'))
 
-out = xmltodict.unparse(dict_xml, pretty=True)
-with open("path/new.qml", 'a') as file:
-    file.write(out.encode('utf-8'))
-'''
+# xmlfile_dict = xmltodict.parse(xml_path)
+# print(xmlfile_dict)
