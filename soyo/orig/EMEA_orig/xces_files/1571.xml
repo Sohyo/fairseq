@@ -24,30 +24,4 @@
 	<link certainty="-0.00849057" xtargets="s15.1 s15.2;s15.1" id="SL36"></link>
 	<link certainty="8.65" xtargets="s16.1;s16.1" id="SL38"></link>
 	<link certainty="4.05" xtargets="s16.2;s16.2" id="SL39"></link>
-</linkGrp><?xml version="1.0" encoding="utf-8"?>
-<linkGrp targType="s" toDoc="en/pdfs/human/referral/neurontin/14233506en.xml.gz" fromDoc="de/pdfs/human/referral/neurontin/14233506de.xml.gz">
-	<link certainty="2.55" xtargets="s1.1;s1.1" id="SL2"></link>
-	<link certainty="0.73875" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
-	<link certainty="1.50463" xtargets="s3.1;s3.1" id="SL6"></link>
-	<link certainty="-0.00833333" xtargets="s4.1;s4.1" id="SL8"></link>
-	<link certainty="3.59412" xtargets="s5.1;s5.1" id="SL10"></link>
-	<link certainty="1.37692" xtargets="s6.1;s6.1" id="SL12"></link>
-	<link certainty="3.72429" xtargets="s7.1;s7.1" id="SL14"></link>
-	<link certainty="1.8" xtargets="s7.2;s7.2" id="SL15"></link>
-	<link certainty="0.286364" xtargets="s8.1;s8.1" id="SL17"></link>
-	<link certainty="1.53777" xtargets="s9.1;s9.1" id="SL19"></link>
-	<link certainty="1.751073" xtargets="s9.2;s9.2" id="SL20"></link>
-	<link certainty="1.16872" xtargets="s9.3;s9.3" id="SL21"></link>
-	<link certainty="1.62456" xtargets="s10.1 s10.2;s10.1" id="SL23"></link>
-	<link certainty="0.980488" xtargets="s10.3;s10.2" id="SL24"></link>
-	<link certainty="2.2771219" xtargets="s11.1 s11.2;s11.1" id="SL26"></link>
-	<link certainty="-0.2952381" xtargets="s11.3 s11.4 s11.5 s11.6;s11.2" id="SL27"></link>
-	<link certainty="-0.6" xtargets="s11.7;" id="SL28"></link>
-	<link certainty="-0.151552" xtargets="s12.1 s12.2 s12.3;s12.1" id="SL29"></link>
-	<link certainty="0.222515" xtargets="s13.1 s13.2;s13.1" id="SL31"></link>
-	<link certainty="1.437847" xtargets="s14.1;s14.1" id="SL33"></link>
-	<link certainty="0.848485" xtargets="s14.2;s14.2" id="SL34"></link>
-	<link certainty="-0.00849057" xtargets="s15.1 s15.2;s15.1" id="SL36"></link>
-	<link certainty="8.65" xtargets="s16.1;s16.1" id="SL38"></link>
-	<link certainty="4.05" xtargets="s16.2;s16.2" id="SL39"></link>
 </linkGrp>

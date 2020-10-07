@@ -8,14 +8,4 @@
 	<link certainty="1.51873" xtargets="s5.1;s14.1" id="SL10"></link>
 	<link certainty="2.37701" xtargets="s6.1;s15.1" id="SL12"></link>
 	<link certainty="3.96215" xtargets="s7.1;s16.1" id="SL14"></link>
-</linkGrp><?xml version="1.0" encoding="utf-8"?>
-<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/tekturna/H-852-en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/tekturna/H-852-de2.xml.gz">
-	<link certainty="0.29103" xtargets=";s1.1 s2.1 s3.1 s4.1 s5.1 s6.1 s7.1 s8.1 s9.1" id="SL1"></link>
-	<link certainty="0.29103" xtargets="s1.1;s10.1" id="SL2"></link>
-	<link certainty="3.14969" xtargets="s2.1;s11.1" id="SL4"></link>
-	<link certainty="3.93774" xtargets="s3.1;s12.1" id="SL6"></link>
-	<link certainty="2.95796" xtargets="s4.1;s13.1" id="SL8"></link>
-	<link certainty="1.51873" xtargets="s5.1;s14.1" id="SL10"></link>
-	<link certainty="2.37701" xtargets="s6.1;s15.1" id="SL12"></link>
-	<link certainty="3.96215" xtargets="s7.1;s16.1" id="SL14"></link>
 </linkGrp>

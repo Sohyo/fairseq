@@ -20,26 +20,4 @@
 	<link certainty="2.22888" xtargets="s41.1;s13.1" id="SL27"></link>
 	<link certainty="2.78" xtargets="s42.1;s14.1" id="SL29"></link>
 	<link certainty="0.6" xtargets="s43.1;s15.1" id="SL31"></link>
-</linkGrp><?xml version="1.0" encoding="utf-8"?>
-<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/xarelto/H-944-en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/xarelto/H-944-de2.xml.gz">
-	<link certainty="0.266667" xtargets="s1.1;s1.1" id="SL2"></link>
-	<link certainty="-2.7" xtargets="s2.1 s3.1 s4.1 s5.1 s6.1 s7.1 s8.1 s9.1 s10.1 s11.1;" id="SL3"></link>
-	<link certainty="0.3" xtargets="s12.1;s2.1" id="SL4"></link>
-	<link certainty="-0.6375" xtargets="s13.1 s14.1 s15.1;" id="SL5"></link>
-	<link certainty="0.2625" xtargets="s16.1;s3.1" id="SL6"></link>
-	<link certainty="-1.5" xtargets="s17.1 s18.1 s19.1 s20.1;" id="SL7"></link>
-	<link certainty="-0.05625" xtargets="s21.1 s22.1;s4.1" id="SL8"></link>
-	<link certainty="-0.6" xtargets="s23.1;" id="SL9"></link>
-	<link certainty="-0.695455" xtargets="s24.1 s25.1 s26.1 s27.1;s5.1" id="SL10"></link>
-	<link certainty="0.24" xtargets="s28.1;s6.1" id="SL12"></link>
-	<link certainty="-0.3" xtargets="s29.1;" id="SL14"></link>
-	<link certainty="-1.225" xtargets="s30.1 s31.1 s32.1 s33.1 s34.1 s35.1;s7.1" id="SL15"></link>
-	<link certainty="0.00491803" xtargets="s36.1;s8.1" id="SL17"></link>
-	<link certainty="2.41034" xtargets="s37.1;s9.1" id="SL19"></link>
-	<link certainty="2.68431" xtargets="s38.1;s10.1" id="SL21"></link>
-	<link certainty="-0.238776" xtargets="s39.1;s11.1" id="SL23"></link>
-	<link certainty="2.91769" xtargets="s40.1;s12.1" id="SL25"></link>
-	<link certainty="2.22888" xtargets="s41.1;s13.1" id="SL27"></link>
-	<link certainty="2.78" xtargets="s42.1;s14.1" id="SL29"></link>
-	<link certainty="0.6" xtargets="s43.1;s15.1" id="SL31"></link>
 </linkGrp>

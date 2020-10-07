@@ -24,30 +24,4 @@
 	<link certainty="8.86667" xtargets="s12.1;s15.1" id="SL32"></link>
 	<link certainty="6.96667" xtargets="s12.2;s15.2" id="SL33"></link>
 	<link certainty="2.7" xtargets="s12.3;s15.3" id="SL34"></link>
-</linkGrp><?xml version="1.0" encoding="utf-8"?>
-<linkGrp targType="s" toDoc="en/pdfs/human/referral/cozaarcomp/cozaar_comp_bi_en.xml.gz" fromDoc="de/pdfs/human/referral/cozaarcomp/cozaar_comp_bi_de.xml.gz">
-	<link certainty="3" xtargets="s1.1;s1.1" id="SL2"></link>
-	<link certainty="4.60167" xtargets="s2.1;s2.1 s2.2" id="SL4"></link>
-	<link certainty="3.79167" xtargets="s2.2 s2.3;s2.3" id="SL5"></link>
-	<link certainty="1.20463" xtargets="s2.4;" id="SL6"></link>
-	<link certainty="1.50463" xtargets="s3.1;s3.1" id="SL7"></link>
-	<link certainty="3.3651" xtargets="s4.1;s4.1" id="SL9"></link>
-	<link certainty="0.672143" xtargets="s5.1 s5.2;s5.1" id="SL11"></link>
-	<link certainty="0.259091" xtargets="s6.1;s6.1" id="SL13"></link>
-	<link certainty="2.35515" xtargets="s7.1;s7.1" id="SL15"></link>
-	<link certainty="2.11179" xtargets="s7.2;s7.2" id="SL16"></link>
-	<link certainty="1.534204" xtargets="s7.3;s7.3" id="SL17"></link>
-	<link certainty="0.503984" xtargets="s7.4;s7.4" id="SL18"></link>
-	<link certainty="0.267078" xtargets="s8.1 s8.2;s8.1" id="SL20"></link>
-	<link certainty="1.386625" xtargets="s9.1;s9.1" id="SL22"></link>
-	<link certainty="0.664471" xtargets="s9.2;s9.2" id="SL23"></link>
-	<link certainty="6.19667" xtargets="s10.1;s10.1" id="SL25"></link>
-	<link certainty="1.32586" xtargets="s10.2 s10.3;s10.2" id="SL26"></link>
-	<link certainty="-0.3530075" xtargets="s10.4;s11.1 s12.1" id="SL27"></link>
-	<link certainty="0.537589" xtargets="s11.1;s13.1" id="SL29"></link>
-	<link certainty="0.352295" xtargets="s11.2;s13.2" id="SL30"></link>
-	<link certainty="4.6" xtargets=";s14.1" id="SL31"></link>
-	<link certainty="8.86667" xtargets="s12.1;s15.1" id="SL32"></link>
-	<link certainty="6.96667" xtargets="s12.2;s15.2" id="SL33"></link>
-	<link certainty="2.7" xtargets="s12.3;s15.3" id="SL34"></link>
 </linkGrp>

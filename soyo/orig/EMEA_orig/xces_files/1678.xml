@@ -18,24 +18,4 @@
 	<link certainty="8.86667" xtargets="s14.1;s13.1" id="SL28"></link>
 	<link certainty="6.96667" xtargets="s14.2;s13.2" id="SL29"></link>
 	<link certainty="3.3" xtargets="s14.3;s13.3" id="SL30"></link>
-</linkGrp><?xml version="1.0" encoding="utf-8"?>
-<linkGrp targType="s" toDoc="en/pdfs/vet/referral/suvaxynParvo/SuvaxynParvo_Background_Information-en.xml.gz" fromDoc="de/pdfs/vet/referral/suvaxynParvo/SuvaxynParvo_Background_Information-de.xml.gz">
-	<link certainty="2.925" xtargets="s1.1;s1.1" id="SL2"></link>
-	<link certainty="6.3" xtargets="s2.1;s2.1" id="SL4"></link>
-	<link certainty="1.45238" xtargets="s3.1;s3.1" id="SL6"></link>
-	<link certainty="3.4765" xtargets="s4.1;s4.1" id="SL8"></link>
-	<link certainty="0.286364" xtargets="s5.1;s5.1" id="SL10"></link>
-	<link certainty="0.3354" xtargets="s6.1 s6.2;s6.1" id="SL12"></link>
-	<link certainty="0.712656" xtargets="s7.1;s7.1" id="SL14"></link>
-	<link certainty="0.583321" xtargets="s8.1;s8.1" id="SL16"></link>
-	<link certainty="1.6381" xtargets="s9.1 s9.2;s9.1" id="SL18"></link>
-	<link certainty="1.172848" xtargets="s10.1;s10.1" id="SL20"></link>
-	<link certainty="1.437067" xtargets="s10.2;s10.2" id="SL21"></link>
-	<link certainty="0.911278" xtargets="s10.3;s10.3" id="SL22"></link>
-	<link certainty="0.522656" xtargets="s11.1;s11.1" id="SL24"></link>
-	<link certainty="0.55658" xtargets="s12.1 s12.2 s12.3;" id="SL25"></link>
-	<link certainty="1.45658" xtargets="s13.1;s12.1" id="SL26"></link>
-	<link certainty="8.86667" xtargets="s14.1;s13.1" id="SL28"></link>
-	<link certainty="6.96667" xtargets="s14.2;s13.2" id="SL29"></link>
-	<link certainty="3.3" xtargets="s14.3;s13.3" id="SL30"></link>
 </linkGrp>

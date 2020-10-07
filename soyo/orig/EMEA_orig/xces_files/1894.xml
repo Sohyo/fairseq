@@ -32,38 +32,4 @@
 	<link certainty="6.19091" xtargets="s29.1;s26.1" id="SL53"></link>
 	<link certainty="12.05" xtargets="s30.1;s27.1" id="SL55"></link>
 	<link certainty="11.6" xtargets="s30.2;s27.2" id="SL56"></link>
-</linkGrp><?xml version="1.0" encoding="utf-8"?>
-<linkGrp targType="s" toDoc="en/vetdocs/PDFs/EPAR/quadrisol/V-032-en2.xml.gz" fromDoc="de/vetdocs/PDFs/EPAR/quadrisol/V-032-de2.xml.gz">
-	<link certainty="0.266667" xtargets="s1.1;s1.1" id="SL2"></link>
-	<link certainty="0.275" xtargets="s2.1;s2.1" id="SL4"></link>
-	<link certainty="0.2625" xtargets="s3.1;s3.1" id="SL6"></link>
-	<link certainty="0.283333" xtargets="s4.1;s4.1" id="SL8"></link>
-	<link certainty="0.257143" xtargets="s5.1;s5.1" id="SL10"></link>
-	<link certainty="0.1875" xtargets="s6.1;s6.1" id="SL12"></link>
-	<link certainty="0.27" xtargets="s7.1;s7.1" id="SL14"></link>
-	<link certainty="0.257143" xtargets="s8.1;s8.1" id="SL16"></link>
-	<link certainty="-0.06" xtargets="s9.1;" id="SL17"></link>
-	<link certainty="0.24" xtargets="s10.1;s9.1" id="SL18"></link>
-	<link certainty="0.28125" xtargets="s11.1;s10.1" id="SL20"></link>
-	<link certainty="1.35" xtargets="s12.1;s11.1" id="SL22"></link>
-	<link certainty="11.3" xtargets="s13.1;s12.1" id="SL24"></link>
-	<link certainty="0" xtargets="s14.1;s13.1" id="SL26"></link>
-	<link certainty="0.3" xtargets="s15.1;s14.1" id="SL28"></link>
-	<link certainty="0.1125" xtargets="s16.1;s15.1" id="SL30"></link>
-	<link certainty="1.56376" xtargets="s17.1;s16.1" id="SL32"></link>
-	<link certainty="12.3" xtargets="s18.1;s17.1" id="SL34"></link>
-	<link certainty="6.18571" xtargets="s19.1;s18.1" id="SL36"></link>
-	<link certainty="12.05" xtargets="s20.1;s19.1" id="SL38"></link>
-	<link certainty="11.3" xtargets="s20.2;s19.2" id="SL39"></link>
-	<link certainty="0.81" xtargets="s21.1;" id="SL40"></link>
-	<link certainty="1.11" xtargets="s22.1;s20.1" id="SL41"></link>
-	<link certainty="0.2625" xtargets="s23.1;s21.1" id="SL43"></link>
-	<link certainty="0" xtargets="s24.1;" id="SL44"></link>
-	<link certainty="0.3" xtargets="s25.1;s22.1" id="SL45"></link>
-	<link certainty="0.1125" xtargets="s26.1;s23.1" id="SL47"></link>
-	<link certainty="1.56376" xtargets="s27.1;s24.1" id="SL49"></link>
-	<link certainty="12.3" xtargets="s28.1;s25.1" id="SL51"></link>
-	<link certainty="6.19091" xtargets="s29.1;s26.1" id="SL53"></link>
-	<link certainty="12.05" xtargets="s30.1;s27.1" id="SL55"></link>
-	<link certainty="11.6" xtargets="s30.2;s27.2" id="SL56"></link>
 </linkGrp>

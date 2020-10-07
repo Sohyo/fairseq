@@ -26,32 +26,4 @@
 	<link certainty="5.511538" xtargets="s7.1;s7.1" id="SL31"></link>
 	<link certainty="7.68983" xtargets="s7.2;s7.2" id="SL32"></link>
 	<link certainty="2.48983" xtargets="s7.3;s7.3" id="SL33"></link>
-</linkGrp><?xml version="1.0" encoding="utf-8"?>
-<linkGrp targType="s" toDoc="en/pdfs/human/referral/doxazosinretard/42379606en.xml.gz" fromDoc="de/pdfs/human/referral/doxazosinretard/42379606de.xml.gz">
-	<link certainty="3" xtargets="s1.1;s1.1" id="SL2"></link>
-	<link certainty="1.5" xtargets="s2.1;s2.1" id="SL4"></link>
-	<link certainty="1.50463" xtargets="s3.1;s3.1" id="SL6"></link>
-	<link certainty="3.14957" xtargets="s4.1;s4.1" id="SL8"></link>
-	<link certainty="1.8" xtargets="s4.2;s4.2" id="SL9"></link>
-	<link certainty="0.286364" xtargets="s5.1;s5.1" id="SL11"></link>
-	<link certainty="2.91152" xtargets="s6.1;s6.1" id="SL13"></link>
-	<link certainty="4.95298" xtargets="s6.2 s6.3;s6.2" id="SL14"></link>
-	<link certainty="3.582" xtargets="s6.4;s6.3" id="SL15"></link>
-	<link certainty="0.810116" xtargets="s6.5 s6.6;s6.4" id="SL16"></link>
-	<link certainty="3.119826" xtargets="s6.7;s6.5" id="SL17"></link>
-	<link certainty="3.476244" xtargets="s6.8 s6.9;s6.6" id="SL18"></link>
-	<link certainty="3.259634" xtargets="s6.10;s6.7" id="SL19"></link>
-	<link certainty="3.98064" xtargets="s6.11 s6.12;s6.8" id="SL20"></link>
-	<link certainty="1.78421" xtargets="s6.13;s6.9" id="SL21"></link>
-	<link certainty="1.88561" xtargets="s6.14;s6.10" id="SL22"></link>
-	<link certainty="2.75929" xtargets="s6.15;s6.11" id="SL23"></link>
-	<link certainty="2.60672" xtargets="s6.16;s6.12" id="SL24"></link>
-	<link certainty="4.2959" xtargets="s6.17 s6.18;s6.13" id="SL25"></link>
-	<link certainty="3.216489" xtargets="s6.19;s6.14" id="SL26"></link>
-	<link certainty="4.778629" xtargets="s6.20 s6.21;s6.15" id="SL27"></link>
-	<link certainty="4.125" xtargets="s6.22;s6.16" id="SL28"></link>
-	<link certainty="-0.555" xtargets="s6.23;s6.17 s6.18 s6.19" id="SL29"></link>
-	<link certainty="5.511538" xtargets="s7.1;s7.1" id="SL31"></link>
-	<link certainty="7.68983" xtargets="s7.2;s7.2" id="SL32"></link>
-	<link certainty="2.48983" xtargets="s7.3;s7.3" id="SL33"></link>
 </linkGrp>

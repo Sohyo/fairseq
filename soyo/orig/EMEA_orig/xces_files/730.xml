@@ -13,19 +13,4 @@
 	<link certainty="0.775455" xtargets="s11.1;s10.1" id="SL20"></link>
 	<link certainty="0.21539" xtargets="s12.1 s12.2;s11.1" id="SL22"></link>
 	<link certainty="17.1" xtargets="s13.1;s12.1" id="SL24"></link>
-</linkGrp><?xml version="1.0" encoding="utf-8"?>
-<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/mycamine/H-734-Annex-en.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/mycamine/H-734-Annex-de.xml.gz">
-	<link certainty="0.25" xtargets="s1.1;s1.1" id="SL2"></link>
-	<link certainty="0.54934" xtargets="s2.1;s2.1" id="SL4"></link>
-	<link certainty="1.84292" xtargets="s3.1;s3.1" id="SL6"></link>
-	<link certainty="0.362247" xtargets="s4.1;s4.1" id="SL8"></link>
-	<link certainty="0.922158" xtargets="s5.1;s5.1" id="SL10"></link>
-	<link certainty="0.702941" xtargets="s6.1;s6.1" id="SL12"></link>
-	<link certainty="0.538608" xtargets="s7.1;s7.1" id="SL14"></link>
-	<link certainty="0.122685" xtargets="s8.1 s8.2;s8.1" id="SL16"></link>
-	<link certainty="0.833766" xtargets="s9.1;s9.1" id="SL18"></link>
-	<link certainty="0.475455" xtargets="s10.1;" id="SL19"></link>
-	<link certainty="0.775455" xtargets="s11.1;s10.1" id="SL20"></link>
-	<link certainty="0.21539" xtargets="s12.1 s12.2;s11.1" id="SL22"></link>
-	<link certainty="17.1" xtargets="s13.1;s12.1" id="SL24"></link>
 </linkGrp>

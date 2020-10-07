@@ -29,35 +29,4 @@
 	<link certainty="1.47531" xtargets="s28.1;s22.1" id="SL45"></link>
 	<link certainty="2.94648" xtargets="s29.1;s23.1" id="SL47"></link>
 	<link certainty="6.6" xtargets="s30.1;s24.1" id="SL49"></link>
-</linkGrp><?xml version="1.0" encoding="utf-8"?>
-<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/januvia/H-722-en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/januvia/H-722-de2.xml.gz">
-	<link certainty="0.266667" xtargets="s1.1;s1.1" id="SL2"></link>
-	<link certainty="0.115385" xtargets="s2.1;s2.1" id="SL4"></link>
-	<link certainty="-0.035294" xtargets="s3.1;" id="SL5"></link>
-	<link certainty="0.264706" xtargets="s4.1;s3.1" id="SL6"></link>
-	<link certainty="-0.3" xtargets="s5.1;" id="SL8"></link>
-	<link certainty="-0.1125" xtargets="s6.1 s7.1;s4.1" id="SL9"></link>
-	<link certainty="0.3" xtargets="s8.1;s5.1" id="SL11"></link>
-	<link certainty="0.24" xtargets="s9.1;s6.1" id="SL13"></link>
-	<link certainty="0.3" xtargets="s10.1;s7.1" id="SL15"></link>
-	<link certainty="4.56092" xtargets="s11.1;" id="SL16"></link>
-	<link certainty="4.86092" xtargets="s12.1;s8.1" id="SL17"></link>
-	<link certainty="2.7575" xtargets="s13.1;s9.1" id="SL19"></link>
-	<link certainty="1.47531" xtargets="s14.1;s10.1" id="SL21"></link>
-	<link certainty="3.19286" xtargets="s15.1;s11.1" id="SL23"></link>
-	<link certainty="6.3" xtargets="s16.1;s12.1" id="SL25"></link>
-	<link certainty="0.3" xtargets="s17.1;s13.1" id="SL27"></link>
-	<link certainty="4.57292" xtargets="s18.1;" id="SL28"></link>
-	<link certainty="4.87292" xtargets="s19.1;s14.1" id="SL29"></link>
-	<link certainty="2.7575" xtargets="s20.1;s15.1" id="SL31"></link>
-	<link certainty="1.47531" xtargets="s21.1;s16.1" id="SL33"></link>
-	<link certainty="2.94648" xtargets="s22.1;s17.1" id="SL35"></link>
-	<link certainty="6.3" xtargets="s23.1;s18.1" id="SL37"></link>
-	<link certainty="0.3" xtargets="s24.1;s19.1" id="SL39"></link>
-	<link certainty="4.67047" xtargets="s25.1;" id="SL40"></link>
-	<link certainty="4.97047" xtargets="s26.1;s20.1" id="SL41"></link>
-	<link certainty="2.7575" xtargets="s27.1;s21.1" id="SL43"></link>
-	<link certainty="1.47531" xtargets="s28.1;s22.1" id="SL45"></link>
-	<link certainty="2.94648" xtargets="s29.1;s23.1" id="SL47"></link>
-	<link certainty="6.6" xtargets="s30.1;s24.1" id="SL49"></link>
 </linkGrp>

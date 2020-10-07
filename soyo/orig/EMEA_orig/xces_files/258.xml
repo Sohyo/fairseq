@@ -9,15 +9,4 @@
 	<link certainty="0.109091" xtargets="s12.1;s5.1" id="SL10"></link>
 	<link certainty="1.45714" xtargets="s13.1;s6.1" id="SL12"></link>
 	<link certainty="4.47546" xtargets="s14.1;s7.1" id="SL14"></link>
-</linkGrp><?xml version="1.0" encoding="utf-8"?>
-<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/cyanokit/H-806-en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/cyanokit/H-806-de2.xml.gz">
-	<link certainty="0.272727" xtargets="s1.1;" id="SL1"></link>
-	<link certainty="0.272727" xtargets="s2.1;s1.1" id="SL2"></link>
-	<link certainty="-0.4" xtargets="s3.1 s4.1 s5.1 s6.1 s7.1 s8.1;" id="SL3"></link>
-	<link certainty="1.4" xtargets="s9.1;s2.1" id="SL4"></link>
-	<link certainty="0.82" xtargets="s10.1;s3.1" id="SL6"></link>
-	<link certainty="0.264286" xtargets="s11.1;s4.1" id="SL8"></link>
-	<link certainty="0.109091" xtargets="s12.1;s5.1" id="SL10"></link>
-	<link certainty="1.45714" xtargets="s13.1;s6.1" id="SL12"></link>
-	<link certainty="4.47546" xtargets="s14.1;s7.1" id="SL14"></link>
 </linkGrp>

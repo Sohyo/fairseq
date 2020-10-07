@@ -26,32 +26,4 @@
 	<link certainty="1.2" xtargets="s20.1;s22.1" id="SL42"></link>
 	<link certainty="12.3" xtargets="s21.1;s23.1" id="SL44"></link>
 	<link certainty="11.0429" xtargets="s22.1;s24.1" id="SL46"></link>
-</linkGrp><?xml version="1.0" encoding="utf-8"?>
-<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/Optison/024598en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/Optison/024598de2.xml.gz">
-	<link certainty="0.3" xtargets="s1.1;s1.1" id="SL2"></link>
-	<link certainty="0.115385" xtargets="s2.1;s2.1" id="SL4"></link>
-	<link certainty="0.2625" xtargets="s3.1;s3.1" id="SL6"></link>
-	<link certainty="-0.136364" xtargets=";s4.1" id="SL7"></link>
-	<link certainty="0.163636" xtargets="s4.1;s5.1" id="SL8"></link>
-	<link certainty="0.27" xtargets="s5.1;s6.1" id="SL10"></link>
-	<link certainty="-0.2076923" xtargets=";s7.1" id="SL11"></link>
-	<link certainty="0.0923077" xtargets="s6.1;s8.1" id="SL12"></link>
-	<link certainty="0.3" xtargets="s7.1;s9.1" id="SL14"></link>
-	<link certainty="1.8" xtargets="s8.1;s10.1" id="SL16"></link>
-	<link certainty="2.16671" xtargets="s9.1;s11.1" id="SL18"></link>
-	<link certainty="1.11671" xtargets="s9.2 s9.3;s11.2" id="SL19"></link>
-	<link certainty="0.271429" xtargets="s10.1;s12.1" id="SL21"></link>
-	<link certainty="0.16" xtargets="s11.1;s13.1" id="SL23"></link>
-	<link certainty="1.2" xtargets="s12.1;s14.1" id="SL25"></link>
-	<link certainty="12.3" xtargets="s13.1;s15.1" id="SL27"></link>
-	<link certainty="10.65" xtargets="s14.1;s16.1" id="SL29"></link>
-	<link certainty="0.3" xtargets="s15.1;s17.1" id="SL31"></link>
-	<link certainty="1.8" xtargets="s16.1;s18.1" id="SL33"></link>
-	<link certainty="1.285549" xtargets="s17.1;s19.1" id="SL35"></link>
-	<link certainty="0.235549" xtargets="s17.2 s17.3;s19.2" id="SL36"></link>
-	<link certainty="0.271429" xtargets="s18.1;s20.1" id="SL38"></link>
-	<link certainty="0.16" xtargets="s19.1;s21.1" id="SL40"></link>
-	<link certainty="1.2" xtargets="s20.1;s22.1" id="SL42"></link>
-	<link certainty="12.3" xtargets="s21.1;s23.1" id="SL44"></link>
-	<link certainty="11.0429" xtargets="s22.1;s24.1" id="SL46"></link>
 </linkGrp>

@@ -21,5 +21,3 @@ def arr2txt(arr, file_name):
         for line in arr:
             txt_file.write("".join(line) + "\n")
 
-
-# 

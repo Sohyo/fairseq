@@ -24,30 +24,4 @@
 	<link certainty="5.511538" xtargets="s11.1;s13.1" id="SL31"></link>
 	<link certainty="7.68645" xtargets="s11.2;s13.2" id="SL32"></link>
 	<link certainty="2.48645" xtargets="s11.3;s13.3" id="SL33"></link>
-</linkGrp><?xml version="1.0" encoding="utf-8"?>
-<linkGrp targType="s" toDoc="en/pdfs/human/referral/Lansoprazol_CT/Background_info_Lansoprazol_CT-Arzneimittel_-_en.xml.gz" fromDoc="de/pdfs/human/referral/Lansoprazol_CT/Background_info_Lansoprazol_CT-Arzneimittel_-_de.xml.gz">
-	<link certainty="3" xtargets="s1.1;s1.1" id="SL2"></link>
-	<link certainty="0.366667" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
-	<link certainty="1.50463" xtargets="s3.1;s3.1" id="SL6"></link>
-	<link certainty="1.89287" xtargets="s4.1;s4.1" id="SL8"></link>
-	<link certainty="0.275" xtargets="s4.2;s4.2" id="SL9"></link>
-	<link certainty="0.286364" xtargets="s5.1;s5.1" id="SL11"></link>
-	<link certainty="0.920683" xtargets="s6.1;s6.1" id="SL13"></link>
-	<link certainty="6.787008" xtargets="s7.1 s7.2;s7.1" id="SL15"></link>
-	<link certainty="6.345714" xtargets="s7.3;s7.2" id="SL16"></link>
-	<link certainty="-0.00428600000000001" xtargets="s7.4;s7.3" id="SL17"></link>
-	<link certainty="2.836181" xtargets="s7.5 s7.6;s7.4" id="SL18"></link>
-	<link certainty="2.748" xtargets="s7.7 s7.8;s7.5" id="SL19"></link>
-	<link certainty="1.25978" xtargets="s8.1;s8.1" id="SL21"></link>
-	<link certainty="0.965522" xtargets="s8.2;s8.2" id="SL22"></link>
-	<link certainty="3.29559" xtargets="s9.1 s9.2;s9.1" id="SL24"></link>
-	<link certainty="4.00104" xtargets="s9.3;s9.2" id="SL25"></link>
-	<link certainty="2.97759" xtargets="s9.4;s9.3" id="SL26"></link>
-	<link certainty="4.12124" xtargets="s9.5;s10.1" id="SL27"></link>
-	<link certainty="1.78708" xtargets="s10.1 s10.2;s10.2" id="SL28"></link>
-	<link certainty="-0.035714" xtargets="s10.3;s11.1" id="SL29"></link>
-	<link certainty="0.011538" xtargets=";s11.2 s12.1" id="SL30"></link>
-	<link certainty="5.511538" xtargets="s11.1;s13.1" id="SL31"></link>
-	<link certainty="7.68645" xtargets="s11.2;s13.2" id="SL32"></link>
-	<link certainty="2.48645" xtargets="s11.3;s13.3" id="SL33"></link>
 </linkGrp>

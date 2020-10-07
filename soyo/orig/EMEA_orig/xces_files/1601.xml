@@ -21,27 +21,4 @@
 	<link certainty="1.85956" xtargets="s14.5 s14.6;s8.8" id="SL27"></link>
 	<link certainty="8.63902" xtargets="s15.1;s9.1" id="SL29"></link>
 	<link certainty="4.03902" xtargets="s15.2;s9.2" id="SL30"></link>
-</linkGrp><?xml version="1.0" encoding="utf-8"?>
-<linkGrp targType="s" toDoc="en/pdfs/human/referral/roaccutane/284603en1.xml.gz" fromDoc="de/pdfs/human/referral/roaccutane/284603de1.xml.gz">
-	<link certainty="3.12353" xtargets="s1.1;s1.1" id="SL2"></link>
-	<link certainty="0.6" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
-	<link certainty="2.02162" xtargets="s3.1;s3.1" id="SL6"></link>
-	<link certainty="1.0875" xtargets="s4.1;s4.1" id="SL8"></link>
-	<link certainty="3.72429" xtargets="s5.1;s5.1" id="SL10"></link>
-	<link certainty="1.8" xtargets="s5.2;s5.2" id="SL11"></link>
-	<link certainty="0.286364" xtargets="s6.1;s6.1" id="SL13"></link>
-	<link certainty="1.367938" xtargets="s7.1;s7.1" id="SL15"></link>
-	<link certainty="0.855924" xtargets="s7.2;s7.2" id="SL16"></link>
-	<link certainty="1.339319" xtargets="s7.3;s7.3" id="SL17"></link>
-	<link certainty="0.777273" xtargets="s7.4;s7.4" id="SL18"></link>
-	<link certainty="1.517451" xtargets="s8.1 s8.2;s8.1" id="SL20"></link>
-	<link certainty="3.44868" xtargets="s8.3;s8.2" id="SL21"></link>
-	<link certainty="3.93948" xtargets="s8.4 s8.5;s8.3" id="SL22"></link>
-	<link certainty="1.39321" xtargets="s8.6;s8.4" id="SL23"></link>
-	<link certainty="3.084183" xtargets="s8.7 s9.1 s10.1 s11.1 s12.1 s13.1 s14.1;s8.5" id="SL24"></link>
-	<link certainty="4.098133" xtargets="s14.2;s8.6" id="SL25"></link>
-	<link certainty="2.039863" xtargets="s14.3 s14.4;s8.7" id="SL26"></link>
-	<link certainty="1.85956" xtargets="s14.5 s14.6;s8.8" id="SL27"></link>
-	<link certainty="8.63902" xtargets="s15.1;s9.1" id="SL29"></link>
-	<link certainty="4.03902" xtargets="s15.2;s9.2" id="SL30"></link>
 </linkGrp>

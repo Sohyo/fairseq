@@ -8,14 +8,4 @@
 	<link certainty="0.162" xtargets="s12.1;s5.1" id="SL10"></link>
 	<link certainty="2.38588" xtargets="s13.1;s6.1" id="SL12"></link>
 	<link certainty="5.24667" xtargets="s14.1;s7.1" id="SL14"></link>
-</linkGrp><?xml version="1.0" encoding="utf-8"?>
-<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/volibris/H-839-en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/volibris/H-839-de2.xml.gz">
-	<link certainty="-0.3" xtargets="s1.1 s2.1 s3.1 s4.1 s5.1 s6.1;" id="SL1"></link>
-	<link certainty="-0.039344" xtargets="s7.1 s8.1;s1.1" id="SL2"></link>
-	<link certainty="2.59091" xtargets="s9.1;s2.1" id="SL4"></link>
-	<link certainty="6.14" xtargets="s10.1;s3.1" id="SL6"></link>
-	<link certainty="0.107547" xtargets="s11.1;s4.1" id="SL8"></link>
-	<link certainty="0.162" xtargets="s12.1;s5.1" id="SL10"></link>
-	<link certainty="2.38588" xtargets="s13.1;s6.1" id="SL12"></link>
-	<link certainty="5.24667" xtargets="s14.1;s7.1" id="SL14"></link>
 </linkGrp>

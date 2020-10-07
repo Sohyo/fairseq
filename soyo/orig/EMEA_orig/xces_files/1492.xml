@@ -27,33 +27,4 @@
 	<link certainty="9.05552" xtargets="s10.9;s12.2" id="SL33"></link>
 	<link certainty="6.85552" xtargets="s10.10;s12.3" id="SL34"></link>
 	<link certainty="2.4" xtargets="s10.11;s12.4" id="SL35"></link>
-</linkGrp><?xml version="1.0" encoding="utf-8"?>
-<linkGrp targType="s" toDoc="en/pdfs/human/referral/Ciprofloxacin_Nycomed/ciprofloxacin_nycomed_bi_en.xml.gz" fromDoc="de/pdfs/human/referral/Ciprofloxacin_Nycomed/ciprofloxacin_nycomed_bi_de.xml.gz">
-	<link certainty="3" xtargets="s1.1;s1.1" id="SL2"></link>
-	<link certainty="0.477273" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
-	<link certainty="1.50463" xtargets="s3.1;s3.1" id="SL6"></link>
-	<link certainty="2.93697" xtargets="s4.1;s4.1" id="SL8"></link>
-	<link certainty="1.8" xtargets="s4.2;s4.2" id="SL9"></link>
-	<link certainty="1.34768" xtargets="s5.1;" id="SL10"></link>
-	<link certainty="1.64768" xtargets="s6.1;s5.1" id="SL11"></link>
-	<link certainty="4.888" xtargets="s7.1 s7.2;s6.1" id="SL13"></link>
-	<link certainty="4.145942" xtargets="s7.3;s6.2" id="SL14"></link>
-	<link certainty="0.542163" xtargets="s7.4 s7.5;s6.3" id="SL15"></link>
-	<link certainty="0.486064" xtargets="s7.6;s6.4" id="SL16"></link>
-	<link certainty="0.207493" xtargets="s7.7 s7.8;s6.5" id="SL17"></link>
-	<link certainty="1.0346438" xtargets="s8.1;s7.1 s7.2" id="SL19"></link>
-	<link certainty="2.050775" xtargets="s8.2;s7.3" id="SL20"></link>
-	<link certainty="0.987805" xtargets="s8.3;s7.4" id="SL21"></link>
-	<link certainty="0.285613" xtargets="s9.1 s9.2;s8.1" id="SL23"></link>
-	<link certainty="2.484314" xtargets="s9.3 s9.4 s9.5;s8.2" id="SL24"></link>
-	<link certainty="2.35" xtargets="s9.6 s9.7;s8.3" id="SL25"></link>
-	<link certainty="7.237669" xtargets="s10.1 s10.2;s9.1" id="SL27"></link>
-	<link certainty="6.55" xtargets="s10.3;s9.2" id="SL28"></link>
-	<link certainty="0.186008" xtargets="s10.4;s9.3 s10.1" id="SL29"></link>
-	<link certainty="0.264008" xtargets="s10.5 s10.6;s10.2" id="SL30"></link>
-	<link certainty="0.497727" xtargets="s10.7;s11.1" id="SL31"></link>
-	<link certainty="5.3199" xtargets="s10.8;s12.1" id="SL32"></link>
-	<link certainty="9.05552" xtargets="s10.9;s12.2" id="SL33"></link>
-	<link certainty="6.85552" xtargets="s10.10;s12.3" id="SL34"></link>
-	<link certainty="2.4" xtargets="s10.11;s12.4" id="SL35"></link>
 </linkGrp>

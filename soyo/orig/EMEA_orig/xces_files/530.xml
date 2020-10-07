@@ -11,17 +11,4 @@
 	<link certainty="11.1125" xtargets="s10.1;s7.1" id="SL12"></link>
 	<link certainty="-0.3" xtargets="s11.1;" id="SL14"></link>
 	<link certainty="-0.6" xtargets="s12.1 s13.1 s14.1 s15.1 s16.1;s8.1" id="SL15"></link>
-</linkGrp><?xml version="1.0" encoding="utf-8"?>
-<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/inomax/118601en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/inomax/118601de2.xml.gz">
-	<link certainty="0.234375" xtargets="s1.1 s2.1;" id="SL1"></link>
-	<link certainty="0.234375" xtargets="s3.1;s1.1" id="SL2"></link>
-	<link certainty="-0.6" xtargets="s4.1;" id="SL3"></link>
-	<link certainty="0.95909" xtargets="s5.1 s6.1;s2.1" id="SL4"></link>
-	<link certainty="1.4" xtargets="s7.1;s3.1" id="SL6"></link>
-	<link certainty="0.15" xtargets="s8.1;s4.1" id="SL8"></link>
-	<link certainty="0.79565" xtargets=";s5.1" id="SL9"></link>
-	<link certainty="1.09565" xtargets="s9.1;s6.1" id="SL10"></link>
-	<link certainty="11.1125" xtargets="s10.1;s7.1" id="SL12"></link>
-	<link certainty="-0.3" xtargets="s11.1;" id="SL14"></link>
-	<link certainty="-0.6" xtargets="s12.1 s13.1 s14.1 s15.1 s16.1;s8.1" id="SL15"></link>
 </linkGrp>

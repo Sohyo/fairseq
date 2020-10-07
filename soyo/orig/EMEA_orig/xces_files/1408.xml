@@ -9,15 +9,4 @@
 	<link certainty="3.16029" xtargets="s11.1;s6.1" id="SL12"></link>
 	<link certainty="4.2395" xtargets="s12.1;s7.1" id="SL14"></link>
 	<link certainty="0.6" xtargets="s13.1;s8.1" id="SL16"></link>
-</linkGrp><?xml version="1.0" encoding="utf-8"?>
-<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/zonegran/5651905en2.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/zonegran/5651905de2.xml.gz">
-	<link certainty="-0.6" xtargets="s1.1;s1.1" id="SL2"></link>
-	<link certainty="-1.4025641" xtargets="s2.1 s3.1 s4.1 s5.1 s6.1;" id="SL3"></link>
-	<link certainty="0.0974359" xtargets="s7.1;s2.1" id="SL4"></link>
-	<link certainty="3.72078" xtargets="s8.1;s3.1" id="SL6"></link>
-	<link certainty="2.98495" xtargets="s9.1;s4.1" id="SL8"></link>
-	<link certainty="1.62763" xtargets="s10.1;s5.1" id="SL10"></link>
-	<link certainty="3.16029" xtargets="s11.1;s6.1" id="SL12"></link>
-	<link certainty="4.2395" xtargets="s12.1;s7.1" id="SL14"></link>
-	<link certainty="0.6" xtargets="s13.1;s8.1" id="SL16"></link>
 </linkGrp>

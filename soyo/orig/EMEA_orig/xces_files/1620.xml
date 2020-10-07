@@ -22,28 +22,4 @@
 	<link certainty="0.29434" xtargets="s15.1;s15.1" id="SL35"></link>
 	<link certainty="6.05" xtargets="s15.2 s15.3;s16.1" id="SL36"></link>
 	<link certainty="4.05" xtargets="s15.4;s16.2" id="SL37"></link>
-</linkGrp><?xml version="1.0" encoding="utf-8"?>
-<linkGrp targType="s" toDoc="en/pdfs/human/referral/stamaril/STAMARIL-Backgroundsummary-en.xml.gz" fromDoc="de/pdfs/human/referral/stamaril/STAMARIL-Backgroundsummary-de.xml.gz">
-	<link certainty="2.55" xtargets="s1.1;s1.1" id="SL2"></link>
-	<link certainty="0.405" xtargets="s2.1 s2.2;s2.1" id="SL4"></link>
-	<link certainty="1.50463" xtargets="s3.1;s3.1" id="SL6"></link>
-	<link certainty="2.10862" xtargets="s4.1;s4.1" id="SL8"></link>
-	<link certainty="1.37368" xtargets="s5.1;s5.1" id="SL10"></link>
-	<link certainty="2.156548" xtargets="s6.1;s6.1" id="SL12"></link>
-	<link certainty="0.232258" xtargets="s6.2;s6.2" id="SL13"></link>
-	<link certainty="0.286364" xtargets="s7.1;s7.1" id="SL15"></link>
-	<link certainty="1.090103" xtargets="s8.1;s8.1" id="SL17"></link>
-	<link certainty="0.480579" xtargets="s8.2;s8.2" id="SL18"></link>
-	<link certainty="0.818703" xtargets="s9.1;s9.1" id="SL20"></link>
-	<link certainty="0.355937" xtargets="s9.2 s9.3;s9.2" id="SL21"></link>
-	<link certainty="2.741704" xtargets="s10.1 s10.2;s10.1" id="SL23"></link>
-	<link certainty="0.534564" xtargets="s10.3;s10.2" id="SL24"></link>
-	<link certainty="0.277088" xtargets="s11.1 s11.2 s11.3;s11.1" id="SL26"></link>
-	<link certainty="0.820864" xtargets="s12.1;s12.1" id="SL28"></link>
-	<link certainty="0.270012" xtargets="s13.1 s13.2;s13.1" id="SL30"></link>
-	<link certainty="1.396769" xtargets="s14.1;s14.1" id="SL32"></link>
-	<link certainty="0.807407" xtargets="s14.2;s14.2" id="SL33"></link>
-	<link certainty="0.29434" xtargets="s15.1;s15.1" id="SL35"></link>
-	<link certainty="6.05" xtargets="s15.2 s15.3;s16.1" id="SL36"></link>
-	<link certainty="4.05" xtargets="s15.4;s16.2" id="SL37"></link>
 </linkGrp>

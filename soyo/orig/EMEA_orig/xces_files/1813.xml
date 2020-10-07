@@ -20,26 +20,4 @@
 	<link certainty="1.3" xtargets="s13.3;s16.3" id="SL29"></link>
 	<link certainty="7.17692" xtargets="s14.1;s17.1" id="SL31"></link>
 	<link certainty="0.557143" xtargets="s15.1;s18.1" id="SL33"></link>
-</linkGrp><?xml version="1.0" encoding="utf-8"?>
-<linkGrp targType="s" toDoc="en/vetdocs/PDFs/EPAR/nobivacbb/091102en2.xml.gz" fromDoc="de/vetdocs/PDFs/EPAR/nobivacbb/091102de2.xml.gz">
-	<link certainty="1.3" xtargets="s1.1;s1.1" id="SL2"></link>
-	<link certainty="0.161538" xtargets="s2.1;s2.1" id="SL4"></link>
-	<link certainty="-0.00967699999999999" xtargets=";s3.1" id="SL5"></link>
-	<link certainty="0.290323" xtargets="s3.1;s4.1" id="SL6"></link>
-	<link certainty="0.1875" xtargets="s4.1;s5.1" id="SL8"></link>
-	<link certainty="0.27" xtargets="s5.1;s6.1" id="SL10"></link>
-	<link certainty="0.257143" xtargets="s6.1;s7.1" id="SL12"></link>
-	<link certainty="-0.141176" xtargets=";s8.1" id="SL13"></link>
-	<link certainty="0.158824" xtargets="s7.1;s9.1" id="SL14"></link>
-	<link certainty="1.8" xtargets="s8.1;s10.1" id="SL16"></link>
-	<link certainty="1.40034" xtargets="s9.1;s11.1" id="SL18"></link>
-	<link certainty="0.0807692" xtargets="s10.1;s12.1" id="SL20"></link>
-	<link certainty="-0.6" xtargets="s11.1;s13.1" id="SL22"></link>
-	<link certainty="0.166667" xtargets="s12.1;s14.1" id="SL24"></link>
-	<link certainty="0.614732" xtargets="s12.2 s12.3;s15.1" id="SL25"></link>
-	<link certainty="8.44107" xtargets="s13.1;s16.1" id="SL27"></link>
-	<link certainty="8.62857" xtargets="s13.2;s16.2" id="SL28"></link>
-	<link certainty="1.3" xtargets="s13.3;s16.3" id="SL29"></link>
-	<link certainty="7.17692" xtargets="s14.1;s17.1" id="SL31"></link>
-	<link certainty="0.557143" xtargets="s15.1;s18.1" id="SL33"></link>
 </linkGrp>

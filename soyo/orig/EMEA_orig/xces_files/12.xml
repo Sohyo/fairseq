@@ -7,13 +7,4 @@
 	<link certainty="1.01316" xtargets="s4.1;s4.1" id="SL9"></link>
 	<link certainty="1.16608" xtargets="s5.1;s5.1" id="SL11"></link>
 	<link certainty="1.049168" xtargets="s6.1;s6.1" id="SL13"></link>
-</linkGrp><?xml version="1.0" encoding="utf-8"?>
-<linkGrp targType="s" toDoc="en/humandocs/PDFs/EPAR/aclasta/H-595-Annex-en.xml.gz" fromDoc="de/humandocs/PDFs/EPAR/aclasta/H-595-Annex-de.xml.gz">
-	<link certainty="0.25" xtargets="s1.1;s1.1" id="SL2"></link>
-	<link certainty="0.300664" xtargets="s2.1;s2.1" id="SL4"></link>
-	<link certainty="0.824048" xtargets="s3.1 s3.2;s3.1" id="SL6"></link>
-	<link certainty="0.753846" xtargets="s3.3;s3.2" id="SL7"></link>
-	<link certainty="1.01316" xtargets="s4.1;s4.1" id="SL9"></link>
-	<link certainty="1.16608" xtargets="s5.1;s5.1" id="SL11"></link>
-	<link certainty="1.049168" xtargets="s6.1;s6.1" id="SL13"></link>
 </linkGrp>
