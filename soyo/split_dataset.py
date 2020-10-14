@@ -11,14 +11,14 @@ def text2arr(text_path):
 
 
 def arr2txt(arr, file_name):
-    with open("custom_split_data/"+file_name, "w") as txt_file:
+    with open(file_name, "w") as txt_file:
         for line in arr:
             txt_file.write("".join(line) + "\n")
 
 
-# def join_arrays(source, target):
-#     join_arr = np.column_stack((source, target))
-#     return join_arr
+def join_arrays(source, target):
+    join_arr = np.column_stack((source, target))
+    return join_arr
 
 def split_arr(arr, n_train, n_valid, n_test):
     total_num = len(arr)

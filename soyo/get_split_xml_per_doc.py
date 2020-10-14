@@ -1,5 +1,3 @@
-text_path = "/home/diego/PycharmProjects/my_fairseq/soyo/orig/EMEA_orig/xmlfiles_per_doc/9"
-
 # split the xml file into 2 plain text file(source/target)
 def split_into_src_trg(text_path):
 
@@ -25,14 +23,4 @@ def split_into_src_trg(text_path):
                 target.append(trg_text)
                 src_text = ''
                 trg_text = ''
-
     return source[1:], target[1:]
-
-
-def arr2txt(arr, file_name):
-    with open("custom_data_per_doc/EMEA/"+file_name, "w") as txt_file:
-        for line in arr:
-            txt_file.write("".join(line) + "\n")
-
-# arr = text2arr(text_path)
-# print(arr)
